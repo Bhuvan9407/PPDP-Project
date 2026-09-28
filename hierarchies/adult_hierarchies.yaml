@@ -1,0 +1,870 @@
+dataset: Adult Census Income
+records_after_cleaning: 30162
+project_parameters:
+  k: 10
+  sensitive_attribute: income
+  qids:
+  - age
+  - workclass
+  - education.num
+  - marital.status
+  - occupation
+  - race
+  - sex
+  - native.country
+hierarchy_source: Operational VGH constructed for this project and used for the Adult
+  baseline.
+hierarchy_notes: Categorical parent mappings are explicit project operationalizations.
+  The source material specifies hierarchy structure/heights but does not provide every
+  categorical parent mapping.
+attributes:
+  age:
+    levels:
+    - 15-19
+    - 10-19
+    - 0-19
+    - '*'
+    mappings:
+    - value: '17'
+      generalization:
+        15-19: 15-19
+        10-19: 10-19
+        0-19: 0-19
+        '*': '*'
+    - value: '18'
+      generalization:
+        15-19: 15-19
+        10-19: 10-19
+        0-19: 0-19
+        '*': '*'
+    - value: '19'
+      generalization:
+        15-19: 15-19
+        10-19: 10-19
+        0-19: 0-19
+        '*': '*'
+    - value: '20'
+      generalization:
+        15-19: 20-24
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '21'
+      generalization:
+        15-19: 20-24
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '22'
+      generalization:
+        15-19: 20-24
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '23'
+      generalization:
+        15-19: 20-24
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '24'
+      generalization:
+        15-19: 20-24
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '25'
+      generalization:
+        15-19: 25-29
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '26'
+      generalization:
+        15-19: 25-29
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '27'
+      generalization:
+        15-19: 25-29
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '28'
+      generalization:
+        15-19: 25-29
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '29'
+      generalization:
+        15-19: 25-29
+        10-19: 20-29
+        0-19: 20-39
+        '*': '*'
+    - value: '30'
+      generalization:
+        15-19: 30-34
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '31'
+      generalization:
+        15-19: 30-34
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '32'
+      generalization:
+        15-19: 30-34
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '33'
+      generalization:
+        15-19: 30-34
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '34'
+      generalization:
+        15-19: 30-34
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '35'
+      generalization:
+        15-19: 35-39
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '36'
+      generalization:
+        15-19: 35-39
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '37'
+      generalization:
+        15-19: 35-39
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '38'
+      generalization:
+        15-19: 35-39
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '39'
+      generalization:
+        15-19: 35-39
+        10-19: 30-39
+        0-19: 20-39
+        '*': '*'
+    - value: '40'
+      generalization:
+        15-19: 40-44
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '41'
+      generalization:
+        15-19: 40-44
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '42'
+      generalization:
+        15-19: 40-44
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '43'
+      generalization:
+        15-19: 40-44
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '44'
+      generalization:
+        15-19: 40-44
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '45'
+      generalization:
+        15-19: 45-49
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '46'
+      generalization:
+        15-19: 45-49
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '47'
+      generalization:
+        15-19: 45-49
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '48'
+      generalization:
+        15-19: 45-49
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '49'
+      generalization:
+        15-19: 45-49
+        10-19: 40-49
+        0-19: 40-59
+        '*': '*'
+    - value: '50'
+      generalization:
+        15-19: 50-54
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '51'
+      generalization:
+        15-19: 50-54
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '52'
+      generalization:
+        15-19: 50-54
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '53'
+      generalization:
+        15-19: 50-54
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '54'
+      generalization:
+        15-19: 50-54
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '55'
+      generalization:
+        15-19: 55-59
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '56'
+      generalization:
+        15-19: 55-59
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '57'
+      generalization:
+        15-19: 55-59
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '58'
+      generalization:
+        15-19: 55-59
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '59'
+      generalization:
+        15-19: 55-59
+        10-19: 50-59
+        0-19: 40-59
+        '*': '*'
+    - value: '60'
+      generalization:
+        15-19: 60-64
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '61'
+      generalization:
+        15-19: 60-64
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '62'
+      generalization:
+        15-19: 60-64
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '63'
+      generalization:
+        15-19: 60-64
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '64'
+      generalization:
+        15-19: 60-64
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '65'
+      generalization:
+        15-19: 65-69
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '66'
+      generalization:
+        15-19: 65-69
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '67'
+      generalization:
+        15-19: 65-69
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '68'
+      generalization:
+        15-19: 65-69
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '69'
+      generalization:
+        15-19: 65-69
+        10-19: 60-69
+        0-19: 60-79
+        '*': '*'
+    - value: '70'
+      generalization:
+        15-19: 70-74
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '71'
+      generalization:
+        15-19: 70-74
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '72'
+      generalization:
+        15-19: 70-74
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '73'
+      generalization:
+        15-19: 70-74
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '74'
+      generalization:
+        15-19: 70-74
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '75'
+      generalization:
+        15-19: 75-79
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '76'
+      generalization:
+        15-19: 75-79
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '77'
+      generalization:
+        15-19: 75-79
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '78'
+      generalization:
+        15-19: 75-79
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '79'
+      generalization:
+        15-19: 75-79
+        10-19: 70-79
+        0-19: 60-79
+        '*': '*'
+    - value: '80'
+      generalization:
+        15-19: 80-84
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '81'
+      generalization:
+        15-19: 80-84
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '82'
+      generalization:
+        15-19: 80-84
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '83'
+      generalization:
+        15-19: 80-84
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '84'
+      generalization:
+        15-19: 80-84
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '85'
+      generalization:
+        15-19: 85-89
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '86'
+      generalization:
+        15-19: 85-89
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '88'
+      generalization:
+        15-19: 85-89
+        10-19: 80-89
+        0-19: 80-99
+        '*': '*'
+    - value: '90'
+      generalization:
+        15-19: 90-94
+        10-19: 90-99
+        0-19: 80-99
+        '*': '*'
+  workclass:
+    levels:
+    - Private.1
+    - '*'
+    mappings:
+    - value: Private
+      generalization:
+        Private.1: Private
+        '*': '*'
+    - value: State-gov
+      generalization:
+        Private.1: Government
+        '*': '*'
+    - value: Federal-gov
+      generalization:
+        Private.1: Government
+        '*': '*'
+    - value: Self-emp-not-inc
+      generalization:
+        Private.1: Self-employed
+        '*': '*'
+    - value: Self-emp-inc
+      generalization:
+        Private.1: Self-employed
+        '*': '*'
+    - value: Local-gov
+      generalization:
+        Private.1: Government
+        '*': '*'
+    - value: Without-pay
+      generalization:
+        Private.1: Other
+        '*': '*'
+  education.num:
+    levels:
+    - Basic-1-4
+    - Basic
+    - '*'
+    mappings:
+    - value: '1'
+      generalization:
+        Basic-1-4: Basic-1-4
+        Basic: Basic
+        '*': '*'
+    - value: '2'
+      generalization:
+        Basic-1-4: Basic-1-4
+        Basic: Basic
+        '*': '*'
+    - value: '3'
+      generalization:
+        Basic-1-4: Basic-1-4
+        Basic: Basic
+        '*': '*'
+    - value: '4'
+      generalization:
+        Basic-1-4: Basic-1-4
+        Basic: Basic
+        '*': '*'
+    - value: '5'
+      generalization:
+        Basic-1-4: Basic-5-8
+        Basic: Basic
+        '*': '*'
+    - value: '6'
+      generalization:
+        Basic-1-4: Basic-5-8
+        Basic: Basic
+        '*': '*'
+    - value: '7'
+      generalization:
+        Basic-1-4: Basic-5-8
+        Basic: Basic
+        '*': '*'
+    - value: '8'
+      generalization:
+        Basic-1-4: Basic-5-8
+        Basic: Basic
+        '*': '*'
+    - value: '9'
+      generalization:
+        Basic-1-4: Secondary
+        Basic: Secondary
+        '*': '*'
+    - value: '10'
+      generalization:
+        Basic-1-4: Secondary
+        Basic: Secondary
+        '*': '*'
+    - value: '11'
+      generalization:
+        Basic-1-4: Secondary
+        Basic: Secondary
+        '*': '*'
+    - value: '12'
+      generalization:
+        Basic-1-4: Secondary
+        Basic: Secondary
+        '*': '*'
+    - value: '13'
+      generalization:
+        Basic-1-4: Post-secondary
+        Basic: Post-secondary
+        '*': '*'
+    - value: '14'
+      generalization:
+        Basic-1-4: Post-secondary
+        Basic: Post-secondary
+        '*': '*'
+    - value: '15'
+      generalization:
+        Basic-1-4: Post-secondary
+        Basic: Post-secondary
+        '*': '*'
+    - value: '16'
+      generalization:
+        Basic-1-4: Post-secondary
+        Basic: Post-secondary
+        '*': '*'
+  marital.status:
+    levels:
+    - Widowed.1
+    - '*'
+    mappings:
+    - value: Widowed
+      generalization:
+        Widowed.1: Widowed
+        '*': '*'
+    - value: Divorced
+      generalization:
+        Widowed.1: Not-married
+        '*': '*'
+    - value: Separated
+      generalization:
+        Widowed.1: Not-married
+        '*': '*'
+    - value: Never-married
+      generalization:
+        Widowed.1: Not-married
+        '*': '*'
+    - value: Married-civ-spouse
+      generalization:
+        Widowed.1: Married
+        '*': '*'
+    - value: Married-spouse-absent
+      generalization:
+        Widowed.1: Married
+        '*': '*'
+    - value: Married-AF-spouse
+      generalization:
+        Widowed.1: Married
+        '*': '*'
+  occupation:
+    levels:
+    - Management
+    - '*'
+    mappings:
+    - value: Exec-managerial
+      generalization:
+        Management: Management
+        '*': '*'
+    - value: Machine-op-inspct
+      generalization:
+        Management: Skilled-trades
+        '*': '*'
+    - value: Prof-specialty
+      generalization:
+        Management: Professional
+        '*': '*'
+    - value: Other-service
+      generalization:
+        Management: Service
+        '*': '*'
+    - value: Adm-clerical
+      generalization:
+        Management: Office-support
+        '*': '*'
+    - value: Transport-moving
+      generalization:
+        Management: Transportation
+        '*': '*'
+    - value: Sales
+      generalization:
+        Management: Commercial
+        '*': '*'
+    - value: Craft-repair
+      generalization:
+        Management: Skilled-trades
+        '*': '*'
+    - value: Farming-fishing
+      generalization:
+        Management: Agriculture
+        '*': '*'
+    - value: Tech-support
+      generalization:
+        Management: Office-support
+        '*': '*'
+    - value: Protective-serv
+      generalization:
+        Management: Protective
+        '*': '*'
+    - value: Handlers-cleaners
+      generalization:
+        Management: Manual-service
+        '*': '*'
+    - value: Armed-Forces
+      generalization:
+        Management: Military
+        '*': '*'
+    - value: Priv-house-serv
+      generalization:
+        Management: Manual-service
+        '*': '*'
+  race:
+    levels:
+    - '*'
+    mappings:
+    - value: Amer-Indian-Eskimo
+      generalization:
+        '*': '*'
+    - value: Asian-Pac-Islander
+      generalization:
+        '*': '*'
+    - value: Black
+      generalization:
+        '*': '*'
+    - value: Other
+      generalization:
+        '*': '*'
+    - value: White
+      generalization:
+        '*': '*'
+  sex:
+    levels:
+    - '*'
+    mappings:
+    - value: Female
+      generalization:
+        '*': '*'
+    - value: Male
+      generalization:
+        '*': '*'
+  native.country:
+    levels:
+    - North-America
+    - '*'
+    mappings:
+    - value: United-States
+      generalization:
+        North-America: North-America
+        '*': '*'
+    - value: Mexico
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Greece
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Vietnam
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: China
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Taiwan
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: India
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Philippines
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Trinadad&Tobago
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Canada
+      generalization:
+        North-America: North-America
+        '*': '*'
+    - value: South
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Holand-Netherlands
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Puerto-Rico
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Poland
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Iran
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: England
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Germany
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Italy
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Japan
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Hong
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Honduras
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Cuba
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Ireland
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Cambodia
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Peru
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Nicaragua
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Dominican-Republic
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Haiti
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Hungary
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Columbia
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Guatemala
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: El-Salvador
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Jamaica
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Ecuador
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: France
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Yugoslavia
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Portugal
+      generalization:
+        North-America: Europe
+        '*': '*'
+    - value: Laos
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Thailand
+      generalization:
+        North-America: Asia
+        '*': '*'
+    - value: Outlying-US(Guam-USVI-etc)
+      generalization:
+        North-America: Latin-America
+        '*': '*'
+    - value: Scotland
+      generalization:
+        North-America: Europe
+        '*': '*'

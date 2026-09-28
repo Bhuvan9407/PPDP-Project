@@ -1,0 +1,4 @@
+method,k,sensitive_attribute,qid_count,discernibility_metric,equivalence_classes,minimum_class_size,maximum_class_size,mean_class_size,dm_definition,privacy_note
+Mondrian,10,income,8,1248010,1388,10,319,21.730547550432277,sum(|E|^2) over generalized QID equivalence classes,Strict k-anonymity
+ARX,10,income,8,181474786,30,10,10921,1005.4,sum(|E|^2) over generalized QID equivalence classes,k-anonymity with explicit Adult VGH
+KC-Slice,10,income,5,84338,20910,1,24,1.442467718794835,Adapted DM over complete released sliced-QID tuples,KC-Slice bucket/HSA privacy model; not k-anonymity

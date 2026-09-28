@@ -1,0 +1,156 @@
+MILESTONE 3 — REPRODUCTION NOTE
+================================
+
+Dataset
+-------
+Adult Census Income
+
+Raw records: 32,561
+Records after removing rows containing '?': 30,162
+
+Quasi-identifiers
+-----------------
+age, workclass, education.num, marital.status, occupation, race, sex, native.country
+
+Sensitive attribute
+-------------------
+income
+
+Privacy parameter
+-----------------
+k = 10
+
+
+Hierarchy specification
+-----------------------
+A canonical Adult hierarchy specification was created at:
+
+  hierarchies/adult_hierarchies.yaml
+
+The hierarchy contains explicit mappings for:
+  age
+  workclass
+  education.num
+  marital.status
+  occupation
+  race
+  sex
+  native.country
+
+Mondrian
+--------
+Strict qiyuangong/Mondrian was used for partitioning.
+
+The final released QID values were projected onto the same
+hand-built Adult VGH used for the ARX baseline.
+
+Equivalence classes after VGH projection:
+  1388
+
+Minimum class size:
+  10
+
+Maximum class size:
+  319
+
+Discernibility Metric:
+  1,248,010
+
+
+ARX
+---
+ARX 3.9.2 was used with the explicit Adult VGH.
+
+Equivalence classes:
+  30
+
+Minimum class size:
+  10
+
+Maximum class size:
+  10921
+
+Discernibility Metric:
+  181,474,786
+
+
+KC-Slice
+--------
+KC-Slice was implemented from the source algorithm.
+
+For the 1-SA Adult baseline:
+  Sensitive attribute = income
+  HSA = <=50K
+  C = 5%
+  Internal bucket size = 15,081
+
+HSA suppression:
+  21,146 records
+  70.1081% of the dataset
+
+Because KC-Slice does not use ordinary k-anonymity as its
+privacy model, its DM is reported only as an adapted diagnostic
+over the complete released sliced-QID tuple.
+
+Adapted sliced-QID DM:
+  84,338
+
+This number must not be interpreted as proof of k-anonymity.
+
+
+Discernibility Metric definition
+--------------------------------
+For Mondrian and ARX:
+
+  DM = sum(|E|^2)
+
+where E denotes a generalized-QID equivalence class.
+
+
+Published-reference check
+-------------------------
+LeFevre, DeWitt and Ramakrishnan, "Mondrian Multidimensional
+K-Anonymity" includes an Adult-dataset comparison using the
+Discernibility Penalty in Figure 10.
+
+The source presents the Adult comparison graphically rather than
+as a table of exact numerical values in the accompanying text.
+Therefore an exact numerical equality/ballpark claim is not made
+here without extracting a precise point from the original figure.
+
+The published comparison also uses its own experimental
+configuration, so differences in QID selection, hierarchy
+definition, dataset preprocessing, and implementation details
+must be considered when comparing numerical results.
+
+
+Method gap
+----------
+The Mondrian and ARX DM values can differ substantially even
+with k=10 because their anonymization/search procedures and
+resulting equivalence-class structures are not identical.
+
+In this experiment the hierarchy specification is controlled,
+but the upstream Mondrian implementation does not directly
+consume the external VGH during partition selection. Its final
+partitions are therefore expressed through the shared VGH before
+the released DM is calculated.
+
+KC-Slice is not directly comparable to Mondrian/ARX under the
+same DM interpretation because its privacy mechanism is based on
+bucket formation, HSA frequency thresholds, suppression, SIDs,
+and slicing rather than ordinary k-anonymity.
+
+
+Final baseline table
+--------------------
+  method  k sensitive_attribute  discernibility_metric
+Mondrian 10              income                1248010
+     ARX 10              income              181474786
+KC-Slice 10              income                  84338
+
+
+Milestone status
+----------------
+Adult 1-SA baseline reproduction and the requested
+three-method baseline results table have been generated.
