@@ -1,0 +1,29 @@
+MILESTONE 3 SOURCE MANIFEST
+===========================
+
+Notebook:
+  notebooks/KC_Slicing_Project_Milestone3.ipynb
+
+KC-Slice implementation:
+  methods/kc_slice/algorithm.py
+  Source execution cells: 33-38
+  Lines exported: 2746
+
+KC-Slice evaluation:
+  methods/kc_slice/evaluate.py
+  Source execution cells: 39, 43
+  Lines exported: 1900
+
+Mondrian / ARX / baseline reproduction:
+  scripts/run_milestone3_baselines.py
+  Source execution cells:
+    24-29
+    42
+    47
+    49
+  Lines exported: 4034
+
+Important:
+  These files are source extracts from the executed notebook.
+  The notebook remains the authoritative chronological record
+  of the Milestone 3 execution.
