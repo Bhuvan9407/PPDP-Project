@@ -1,0 +1,9 @@
+adult:
+  path: data/raw/adult.csv
+  smoke_path: data/smoke/adult_small.csv
+  expected_rows: 32561
+
+diabetes:
+  path: data/raw/diabetic_data.csv
+  smoke_path: data/smoke/diabetes_small.csv
+  expected_rows: 101766

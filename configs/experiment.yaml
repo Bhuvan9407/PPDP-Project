@@ -1,0 +1,19 @@
+# Milestone 2 records the experiment configuration baseline.
+# No anonymization runs are performed in this milestone.
+
+k: 10
+
+seeds:
+  - 1
+  - 2
+  - 3
+
+sensitive_attribute_counts:
+  - 1
+  - 2
+  - 3
+
+methods:
+  - mondrian
+  - arx
+  - kc_slice

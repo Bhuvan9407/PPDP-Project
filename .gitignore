@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.class
+.ipynb_checkpoints/
+
+# Large/raw datasets
+data/raw/*.csv
+data/raw/*.zip
+data/smoke/*.csv
+data/processed/*
+
+# Binary dependencies
+methods/arx/*.jar
+
+# Runtime-generated upstream checkout
+methods/mondrian/upstream/
