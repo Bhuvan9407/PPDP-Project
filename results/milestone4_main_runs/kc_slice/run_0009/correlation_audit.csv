@@ -1,0 +1,57 @@
+bucket_id,bucket,qid_a,qid_b,measure,association,threshold,correlated
+0,1,age,workclass,Eta,0.22259122237812232,0.4,False
+0,1,age,education.num,Spearman,0.06770880129052748,0.4,False
+0,1,age,marital.status,Eta,0.5521597863029086,0.4,True
+0,1,age,occupation,Eta,0.1952281592897163,0.4,False
+0,1,age,race,Eta,0.036386837951855294,0.4,False
+0,1,age,sex,Eta,0.0787859970768167,0.4,False
+0,1,age,native.country,Eta,0.09859947371639331,0.4,False
+0,1,workclass,education.num,Eta,0.19403068299231818,0.4,False
+0,1,workclass,marital.status,Cramer's V,0.08138172339863789,0.4,False
+0,1,workclass,occupation,Cramer's V,0.21819979651404187,0.4,False
+0,1,workclass,race,Cramer's V,0.05949984293926198,0.4,False
+0,1,workclass,sex,Cramer's V,0.14654309831851087,0.4,False
+0,1,workclass,native.country,Cramer's V,0.05638228015848524,0.4,False
+0,1,education.num,marital.status,Eta,0.10881031374330204,0.4,False
+0,1,education.num,occupation,Eta,0.5701563386503443,0.4,True
+0,1,education.num,race,Eta,0.10857103154461649,0.4,False
+0,1,education.num,sex,Eta,0.0021701743762362322,0.4,False
+0,1,education.num,native.country,Eta,0.2836233770577128,0.4,False
+0,1,marital.status,occupation,Cramer's V,0.13266241368769244,0.4,False
+0,1,marital.status,race,Cramer's V,0.08386316390125824,0.4,False
+0,1,marital.status,sex,Cramer's V,0.46969853843247195,0.4,True
+0,1,marital.status,native.country,Cramer's V,0.08798466608894487,0.4,False
+0,1,occupation,race,Cramer's V,0.0841979287778117,0.4,False
+0,1,occupation,sex,Cramer's V,0.4277520263929971,0.4,True
+0,1,occupation,native.country,Cramer's V,0.08575721393640995,0.4,False
+0,1,race,sex,Cramer's V,0.11042687078987766,0.4,False
+0,1,race,native.country,Cramer's V,0.4306936196845833,0.4,True
+0,1,sex,native.country,Cramer's V,0.07594784237265986,0.4,False
+1,2,age,workclass,Eta,0.22345035294266144,0.4,False
+1,2,age,education.num,Spearman,0.0704120104722965,0.4,False
+1,2,age,marital.status,Eta,0.5666926490887346,0.4,True
+1,2,age,occupation,Eta,0.20504162984333135,0.4,False
+1,2,age,race,Eta,0.040510250444215676,0.4,False
+1,2,age,sex,Eta,0.07941397076488421,0.4,False
+1,2,age,native.country,Eta,0.09838152123284866,0.4,False
+1,2,workclass,education.num,Eta,0.18325644824528442,0.4,False
+1,2,workclass,marital.status,Cramer's V,0.07636395552826525,0.4,False
+1,2,workclass,occupation,Cramer's V,0.21295102564034077,0.4,False
+1,2,workclass,race,Cramer's V,0.05816892508021228,0.4,False
+1,2,workclass,sex,Cramer's V,0.14974479382155698,0.4,False
+1,2,workclass,native.country,Cramer's V,0.06821812160898913,0.4,False
+1,2,education.num,marital.status,Eta,0.11886430746064802,0.4,False
+1,2,education.num,occupation,Eta,0.5741221043436028,0.4,True
+1,2,education.num,race,Eta,0.1118880540303962,0.4,False
+1,2,education.num,sex,Eta,0.004521296700392603,0.4,False
+1,2,education.num,native.country,Eta,0.28613873989499206,0.4,False
+1,2,marital.status,occupation,Cramer's V,0.13633102287599352,0.4,False
+1,2,marital.status,race,Cramer's V,0.0923264900210707,0.4,False
+1,2,marital.status,sex,Cramer's V,0.4611443599867689,0.4,True
+1,2,marital.status,native.country,Cramer's V,0.09197177872174549,0.4,False
+1,2,occupation,race,Cramer's V,0.08845423516141283,0.4,False
+1,2,occupation,sex,Cramer's V,0.4394092279853174,0.4,True
+1,2,occupation,native.country,Cramer's V,0.09064264519106324,0.4,False
+1,2,race,sex,Cramer's V,0.1266424193370751,0.4,False
+1,2,race,native.country,Cramer's V,0.42908699722942933,0.4,True
+1,2,sex,native.country,Cramer's V,0.08982744316473679,0.4,False

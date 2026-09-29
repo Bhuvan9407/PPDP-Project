@@ -1,0 +1,3 @@
+bucket,bucket_id,SID,SA,cell,cell_record_count
+1,0,011,income,">50K(3003), <=50K(603), #####(8459)",12065
+2,1,021,income,">50K(3003), <=50K(603), #####(8458)",12064
