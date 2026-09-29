@@ -1,0 +1,3 @@
+bucket_id,bucket,attribute,hsa,bucket_size,before_count,before_percent,allowed_count,suppressed_count,after_count,after_percent
+0,1,income,<=50K,12065,9062,75.10982179859097,603,8459,603,4.997927890592623
+1,2,income,<=50K,12064,9061,75.10775862068965,603,8458,603,4.998342175066313
