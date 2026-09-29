@@ -1,0 +1,27 @@
+{
+  "run_id": 35,
+  "dataset": "Diabetes",
+  "method": "KC-Slice",
+  "seed": 2,
+  "project_k_reference": 10,
+  "privacy_c": 5.0,
+  "correlation_threshold": 0.4,
+  "sensitive_attributes": [
+    "diag_1"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "numeric_qids": [],
+  "training_rows": 78442,
+  "bucketed_rows": 78442,
+  "privacy_checks": 691,
+  "sensitive_cells": 691,
+  "sid_links": 78442,
+  "correlation_records": 2073,
+  "qid_grouping_records": 2020,
+  "bqa_rows": 78442,
+  "permutation_records": 2020
+}
