@@ -1,0 +1,721 @@
+bucket_id,bucket,qid_a,qid_b,measure,association,threshold,correlated
+0,1,age,workclass,Eta,0.24240482999723978,0.4,False
+0,1,age,education.num,Spearman,0.1217260320937176,0.4,False
+0,1,age,marital.status,Eta,0.5695541282112284,0.4,True
+0,1,age,occupation,Eta,0.2848775010903518,0.4,False
+0,1,age,sex,Eta,0.09648033134698804,0.4,False
+0,1,workclass,education.num,Eta,0.19207277015330382,0.4,False
+0,1,workclass,marital.status,Cramer's V,0.1682056498721962,0.4,False
+0,1,workclass,occupation,Cramer's V,0.27186483623138347,0.4,False
+0,1,workclass,sex,Cramer's V,0.1408597692930558,0.4,False
+0,1,education.num,marital.status,Eta,0.21145370569329575,0.4,False
+0,1,education.num,occupation,Eta,0.5732534777697982,0.4,True
+0,1,education.num,sex,Eta,0.015057633863165821,0.4,False
+0,1,marital.status,occupation,Cramer's V,0.2073986749415932,0.4,False
+0,1,marital.status,sex,Cramer's V,0.4521132622341821,0.4,True
+0,1,occupation,sex,Cramer's V,0.4468945890305613,0.4,True
+1,2,age,workclass,Eta,0.28077336486901566,0.4,False
+1,2,age,education.num,Spearman,0.013379399290110791,0.4,False
+1,2,age,marital.status,Eta,0.5518859891759963,0.4,True
+1,2,age,occupation,Eta,0.2064297683963033,0.4,False
+1,2,age,sex,Eta,0.0689379476133823,0.4,False
+1,2,workclass,education.num,Eta,0.18770061783778658,0.4,False
+1,2,workclass,marital.status,Cramer's V,0.14314221071066333,0.4,False
+1,2,workclass,occupation,Cramer's V,0.24296645804427922,0.4,False
+1,2,workclass,sex,Cramer's V,0.1646787241636765,0.4,False
+1,2,education.num,marital.status,Eta,0.11994015421085615,0.4,False
+1,2,education.num,occupation,Eta,0.6209083234699942,0.4,True
+1,2,education.num,sex,Eta,0.12590258306367907,0.4,False
+1,2,marital.status,occupation,Cramer's V,0.20844783268999761,0.4,False
+1,2,marital.status,sex,Cramer's V,0.46331866888583395,0.4,True
+1,2,occupation,sex,Cramer's V,0.4624786707140343,0.4,True
+2,3,age,workclass,Eta,0.22426633855824787,0.4,False
+2,3,age,education.num,Spearman,0.11383489755547511,0.4,False
+2,3,age,marital.status,Eta,0.5994676925568957,0.4,True
+2,3,age,occupation,Eta,0.259209573748672,0.4,False
+2,3,age,sex,Eta,0.11969436608296646,0.4,False
+2,3,workclass,education.num,Eta,0.22162930149043078,0.4,False
+2,3,workclass,marital.status,Cramer's V,0.13762263904987396,0.4,False
+2,3,workclass,occupation,Cramer's V,0.2318223785219027,0.4,False
+2,3,workclass,sex,Cramer's V,0.20648958551309188,0.4,False
+2,3,education.num,marital.status,Eta,0.21529648770422263,0.4,False
+2,3,education.num,occupation,Eta,0.5741839978820302,0.4,True
+2,3,education.num,sex,Eta,0.039669448574204194,0.4,False
+2,3,marital.status,occupation,Cramer's V,0.2582153388880872,0.4,False
+2,3,marital.status,sex,Cramer's V,0.45191684409178584,0.4,True
+2,3,occupation,sex,Cramer's V,0.5055949633254234,0.4,True
+3,4,age,workclass,Eta,0.18537872877500922,0.4,False
+3,4,age,education.num,Spearman,0.05056822993553647,0.4,False
+3,4,age,marital.status,Eta,0.555900859593526,0.4,True
+3,4,age,occupation,Eta,0.21807449454589303,0.4,False
+3,4,age,sex,Eta,0.07264844158918629,0.4,False
+3,4,workclass,education.num,Eta,0.2071397182575392,0.4,False
+3,4,workclass,marital.status,Cramer's V,0.10862694965200141,0.4,False
+3,4,workclass,occupation,Cramer's V,0.3077933660287116,0.4,False
+3,4,workclass,sex,Cramer's V,0.14215307213124073,0.4,False
+3,4,education.num,marital.status,Eta,0.1553337161920289,0.4,False
+3,4,education.num,occupation,Eta,0.5974171374359585,0.4,True
+3,4,education.num,sex,Eta,0.03202694506613931,0.4,False
+3,4,marital.status,occupation,Cramer's V,0.2089191602880028,0.4,False
+3,4,marital.status,sex,Cramer's V,0.46987786392718667,0.4,True
+3,4,occupation,sex,Cramer's V,0.41870407233279444,0.4,True
+4,5,age,workclass,Eta,0.2404818375549565,0.4,False
+4,5,age,education.num,Spearman,0.08386748767253246,0.4,False
+4,5,age,marital.status,Eta,0.5805827611268942,0.4,True
+4,5,age,occupation,Eta,0.20418149711236172,0.4,False
+4,5,age,sex,Eta,0.12980528041814346,0.4,False
+4,5,workclass,education.num,Eta,0.18400314021057582,0.4,False
+4,5,workclass,marital.status,Cramer's V,0.11771185194859543,0.4,False
+4,5,workclass,occupation,Cramer's V,0.2809310625060738,0.4,False
+4,5,workclass,sex,Cramer's V,0.08874075918200411,0.4,False
+4,5,education.num,marital.status,Eta,0.13953540362034653,0.4,False
+4,5,education.num,occupation,Eta,0.6101072088566835,0.4,True
+4,5,education.num,sex,Eta,0.03224493296764698,0.4,False
+4,5,marital.status,occupation,Cramer's V,0.1831882647699974,0.4,False
+4,5,marital.status,sex,Cramer's V,0.5298440257602646,0.4,True
+4,5,occupation,sex,Cramer's V,0.3876775880942934,0.4,False
+5,6,age,workclass,Eta,0.22510345272108867,0.4,False
+5,6,age,education.num,Spearman,0.1320504691869755,0.4,False
+5,6,age,marital.status,Eta,0.6108698207563622,0.4,True
+5,6,age,occupation,Eta,0.26624758851634156,0.4,False
+5,6,age,sex,Eta,0.007766832397434363,0.4,False
+5,6,workclass,education.num,Eta,0.24616242683563852,0.4,False
+5,6,workclass,marital.status,Cramer's V,0.13410636415699656,0.4,False
+5,6,workclass,occupation,Cramer's V,0.2797683137285592,0.4,False
+5,6,workclass,sex,Cramer's V,0.145198908745677,0.4,False
+5,6,education.num,marital.status,Eta,0.13628783742903625,0.4,False
+5,6,education.num,occupation,Eta,0.5675876207419797,0.4,True
+5,6,education.num,sex,Eta,0.01124881023868815,0.4,False
+5,6,marital.status,occupation,Cramer's V,0.23847822683685124,0.4,False
+5,6,marital.status,sex,Cramer's V,0.496472223838184,0.4,True
+5,6,occupation,sex,Cramer's V,0.4829774526019445,0.4,True
+6,7,age,workclass,Eta,0.22894053252517854,0.4,False
+6,7,age,education.num,Spearman,0.033442031305892836,0.4,False
+6,7,age,marital.status,Eta,0.5591855091408551,0.4,True
+6,7,age,occupation,Eta,0.22401347873095107,0.4,False
+6,7,age,sex,Eta,0.03797117116312293,0.4,False
+6,7,workclass,education.num,Eta,0.1858511112535036,0.4,False
+6,7,workclass,marital.status,Cramer's V,0.13109505988407671,0.4,False
+6,7,workclass,occupation,Cramer's V,0.28668101394056644,0.4,False
+6,7,workclass,sex,Cramer's V,0.09326736347249671,0.4,False
+6,7,education.num,marital.status,Eta,0.15567294097224874,0.4,False
+6,7,education.num,occupation,Eta,0.5619881863665253,0.4,True
+6,7,education.num,sex,Eta,0.0012709172857730399,0.4,False
+6,7,marital.status,occupation,Cramer's V,0.22889065931771457,0.4,False
+6,7,marital.status,sex,Cramer's V,0.47938840284511025,0.4,True
+6,7,occupation,sex,Cramer's V,0.3976396586830069,0.4,False
+7,8,age,workclass,Eta,0.22004149112535434,0.4,False
+7,8,age,education.num,Spearman,0.13181675981615668,0.4,False
+7,8,age,marital.status,Eta,0.5676285144496881,0.4,True
+7,8,age,occupation,Eta,0.24576620392113557,0.4,False
+7,8,age,sex,Eta,0.07642708866948357,0.4,False
+7,8,workclass,education.num,Eta,0.15697872721015613,0.4,False
+7,8,workclass,marital.status,Cramer's V,0.12079122248417402,0.4,False
+7,8,workclass,occupation,Cramer's V,0.19526268055278515,0.4,False
+7,8,workclass,sex,Cramer's V,0.15214504045954333,0.4,False
+7,8,education.num,marital.status,Eta,0.17320356543399293,0.4,False
+7,8,education.num,occupation,Eta,0.5799200005308065,0.4,True
+7,8,education.num,sex,Eta,0.05709131362608934,0.4,False
+7,8,marital.status,occupation,Cramer's V,0.21113745395214875,0.4,False
+7,8,marital.status,sex,Cramer's V,0.48313187400013413,0.4,True
+7,8,occupation,sex,Cramer's V,0.4847874958210551,0.4,True
+8,9,age,workclass,Eta,0.19557481095805454,0.4,False
+8,9,age,education.num,Spearman,0.01870239674309555,0.4,False
+8,9,age,marital.status,Eta,0.6103090771533112,0.4,True
+8,9,age,occupation,Eta,0.20505486306469403,0.4,False
+8,9,age,sex,Eta,0.07081406892638842,0.4,False
+8,9,workclass,education.num,Eta,0.22686137075655502,0.4,False
+8,9,workclass,marital.status,Cramer's V,0.12472785425773333,0.4,False
+8,9,workclass,occupation,Cramer's V,0.27635265960800987,0.4,False
+8,9,workclass,sex,Cramer's V,0.2061263997647483,0.4,False
+8,9,education.num,marital.status,Eta,0.08711382095535493,0.4,False
+8,9,education.num,occupation,Eta,0.6120282791525788,0.4,True
+8,9,education.num,sex,Eta,0.02815422792365017,0.4,False
+8,9,marital.status,occupation,Cramer's V,0.20259030439285977,0.4,False
+8,9,marital.status,sex,Cramer's V,0.4733813797632254,0.4,True
+8,9,occupation,sex,Cramer's V,0.48555527850865104,0.4,True
+9,10,age,workclass,Eta,0.18980228998073376,0.4,False
+9,10,age,education.num,Spearman,0.047625750142869204,0.4,False
+9,10,age,marital.status,Eta,0.5552457445342406,0.4,True
+9,10,age,occupation,Eta,0.23411091445978813,0.4,False
+9,10,age,sex,Eta,0.09805756895086767,0.4,False
+9,10,workclass,education.num,Eta,0.16707997812616737,0.4,False
+9,10,workclass,marital.status,Cramer's V,0.12615745037828807,0.4,False
+9,10,workclass,occupation,Cramer's V,0.27710255100311937,0.4,False
+9,10,workclass,sex,Cramer's V,0.19821072329409595,0.4,False
+9,10,education.num,marital.status,Eta,0.10430236752056911,0.4,False
+9,10,education.num,occupation,Eta,0.610740794266538,0.4,True
+9,10,education.num,sex,Eta,0.0223922478778042,0.4,False
+9,10,marital.status,occupation,Cramer's V,0.2204483083030813,0.4,False
+9,10,marital.status,sex,Cramer's V,0.4697356279364523,0.4,True
+9,10,occupation,sex,Cramer's V,0.4402439998045961,0.4,True
+10,11,age,workclass,Eta,0.20431698821487312,0.4,False
+10,11,age,education.num,Spearman,0.09764662073307769,0.4,False
+10,11,age,marital.status,Eta,0.5673638674043812,0.4,True
+10,11,age,occupation,Eta,0.21875990755748603,0.4,False
+10,11,age,sex,Eta,0.005157982082043161,0.4,False
+10,11,workclass,education.num,Eta,0.2727632421168716,0.4,False
+10,11,workclass,marital.status,Cramer's V,0.11071348249429451,0.4,False
+10,11,workclass,occupation,Cramer's V,0.2988755513425886,0.4,False
+10,11,workclass,sex,Cramer's V,0.09899715807935612,0.4,False
+10,11,education.num,marital.status,Eta,0.10277557254220353,0.4,False
+10,11,education.num,occupation,Eta,0.6412096313941756,0.4,True
+10,11,education.num,sex,Eta,0.0014204431451822516,0.4,False
+10,11,marital.status,occupation,Cramer's V,0.20912487515964379,0.4,False
+10,11,marital.status,sex,Cramer's V,0.3807422017009888,0.4,False
+10,11,occupation,sex,Cramer's V,0.37028958661358485,0.4,False
+11,12,age,workclass,Eta,0.2986872064410971,0.4,False
+11,12,age,education.num,Spearman,0.031242958869500865,0.4,False
+11,12,age,marital.status,Eta,0.5372687756031294,0.4,True
+11,12,age,occupation,Eta,0.26637051383401583,0.4,False
+11,12,age,sex,Eta,0.05914393416958028,0.4,False
+11,12,workclass,education.num,Eta,0.1812441076963983,0.4,False
+11,12,workclass,marital.status,Cramer's V,0.13190313651789554,0.4,False
+11,12,workclass,occupation,Cramer's V,0.2731563877155425,0.4,False
+11,12,workclass,sex,Cramer's V,0.2168262439500907,0.4,False
+11,12,education.num,marital.status,Eta,0.10671829659320008,0.4,False
+11,12,education.num,occupation,Eta,0.5650781029378951,0.4,True
+11,12,education.num,sex,Eta,0.09989341522112125,0.4,False
+11,12,marital.status,occupation,Cramer's V,0.18512562146380637,0.4,False
+11,12,marital.status,sex,Cramer's V,0.4812652943258897,0.4,True
+11,12,occupation,sex,Cramer's V,0.4532622666102383,0.4,True
+12,13,age,workclass,Eta,0.2633900733234278,0.4,False
+12,13,age,education.num,Spearman,0.08305269737924376,0.4,False
+12,13,age,marital.status,Eta,0.5812179131860238,0.4,True
+12,13,age,occupation,Eta,0.2486907435705811,0.4,False
+12,13,age,sex,Eta,0.15192710950623825,0.4,False
+12,13,workclass,education.num,Eta,0.23427197644704356,0.4,False
+12,13,workclass,marital.status,Cramer's V,0.14200854963578352,0.4,False
+12,13,workclass,occupation,Cramer's V,0.26460011639708997,0.4,False
+12,13,workclass,sex,Cramer's V,0.21411171630658513,0.4,False
+12,13,education.num,marital.status,Eta,0.07681845702279702,0.4,False
+12,13,education.num,occupation,Eta,0.5445787935464815,0.4,True
+12,13,education.num,sex,Eta,0.026908622225236843,0.4,False
+12,13,marital.status,occupation,Cramer's V,0.22035066291701014,0.4,False
+12,13,marital.status,sex,Cramer's V,0.4529326881491037,0.4,True
+12,13,occupation,sex,Cramer's V,0.4194029521034149,0.4,True
+13,14,age,workclass,Eta,0.20058659003384238,0.4,False
+13,14,age,education.num,Spearman,0.08132663160678247,0.4,False
+13,14,age,marital.status,Eta,0.5848962269147528,0.4,True
+13,14,age,occupation,Eta,0.2236018936177215,0.4,False
+13,14,age,sex,Eta,0.0592621700099336,0.4,False
+13,14,workclass,education.num,Eta,0.25102094058489577,0.4,False
+13,14,workclass,marital.status,Cramer's V,0.11779568305156352,0.4,False
+13,14,workclass,occupation,Cramer's V,0.26683282067539027,0.4,False
+13,14,workclass,sex,Cramer's V,0.15053796579968934,0.4,False
+13,14,education.num,marital.status,Eta,0.17118031939205064,0.4,False
+13,14,education.num,occupation,Eta,0.564766397617521,0.4,True
+13,14,education.num,sex,Eta,0.0039044987096068014,0.4,False
+13,14,marital.status,occupation,Cramer's V,0.18968821001845584,0.4,False
+13,14,marital.status,sex,Cramer's V,0.48388304210584404,0.4,True
+13,14,occupation,sex,Cramer's V,0.46942953180270613,0.4,True
+14,15,age,workclass,Eta,0.22966929418504445,0.4,False
+14,15,age,education.num,Spearman,0.07686420920416936,0.4,False
+14,15,age,marital.status,Eta,0.5465944047604969,0.4,True
+14,15,age,occupation,Eta,0.22663587839462904,0.4,False
+14,15,age,sex,Eta,0.05320817714385929,0.4,False
+14,15,workclass,education.num,Eta,0.1739598634590009,0.4,False
+14,15,workclass,marital.status,Cramer's V,0.12318947571046295,0.4,False
+14,15,workclass,occupation,Cramer's V,0.2929167539523356,0.4,False
+14,15,workclass,sex,Cramer's V,0.17557039779436825,0.4,False
+14,15,education.num,marital.status,Eta,0.18371655238115925,0.4,False
+14,15,education.num,occupation,Eta,0.5869262666556939,0.4,True
+14,15,education.num,sex,Eta,0.062362963422764955,0.4,False
+14,15,marital.status,occupation,Cramer's V,0.19640614216508265,0.4,False
+14,15,marital.status,sex,Cramer's V,0.5289986105661424,0.4,True
+14,15,occupation,sex,Cramer's V,0.4714028211935142,0.4,True
+15,16,age,workclass,Eta,0.2371556287697272,0.4,False
+15,16,age,education.num,Spearman,0.024721093845886898,0.4,False
+15,16,age,marital.status,Eta,0.5700746026635669,0.4,True
+15,16,age,occupation,Eta,0.27608011975283164,0.4,False
+15,16,age,sex,Eta,0.10789755406252442,0.4,False
+15,16,workclass,education.num,Eta,0.14764925576354712,0.4,False
+15,16,workclass,marital.status,Cramer's V,0.1156082609490216,0.4,False
+15,16,workclass,occupation,Cramer's V,0.2546725526666074,0.4,False
+15,16,workclass,sex,Cramer's V,0.13729720777405882,0.4,False
+15,16,education.num,marital.status,Eta,0.1285301067112283,0.4,False
+15,16,education.num,occupation,Eta,0.5811514446478717,0.4,True
+15,16,education.num,sex,Eta,0.0035376499589605936,0.4,False
+15,16,marital.status,occupation,Cramer's V,0.19484508495237,0.4,False
+15,16,marital.status,sex,Cramer's V,0.4842918007924964,0.4,True
+15,16,occupation,sex,Cramer's V,0.4273078131446516,0.4,True
+16,17,age,workclass,Eta,0.2052677304601437,0.4,False
+16,17,age,education.num,Spearman,0.09583913245512518,0.4,False
+16,17,age,marital.status,Eta,0.5858897970326751,0.4,True
+16,17,age,occupation,Eta,0.1973700836440956,0.4,False
+16,17,age,sex,Eta,0.0032640060232293723,0.4,False
+16,17,workclass,education.num,Eta,0.2596468540497022,0.4,False
+16,17,workclass,marital.status,Cramer's V,0.1150625840343253,0.4,False
+16,17,workclass,occupation,Cramer's V,0.3232219218230768,0.4,False
+16,17,workclass,sex,Cramer's V,0.22055515214271454,0.4,False
+16,17,education.num,marital.status,Eta,0.12138854191712072,0.4,False
+16,17,education.num,occupation,Eta,0.607747041602396,0.4,True
+16,17,education.num,sex,Eta,0.03350652725152238,0.4,False
+16,17,marital.status,occupation,Cramer's V,0.200168776875776,0.4,False
+16,17,marital.status,sex,Cramer's V,0.5196805593450715,0.4,True
+16,17,occupation,sex,Cramer's V,0.4757589881530109,0.4,True
+17,18,age,workclass,Eta,0.22860740088141865,0.4,False
+17,18,age,education.num,Spearman,0.006199303875929675,0.4,False
+17,18,age,marital.status,Eta,0.5221887621013832,0.4,True
+17,18,age,occupation,Eta,0.26125774851171507,0.4,False
+17,18,age,sex,Eta,0.024410708239948686,0.4,False
+17,18,workclass,education.num,Eta,0.11097017520776145,0.4,False
+17,18,workclass,marital.status,Cramer's V,0.12538571242195254,0.4,False
+17,18,workclass,occupation,Cramer's V,0.21447092478396565,0.4,False
+17,18,workclass,sex,Cramer's V,0.17652770038496232,0.4,False
+17,18,education.num,marital.status,Eta,0.17365281735154858,0.4,False
+17,18,education.num,occupation,Eta,0.5991977677156337,0.4,True
+17,18,education.num,sex,Eta,0.14535954714479013,0.4,False
+17,18,marital.status,occupation,Cramer's V,0.24536387040641083,0.4,False
+17,18,marital.status,sex,Cramer's V,0.4845632842470166,0.4,True
+17,18,occupation,sex,Cramer's V,0.4775421676943095,0.4,True
+18,19,age,workclass,Eta,0.21705654777380795,0.4,False
+18,19,age,education.num,Spearman,0.08533549262222674,0.4,False
+18,19,age,marital.status,Eta,0.5440843210257102,0.4,True
+18,19,age,occupation,Eta,0.27021950062322314,0.4,False
+18,19,age,sex,Eta,0.05673870824674143,0.4,False
+18,19,workclass,education.num,Eta,0.22925687542603068,0.4,False
+18,19,workclass,marital.status,Cramer's V,0.10328716012514286,0.4,False
+18,19,workclass,occupation,Cramer's V,0.27589995173061305,0.4,False
+18,19,workclass,sex,Cramer's V,0.19906005095202317,0.4,False
+18,19,education.num,marital.status,Eta,0.17400694691354057,0.4,False
+18,19,education.num,occupation,Eta,0.5676139856413115,0.4,True
+18,19,education.num,sex,Eta,0.05630365304637792,0.4,False
+18,19,marital.status,occupation,Cramer's V,0.21348331575198487,0.4,False
+18,19,marital.status,sex,Cramer's V,0.4993125847947613,0.4,True
+18,19,occupation,sex,Cramer's V,0.4551883822845758,0.4,True
+19,20,age,workclass,Eta,0.25126644820201466,0.4,False
+19,20,age,education.num,Spearman,0.05359380979686116,0.4,False
+19,20,age,marital.status,Eta,0.6093244703991175,0.4,True
+19,20,age,occupation,Eta,0.27620396506832445,0.4,False
+19,20,age,sex,Eta,0.13024442016622073,0.4,False
+19,20,workclass,education.num,Eta,0.19996364990723242,0.4,False
+19,20,workclass,marital.status,Cramer's V,0.116432458515885,0.4,False
+19,20,workclass,occupation,Cramer's V,0.26876929847974834,0.4,False
+19,20,workclass,sex,Cramer's V,0.11392464598459615,0.4,False
+19,20,education.num,marital.status,Eta,0.2423586624863306,0.4,False
+19,20,education.num,occupation,Eta,0.6007471570859272,0.4,True
+19,20,education.num,sex,Eta,0.07175610133459649,0.4,False
+19,20,marital.status,occupation,Cramer's V,0.22400722718506283,0.4,False
+19,20,marital.status,sex,Cramer's V,0.5003000691841986,0.4,True
+19,20,occupation,sex,Cramer's V,0.39749160621251156,0.4,False
+20,21,age,workclass,Eta,0.24157780136569154,0.4,False
+20,21,age,education.num,Spearman,0.0316819874216025,0.4,False
+20,21,age,marital.status,Eta,0.5175249445133063,0.4,True
+20,21,age,occupation,Eta,0.20937234228544097,0.4,False
+20,21,age,sex,Eta,0.08026427488981541,0.4,False
+20,21,workclass,education.num,Eta,0.21088119173924597,0.4,False
+20,21,workclass,marital.status,Cramer's V,0.12886002623806633,0.4,False
+20,21,workclass,occupation,Cramer's V,0.2814154403315118,0.4,False
+20,21,workclass,sex,Cramer's V,0.19327809634915688,0.4,False
+20,21,education.num,marital.status,Eta,0.06835301828240721,0.4,False
+20,21,education.num,occupation,Eta,0.5087880880146634,0.4,True
+20,21,education.num,sex,Eta,0.04927754903955327,0.4,False
+20,21,marital.status,occupation,Cramer's V,0.2070947976881721,0.4,False
+20,21,marital.status,sex,Cramer's V,0.5091874375405419,0.4,True
+20,21,occupation,sex,Cramer's V,0.4961779131494475,0.4,True
+21,22,age,workclass,Eta,0.24326531411105753,0.4,False
+21,22,age,education.num,Spearman,0.07704378104905106,0.4,False
+21,22,age,marital.status,Eta,0.5864830509008873,0.4,True
+21,22,age,occupation,Eta,0.27376433701418473,0.4,False
+21,22,age,sex,Eta,0.03389929545859605,0.4,False
+21,22,workclass,education.num,Eta,0.16642096659071004,0.4,False
+21,22,workclass,marital.status,Cramer's V,0.17879602288511728,0.4,False
+21,22,workclass,occupation,Cramer's V,0.25020038757949414,0.4,False
+21,22,workclass,sex,Cramer's V,0.14813388402697564,0.4,False
+21,22,education.num,marital.status,Eta,0.14273281716481584,0.4,False
+21,22,education.num,occupation,Eta,0.5719906281803738,0.4,True
+21,22,education.num,sex,Eta,0.04613351246820478,0.4,False
+21,22,marital.status,occupation,Cramer's V,0.21063539463752567,0.4,False
+21,22,marital.status,sex,Cramer's V,0.473101291607455,0.4,True
+21,22,occupation,sex,Cramer's V,0.46810752631460084,0.4,True
+22,23,age,workclass,Eta,0.3003182066119664,0.4,False
+22,23,age,education.num,Spearman,0.0889267600993617,0.4,False
+22,23,age,marital.status,Eta,0.5725581930124877,0.4,True
+22,23,age,occupation,Eta,0.29832231705063544,0.4,False
+22,23,age,sex,Eta,0.12034030424121847,0.4,False
+22,23,workclass,education.num,Eta,0.26070964260247803,0.4,False
+22,23,workclass,marital.status,Cramer's V,0.20183509261243324,0.4,False
+22,23,workclass,occupation,Cramer's V,0.28505490892069835,0.4,False
+22,23,workclass,sex,Cramer's V,0.2102998821472648,0.4,False
+22,23,education.num,marital.status,Eta,0.1312100537765347,0.4,False
+22,23,education.num,occupation,Eta,0.5860617967453081,0.4,True
+22,23,education.num,sex,Eta,0.03041690650649709,0.4,False
+22,23,marital.status,occupation,Cramer's V,0.19573207072200915,0.4,False
+22,23,marital.status,sex,Cramer's V,0.48151941393346137,0.4,True
+22,23,occupation,sex,Cramer's V,0.4648769119995738,0.4,True
+23,24,age,workclass,Eta,0.2318710086883107,0.4,False
+23,24,age,education.num,Spearman,0.06300952152611344,0.4,False
+23,24,age,marital.status,Eta,0.5257491462336665,0.4,True
+23,24,age,occupation,Eta,0.29484371759312356,0.4,False
+23,24,age,sex,Eta,0.11526841305011001,0.4,False
+23,24,workclass,education.num,Eta,0.27192299098224726,0.4,False
+23,24,workclass,marital.status,Cramer's V,0.12575620687692166,0.4,False
+23,24,workclass,occupation,Cramer's V,0.2656023126542203,0.4,False
+23,24,workclass,sex,Cramer's V,0.22254082766061528,0.4,False
+23,24,education.num,marital.status,Eta,0.11828030708534701,0.4,False
+23,24,education.num,occupation,Eta,0.5792617831134467,0.4,True
+23,24,education.num,sex,Eta,0.0065968616279755655,0.4,False
+23,24,marital.status,occupation,Cramer's V,0.2273688536331355,0.4,False
+23,24,marital.status,sex,Cramer's V,0.5412418565300253,0.4,True
+23,24,occupation,sex,Cramer's V,0.4747079654955202,0.4,True
+24,25,age,workclass,Eta,0.32790332717324744,0.4,False
+24,25,age,education.num,Spearman,0.09368678349610637,0.4,False
+24,25,age,marital.status,Eta,0.5525897264708997,0.4,True
+24,25,age,occupation,Eta,0.29422521999807766,0.4,False
+24,25,age,sex,Eta,0.11692359215287619,0.4,False
+24,25,workclass,education.num,Eta,0.23947949970902307,0.4,False
+24,25,workclass,marital.status,Cramer's V,0.15878384560126244,0.4,False
+24,25,workclass,occupation,Cramer's V,0.23684832567400332,0.4,False
+24,25,workclass,sex,Cramer's V,0.17426160903604707,0.4,False
+24,25,education.num,marital.status,Eta,0.14850542156419416,0.4,False
+24,25,education.num,occupation,Eta,0.5931185576244471,0.4,True
+24,25,education.num,sex,Eta,0.04105909596063524,0.4,False
+24,25,marital.status,occupation,Cramer's V,0.21894106823681928,0.4,False
+24,25,marital.status,sex,Cramer's V,0.5176653072526327,0.4,True
+24,25,occupation,sex,Cramer's V,0.5005869815451371,0.4,True
+25,26,age,workclass,Eta,0.24615942397963206,0.4,False
+25,26,age,education.num,Spearman,0.025224598379114033,0.4,False
+25,26,age,marital.status,Eta,0.5849220854387072,0.4,True
+25,26,age,occupation,Eta,0.1859345833563217,0.4,False
+25,26,age,sex,Eta,0.06719574619620983,0.4,False
+25,26,workclass,education.num,Eta,0.20048493596862824,0.4,False
+25,26,workclass,marital.status,Cramer's V,0.11217860057262552,0.4,False
+25,26,workclass,occupation,Cramer's V,0.25660424872570514,0.4,False
+25,26,workclass,sex,Cramer's V,0.20735571255428273,0.4,False
+25,26,education.num,marital.status,Eta,0.1956866577438746,0.4,False
+25,26,education.num,occupation,Eta,0.602178016007423,0.4,True
+25,26,education.num,sex,Eta,0.0485425309520499,0.4,False
+25,26,marital.status,occupation,Cramer's V,0.17642963383172708,0.4,False
+25,26,marital.status,sex,Cramer's V,0.4401336582787204,0.4,True
+25,26,occupation,sex,Cramer's V,0.4943165152836104,0.4,True
+26,27,age,workclass,Eta,0.18695249317409346,0.4,False
+26,27,age,education.num,Spearman,0.07479640059305157,0.4,False
+26,27,age,marital.status,Eta,0.5443255976313547,0.4,True
+26,27,age,occupation,Eta,0.23246358753810714,0.4,False
+26,27,age,sex,Eta,0.0558769302473022,0.4,False
+26,27,workclass,education.num,Eta,0.13144174887997992,0.4,False
+26,27,workclass,marital.status,Cramer's V,0.13608773050064477,0.4,False
+26,27,workclass,occupation,Cramer's V,0.2157237413925237,0.4,False
+26,27,workclass,sex,Cramer's V,0.19293199157400623,0.4,False
+26,27,education.num,marital.status,Eta,0.1607772494214781,0.4,False
+26,27,education.num,occupation,Eta,0.5759630604633714,0.4,True
+26,27,education.num,sex,Eta,0.02047551041409637,0.4,False
+26,27,marital.status,occupation,Cramer's V,0.19422065229454172,0.4,False
+26,27,marital.status,sex,Cramer's V,0.43631595732578665,0.4,True
+26,27,occupation,sex,Cramer's V,0.42993424250627144,0.4,True
+27,28,age,workclass,Eta,0.2116835848247086,0.4,False
+27,28,age,education.num,Spearman,0.0731651720977019,0.4,False
+27,28,age,marital.status,Eta,0.567199876964637,0.4,True
+27,28,age,occupation,Eta,0.27103545973357607,0.4,False
+27,28,age,sex,Eta,0.13103396554764307,0.4,False
+27,28,workclass,education.num,Eta,0.22747169458604805,0.4,False
+27,28,workclass,marital.status,Cramer's V,0.10102044954823797,0.4,False
+27,28,workclass,occupation,Cramer's V,0.266444306396676,0.4,False
+27,28,workclass,sex,Cramer's V,0.18040406866286796,0.4,False
+27,28,education.num,marital.status,Eta,0.14279852680355087,0.4,False
+27,28,education.num,occupation,Eta,0.6106280931600734,0.4,True
+27,28,education.num,sex,Eta,0.020581431689484456,0.4,False
+27,28,marital.status,occupation,Cramer's V,0.1853756231895603,0.4,False
+27,28,marital.status,sex,Cramer's V,0.47084927076114547,0.4,True
+27,28,occupation,sex,Cramer's V,0.4988843792976088,0.4,True
+28,29,age,workclass,Eta,0.1852510412304131,0.4,False
+28,29,age,education.num,Spearman,0.0665655598254657,0.4,False
+28,29,age,marital.status,Eta,0.5719946881158676,0.4,True
+28,29,age,occupation,Eta,0.2826193866068645,0.4,False
+28,29,age,sex,Eta,0.05705690513396154,0.4,False
+28,29,workclass,education.num,Eta,0.1781258429948055,0.4,False
+28,29,workclass,marital.status,Cramer's V,0.07961518844806117,0.4,False
+28,29,workclass,occupation,Cramer's V,0.2669650400415275,0.4,False
+28,29,workclass,sex,Cramer's V,0.16456221258099868,0.4,False
+28,29,education.num,marital.status,Eta,0.2319509473023237,0.4,False
+28,29,education.num,occupation,Eta,0.5759234581375071,0.4,True
+28,29,education.num,sex,Eta,0.024319059145511853,0.4,False
+28,29,marital.status,occupation,Cramer's V,0.21295306003130757,0.4,False
+28,29,marital.status,sex,Cramer's V,0.43340275836266895,0.4,True
+28,29,occupation,sex,Cramer's V,0.46138721604928534,0.4,True
+29,30,age,workclass,Eta,0.3166515944242874,0.4,False
+29,30,age,education.num,Spearman,0.14681731420868596,0.4,False
+29,30,age,marital.status,Eta,0.5933034280642585,0.4,True
+29,30,age,occupation,Eta,0.25430133082498396,0.4,False
+29,30,age,sex,Eta,0.05075928937196461,0.4,False
+29,30,workclass,education.num,Eta,0.21098478486999217,0.4,False
+29,30,workclass,marital.status,Cramer's V,0.15346303564051797,0.4,False
+29,30,workclass,occupation,Cramer's V,0.2875482051016144,0.4,False
+29,30,workclass,sex,Cramer's V,0.15445834602972702,0.4,False
+29,30,education.num,marital.status,Eta,0.11405427934918608,0.4,False
+29,30,education.num,occupation,Eta,0.6405250097626104,0.4,True
+29,30,education.num,sex,Eta,0.03977019947500263,0.4,False
+29,30,marital.status,occupation,Cramer's V,0.2159188110197169,0.4,False
+29,30,marital.status,sex,Cramer's V,0.44786911442895627,0.4,True
+29,30,occupation,sex,Cramer's V,0.45914135790404803,0.4,True
+30,31,age,workclass,Eta,0.20614090030205337,0.4,False
+30,31,age,education.num,Spearman,0.13311547137141128,0.4,False
+30,31,age,marital.status,Eta,0.5364107719099522,0.4,True
+30,31,age,occupation,Eta,0.2616650629371856,0.4,False
+30,31,age,sex,Eta,0.0730415891260679,0.4,False
+30,31,workclass,education.num,Eta,0.19616798106940747,0.4,False
+30,31,workclass,marital.status,Cramer's V,0.13317178134744426,0.4,False
+30,31,workclass,occupation,Cramer's V,0.22117202165450464,0.4,False
+30,31,workclass,sex,Cramer's V,0.15468560027141628,0.4,False
+30,31,education.num,marital.status,Eta,0.1707499413487948,0.4,False
+30,31,education.num,occupation,Eta,0.5580289498758386,0.4,True
+30,31,education.num,sex,Eta,0.0456453323550471,0.4,False
+30,31,marital.status,occupation,Cramer's V,0.22000393750662395,0.4,False
+30,31,marital.status,sex,Cramer's V,0.471581751278256,0.4,True
+30,31,occupation,sex,Cramer's V,0.4341911826087407,0.4,True
+31,32,age,workclass,Eta,0.25881710461427915,0.4,False
+31,32,age,education.num,Spearman,0.061185772661947836,0.4,False
+31,32,age,marital.status,Eta,0.5010864518365659,0.4,True
+31,32,age,occupation,Eta,0.25740542610512307,0.4,False
+31,32,age,sex,Eta,0.037362932017678596,0.4,False
+31,32,workclass,education.num,Eta,0.22586154752361506,0.4,False
+31,32,workclass,marital.status,Cramer's V,0.12181060506754096,0.4,False
+31,32,workclass,occupation,Cramer's V,0.27902693289162295,0.4,False
+31,32,workclass,sex,Cramer's V,0.20008317841888199,0.4,False
+31,32,education.num,marital.status,Eta,0.077659969775036,0.4,False
+31,32,education.num,occupation,Eta,0.5688804554184765,0.4,True
+31,32,education.num,sex,Eta,0.010029311649961003,0.4,False
+31,32,marital.status,occupation,Cramer's V,0.21409671218677007,0.4,False
+31,32,marital.status,sex,Cramer's V,0.4768245705522919,0.4,True
+31,32,occupation,sex,Cramer's V,0.4057142796789407,0.4,True
+32,33,age,workclass,Eta,0.3173028548950153,0.4,False
+32,33,age,education.num,Spearman,0.10732494558884087,0.4,False
+32,33,age,marital.status,Eta,0.5167139663590979,0.4,True
+32,33,age,occupation,Eta,0.19178169404712994,0.4,False
+32,33,age,sex,Eta,0.09289234273699393,0.4,False
+32,33,workclass,education.num,Eta,0.2117567542886477,0.4,False
+32,33,workclass,marital.status,Cramer's V,0.13168959427036178,0.4,False
+32,33,workclass,occupation,Cramer's V,0.27687557928979145,0.4,False
+32,33,workclass,sex,Cramer's V,0.1799548937201156,0.4,False
+32,33,education.num,marital.status,Eta,0.16947803989951846,0.4,False
+32,33,education.num,occupation,Eta,0.5462811566454354,0.4,True
+32,33,education.num,sex,Eta,0.11931256297949652,0.4,False
+32,33,marital.status,occupation,Cramer's V,0.18206812547556295,0.4,False
+32,33,marital.status,sex,Cramer's V,0.41593884092492495,0.4,True
+32,33,occupation,sex,Cramer's V,0.4006316193219124,0.4,True
+33,34,age,workclass,Eta,0.289397424642896,0.4,False
+33,34,age,education.num,Spearman,0.04847332226081918,0.4,False
+33,34,age,marital.status,Eta,0.6654729142454963,0.4,True
+33,34,age,occupation,Eta,0.2446470753067656,0.4,False
+33,34,age,sex,Eta,0.0810824316746729,0.4,False
+33,34,workclass,education.num,Eta,0.23725947875827583,0.4,False
+33,34,workclass,marital.status,Cramer's V,0.1263907695764597,0.4,False
+33,34,workclass,occupation,Cramer's V,0.26719614762289046,0.4,False
+33,34,workclass,sex,Cramer's V,0.20610055979301303,0.4,False
+33,34,education.num,marital.status,Eta,0.115935008567157,0.4,False
+33,34,education.num,occupation,Eta,0.5597921598490071,0.4,True
+33,34,education.num,sex,Eta,0.04525977102243893,0.4,False
+33,34,marital.status,occupation,Cramer's V,0.21217730900008158,0.4,False
+33,34,marital.status,sex,Cramer's V,0.4682280500383833,0.4,True
+33,34,occupation,sex,Cramer's V,0.5032751809187844,0.4,True
+34,35,age,workclass,Eta,0.2284671154585671,0.4,False
+34,35,age,education.num,Spearman,0.06582892509975291,0.4,False
+34,35,age,marital.status,Eta,0.5786230127960056,0.4,True
+34,35,age,occupation,Eta,0.26472721096184665,0.4,False
+34,35,age,sex,Eta,0.12239630678991963,0.4,False
+34,35,workclass,education.num,Eta,0.15644615815370896,0.4,False
+34,35,workclass,marital.status,Cramer's V,0.11292427002451008,0.4,False
+34,35,workclass,occupation,Cramer's V,0.25295451450493234,0.4,False
+34,35,workclass,sex,Cramer's V,0.1762788789340386,0.4,False
+34,35,education.num,marital.status,Eta,0.12270690469270927,0.4,False
+34,35,education.num,occupation,Eta,0.5356932923203109,0.4,True
+34,35,education.num,sex,Eta,0.011212625593544788,0.4,False
+34,35,marital.status,occupation,Cramer's V,0.21534179900717132,0.4,False
+34,35,marital.status,sex,Cramer's V,0.49402237293668855,0.4,True
+34,35,occupation,sex,Cramer's V,0.5060565565938234,0.4,True
+35,36,age,workclass,Eta,0.23656621101718558,0.4,False
+35,36,age,education.num,Spearman,0.05860103167011864,0.4,False
+35,36,age,marital.status,Eta,0.5300948459560688,0.4,True
+35,36,age,occupation,Eta,0.25620120339639474,0.4,False
+35,36,age,sex,Eta,0.09291910139087488,0.4,False
+35,36,workclass,education.num,Eta,0.09723330489849301,0.4,False
+35,36,workclass,marital.status,Cramer's V,0.12131925593773323,0.4,False
+35,36,workclass,occupation,Cramer's V,0.29011631330669185,0.4,False
+35,36,workclass,sex,Cramer's V,0.21449684379507636,0.4,False
+35,36,education.num,marital.status,Eta,0.1517313426580346,0.4,False
+35,36,education.num,occupation,Eta,0.5716278782494326,0.4,True
+35,36,education.num,sex,Eta,0.024829347441100793,0.4,False
+35,36,marital.status,occupation,Cramer's V,0.1755875388100026,0.4,False
+35,36,marital.status,sex,Cramer's V,0.4817418482844151,0.4,True
+35,36,occupation,sex,Cramer's V,0.4066919570677856,0.4,True
+36,37,age,workclass,Eta,0.28167977335449434,0.4,False
+36,37,age,education.num,Spearman,0.06940136650603379,0.4,False
+36,37,age,marital.status,Eta,0.58360857719244,0.4,True
+36,37,age,occupation,Eta,0.33245397306686864,0.4,False
+36,37,age,sex,Eta,0.13920147491839246,0.4,False
+36,37,workclass,education.num,Eta,0.2217680262564916,0.4,False
+36,37,workclass,marital.status,Cramer's V,0.14051127186687606,0.4,False
+36,37,workclass,occupation,Cramer's V,0.24590977460757768,0.4,False
+36,37,workclass,sex,Cramer's V,0.16995773955266397,0.4,False
+36,37,education.num,marital.status,Eta,0.14768488738824778,0.4,False
+36,37,education.num,occupation,Eta,0.5920082363847899,0.4,True
+36,37,education.num,sex,Eta,0.10684495124407613,0.4,False
+36,37,marital.status,occupation,Cramer's V,0.24880411249321205,0.4,False
+36,37,marital.status,sex,Cramer's V,0.48760982730137464,0.4,True
+36,37,occupation,sex,Cramer's V,0.4988918098255149,0.4,True
+37,38,age,workclass,Eta,0.20405217506612353,0.4,False
+37,38,age,education.num,Spearman,0.001469749693935083,0.4,False
+37,38,age,marital.status,Eta,0.5459081550082892,0.4,True
+37,38,age,occupation,Eta,0.2380013437160016,0.4,False
+37,38,age,sex,Eta,0.10231568298898575,0.4,False
+37,38,workclass,education.num,Eta,0.24242163626493549,0.4,False
+37,38,workclass,marital.status,Cramer's V,0.14617722050249238,0.4,False
+37,38,workclass,occupation,Cramer's V,0.29767548853202874,0.4,False
+37,38,workclass,sex,Cramer's V,0.10966084395544845,0.4,False
+37,38,education.num,marital.status,Eta,0.19963643695514327,0.4,False
+37,38,education.num,occupation,Eta,0.6310322538317273,0.4,True
+37,38,education.num,sex,Eta,0.02459772983741215,0.4,False
+37,38,marital.status,occupation,Cramer's V,0.18004194938407245,0.4,False
+37,38,marital.status,sex,Cramer's V,0.5386927172528413,0.4,True
+37,38,occupation,sex,Cramer's V,0.4063611272959537,0.4,True
+38,39,age,workclass,Eta,0.3027798612097102,0.4,False
+38,39,age,education.num,Spearman,0.11243321460060145,0.4,False
+38,39,age,marital.status,Eta,0.529149702542258,0.4,True
+38,39,age,occupation,Eta,0.2165544606923819,0.4,False
+38,39,age,sex,Eta,0.08951269680517814,0.4,False
+38,39,workclass,education.num,Eta,0.26669124471612354,0.4,False
+38,39,workclass,marital.status,Cramer's V,0.12713061588422417,0.4,False
+38,39,workclass,occupation,Cramer's V,0.2515569350710472,0.4,False
+38,39,workclass,sex,Cramer's V,0.13539149290562888,0.4,False
+38,39,education.num,marital.status,Eta,0.114687112793355,0.4,False
+38,39,education.num,occupation,Eta,0.5474227300026321,0.4,True
+38,39,education.num,sex,Eta,0.030145761811252267,0.4,False
+38,39,marital.status,occupation,Cramer's V,0.16022948361965747,0.4,False
+38,39,marital.status,sex,Cramer's V,0.40857884072573836,0.4,True
+38,39,occupation,sex,Cramer's V,0.40882759335943597,0.4,True
+39,40,age,workclass,Eta,0.24537742153513067,0.4,False
+39,40,age,education.num,Spearman,0.11661087820613411,0.4,False
+39,40,age,marital.status,Eta,0.5313607837920676,0.4,True
+39,40,age,occupation,Eta,0.2525825934580131,0.4,False
+39,40,age,sex,Eta,0.17431866039907123,0.4,False
+39,40,workclass,education.num,Eta,0.21031463288677588,0.4,False
+39,40,workclass,marital.status,Cramer's V,0.13433424555223064,0.4,False
+39,40,workclass,occupation,Cramer's V,0.2858230481557194,0.4,False
+39,40,workclass,sex,Cramer's V,0.15388364701900972,0.4,False
+39,40,education.num,marital.status,Eta,0.13734893885536786,0.4,False
+39,40,education.num,occupation,Eta,0.6271179538426535,0.4,True
+39,40,education.num,sex,Eta,0.06357782414173345,0.4,False
+39,40,marital.status,occupation,Cramer's V,0.22474120607825598,0.4,False
+39,40,marital.status,sex,Cramer's V,0.45407114816992555,0.4,True
+39,40,occupation,sex,Cramer's V,0.5228944137005781,0.4,True
+40,41,age,workclass,Eta,0.23910911963825182,0.4,False
+40,41,age,education.num,Spearman,0.060689135704321086,0.4,False
+40,41,age,marital.status,Eta,0.5363400299416172,0.4,True
+40,41,age,occupation,Eta,0.20354400930941086,0.4,False
+40,41,age,sex,Eta,0.09403386146595044,0.4,False
+40,41,workclass,education.num,Eta,0.1996288890076378,0.4,False
+40,41,workclass,marital.status,Cramer's V,0.14534155943551827,0.4,False
+40,41,workclass,occupation,Cramer's V,0.29175167089279647,0.4,False
+40,41,workclass,sex,Cramer's V,0.20368386775954345,0.4,False
+40,41,education.num,marital.status,Eta,0.1510571321734923,0.4,False
+40,41,education.num,occupation,Eta,0.5469534598447056,0.4,True
+40,41,education.num,sex,Eta,0.037089676570847725,0.4,False
+40,41,marital.status,occupation,Cramer's V,0.19046771316124889,0.4,False
+40,41,marital.status,sex,Cramer's V,0.4408274801939182,0.4,True
+40,41,occupation,sex,Cramer's V,0.4387483644483504,0.4,True
+41,42,age,workclass,Eta,0.2957932338420531,0.4,False
+41,42,age,education.num,Spearman,0.14073120112408788,0.4,False
+41,42,age,marital.status,Eta,0.5765330211664914,0.4,True
+41,42,age,occupation,Eta,0.2665939323794972,0.4,False
+41,42,age,sex,Eta,0.09869353715887548,0.4,False
+41,42,workclass,education.num,Eta,0.17372758256537701,0.4,False
+41,42,workclass,marital.status,Cramer's V,0.1624202035778067,0.4,False
+41,42,workclass,occupation,Cramer's V,0.3064658241094995,0.4,False
+41,42,workclass,sex,Cramer's V,0.13632995900338157,0.4,False
+41,42,education.num,marital.status,Eta,0.19672031874168566,0.4,False
+41,42,education.num,occupation,Eta,0.5871350918318632,0.4,True
+41,42,education.num,sex,Eta,0.024998110610355145,0.4,False
+41,42,marital.status,occupation,Cramer's V,0.17925728456980208,0.4,False
+41,42,marital.status,sex,Cramer's V,0.46033211455137074,0.4,True
+41,42,occupation,sex,Cramer's V,0.44361063611271606,0.4,True
+42,43,age,workclass,Eta,0.2740433893769184,0.4,False
+42,43,age,education.num,Spearman,0.14815729541349393,0.4,False
+42,43,age,marital.status,Eta,0.6130768680130112,0.4,True
+42,43,age,occupation,Eta,0.24025421236470051,0.4,False
+42,43,age,sex,Eta,0.03123407015880482,0.4,False
+42,43,workclass,education.num,Eta,0.2601208557571058,0.4,False
+42,43,workclass,marital.status,Cramer's V,0.13505615759041092,0.4,False
+42,43,workclass,occupation,Cramer's V,0.2322996330018605,0.4,False
+42,43,workclass,sex,Cramer's V,0.22027357752660653,0.4,False
+42,43,education.num,marital.status,Eta,0.10140728713696198,0.4,False
+42,43,education.num,occupation,Eta,0.6252034734273875,0.4,True
+42,43,education.num,sex,Eta,0.016057413135615057,0.4,False
+42,43,marital.status,occupation,Cramer's V,0.1918752198068655,0.4,False
+42,43,marital.status,sex,Cramer's V,0.5043248895805311,0.4,True
+42,43,occupation,sex,Cramer's V,0.45929755375737796,0.4,True
+43,44,age,workclass,Eta,0.2960696768523573,0.4,False
+43,44,age,education.num,Spearman,0.02429752135890073,0.4,False
+43,44,age,marital.status,Eta,0.5550800524667584,0.4,True
+43,44,age,occupation,Eta,0.268891354100837,0.4,False
+43,44,age,sex,Eta,0.10722736759601571,0.4,False
+43,44,workclass,education.num,Eta,0.17934700227307934,0.4,False
+43,44,workclass,marital.status,Cramer's V,0.1109118917882857,0.4,False
+43,44,workclass,occupation,Cramer's V,0.25713305429317596,0.4,False
+43,44,workclass,sex,Cramer's V,0.17734635860126005,0.4,False
+43,44,education.num,marital.status,Eta,0.2873497133614543,0.4,False
+43,44,education.num,occupation,Eta,0.569878795651741,0.4,True
+43,44,education.num,sex,Eta,0.037458894446363855,0.4,False
+43,44,marital.status,occupation,Cramer's V,0.2440868571175095,0.4,False
+43,44,marital.status,sex,Cramer's V,0.4958895234041201,0.4,True
+43,44,occupation,sex,Cramer's V,0.429616759060127,0.4,True
+44,45,age,workclass,Eta,0.2936059478914911,0.4,False
+44,45,age,education.num,Spearman,0.11019239801974105,0.4,False
+44,45,age,marital.status,Eta,0.5811838557810859,0.4,True
+44,45,age,occupation,Eta,0.25059470991261323,0.4,False
+44,45,age,sex,Eta,0.07615665192498089,0.4,False
+44,45,workclass,education.num,Eta,0.13907518569814517,0.4,False
+44,45,workclass,marital.status,Cramer's V,0.12261355526921511,0.4,False
+44,45,workclass,occupation,Cramer's V,0.27051856544606734,0.4,False
+44,45,workclass,sex,Cramer's V,0.1431237967155254,0.4,False
+44,45,education.num,marital.status,Eta,0.1090266427378726,0.4,False
+44,45,education.num,occupation,Eta,0.5953786594293561,0.4,True
+44,45,education.num,sex,Eta,0.0036510739495484146,0.4,False
+44,45,marital.status,occupation,Cramer's V,0.2005561934307806,0.4,False
+44,45,marital.status,sex,Cramer's V,0.49472212047500047,0.4,True
+44,45,occupation,sex,Cramer's V,0.43821940733786957,0.4,True
+45,46,age,workclass,Eta,0.23129293423620573,0.4,False
+45,46,age,education.num,Spearman,0.15699662043825766,0.4,False
+45,46,age,marital.status,Eta,0.5476055782433507,0.4,True
+45,46,age,occupation,Eta,0.21398503380228057,0.4,False
+45,46,age,sex,Eta,0.14997201003616287,0.4,False
+45,46,workclass,education.num,Eta,0.18156123452064282,0.4,False
+45,46,workclass,marital.status,Cramer's V,0.10885039363837516,0.4,False
+45,46,workclass,occupation,Cramer's V,0.2738554420260487,0.4,False
+45,46,workclass,sex,Cramer's V,0.18886325691611927,0.4,False
+45,46,education.num,marital.status,Eta,0.1282289612347707,0.4,False
+45,46,education.num,occupation,Eta,0.5777043193313386,0.4,True
+45,46,education.num,sex,Eta,0.01889273206609255,0.4,False
+45,46,marital.status,occupation,Cramer's V,0.18777360441685115,0.4,False
+45,46,marital.status,sex,Cramer's V,0.4959584315497682,0.4,True
+45,46,occupation,sex,Cramer's V,0.43264566403857313,0.4,True
+46,47,age,workclass,Eta,0.2012388046743165,0.4,False
+46,47,age,education.num,Spearman,0.1437658014104758,0.4,False
+46,47,age,marital.status,Eta,0.5456592707481325,0.4,True
+46,47,age,occupation,Eta,0.24807432875973215,0.4,False
+46,47,age,sex,Eta,0.0919686970996544,0.4,False
+46,47,workclass,education.num,Eta,0.17508556385740343,0.4,False
+46,47,workclass,marital.status,Cramer's V,0.1300766759990309,0.4,False
+46,47,workclass,occupation,Cramer's V,0.2786803916188494,0.4,False
+46,47,workclass,sex,Cramer's V,0.17071408217081813,0.4,False
+46,47,education.num,marital.status,Eta,0.09663783608214725,0.4,False
+46,47,education.num,occupation,Eta,0.5928060107497084,0.4,True
+46,47,education.num,sex,Eta,0.026728333210618245,0.4,False
+46,47,marital.status,occupation,Cramer's V,0.1720673203588683,0.4,False
+46,47,marital.status,sex,Cramer's V,0.39212510357533525,0.4,False
+46,47,occupation,sex,Cramer's V,0.45042016379605326,0.4,True
+47,48,age,workclass,Eta,0.24755234279145266,0.4,False
+47,48,age,education.num,Spearman,0.04041690156310914,0.4,False
+47,48,age,marital.status,Eta,0.549827648439397,0.4,True
+47,48,age,occupation,Eta,0.2585915085143483,0.4,False
+47,48,age,sex,Eta,0.08900032486021488,0.4,False
+47,48,workclass,education.num,Eta,0.19284029200592612,0.4,False
+47,48,workclass,marital.status,Cramer's V,0.09908308046776791,0.4,False
+47,48,workclass,occupation,Cramer's V,0.3081332944775495,0.4,False
+47,48,workclass,sex,Cramer's V,0.1869741458880909,0.4,False
+47,48,education.num,marital.status,Eta,0.14319755706491427,0.4,False
+47,48,education.num,occupation,Eta,0.6242560511459585,0.4,True
+47,48,education.num,sex,Eta,0.012271342027280337,0.4,False
+47,48,marital.status,occupation,Cramer's V,0.21954250127275174,0.4,False
+47,48,marital.status,sex,Cramer's V,0.521308172538481,0.4,True
+47,48,occupation,sex,Cramer's V,0.4336467448499404,0.4,True
