@@ -1,0 +1,39 @@
+{
+  "project_k_reference": 10,
+  "seed": 2,
+  "train_rows": 24129,
+  "sensitive_attributes": [
+    "income"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "race",
+    "sex",
+    "native.country"
+  ],
+  "numeric_qids": [
+    "age",
+    "education.num"
+  ],
+  "sa_cardinalities": {
+    "income": 2
+  },
+  "bucket_count": 2,
+  "internal_k": 12064.5,
+  "base_bucket_size": 12064,
+  "remainder": 1,
+  "min_bucket_size": 12064,
+  "max_bucket_size": 12065,
+  "privacy_c": 5.0,
+  "hsa_values": {
+    "income": "<=50K"
+  },
+  "correlation_threshold": 0.4,
+  "bucket_allocation": "one-SA frequency-balanced value-wise allocation",
+  "qid_grouping": "deterministic greedy non-overlapping grouping",
+  "qid_permutation": "numpy default_rng(seed + bucket_number) per bucket"
+}

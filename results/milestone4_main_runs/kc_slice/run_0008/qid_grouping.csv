@@ -1,0 +1,11 @@
+bucket_id,bucket,group_id,group,group_size
+0,1,1,age + marital.status,2
+0,1,2,workclass,1
+0,1,3,education.num + occupation,2
+0,1,4,race + native.country,2
+0,1,5,sex,1
+1,2,1,age + marital.status,2
+1,2,2,workclass,1
+1,2,3,education.num + occupation,2
+1,2,4,race + native.country,2
+1,2,5,sex,1
