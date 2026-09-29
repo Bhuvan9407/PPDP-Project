@@ -1,0 +1,35 @@
+{
+  "project_k_reference": 10,
+  "seed": 3,
+  "train_rows": 78442,
+  "sensitive_attributes": [
+    "diag_1"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "numeric_qids": [],
+  "sa_cardinalities": {
+    "diag_1": 692
+  },
+  "bucket_count": 692,
+  "internal_k": 113.35549132947978,
+  "base_bucket_size": 113,
+  "remainder": 246,
+  "min_bucket_size": 113,
+  "max_bucket_size": 114,
+  "privacy_c": 5.0,
+  "hsa_values": {
+    "diag_1": "428"
+  },
+  "correlation_threshold": 0.4,
+  "bucket_allocation": "one-SA frequency-balanced value-wise allocation",
+  "qid_grouping": "deterministic greedy non-overlapping grouping",
+  "qid_permutation": "numpy default_rng(seed + bucket_number) per bucket",
+  "run_id": 36,
+  "dataset": "Diabetes",
+  "method": "KC-Slice",
+  "sa_count": 1
+}
