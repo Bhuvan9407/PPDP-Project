@@ -1,0 +1,41 @@
+{
+  "project_k_reference": 10,
+  "seed": 2,
+  "train_rows": 24129,
+  "sensitive_attributes": [
+    "income",
+    "race"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "sex",
+    "native.country"
+  ],
+  "numeric_qids": [
+    "age",
+    "education.num"
+  ],
+  "sa_cardinalities": {
+    "income": 2,
+    "race": 5
+  },
+  "bucket_count": 7,
+  "internal_k": 3447.0,
+  "base_bucket_size": 3447,
+  "remainder": 0,
+  "min_bucket_size": 3447,
+  "max_bucket_size": 3447,
+  "privacy_c": 5.0,
+  "hsa_values": {
+    "income": "<=50K",
+    "race": "White"
+  },
+  "correlation_threshold": 0.4,
+  "bucket_allocation": "multi-SA composite percentile stratification with balanced floor/ceil bucket sizes",
+  "qid_grouping": "deterministic greedy non-overlapping grouping",
+  "qid_permutation": "numpy default_rng(seed + bucket_number) per bucket"
+}

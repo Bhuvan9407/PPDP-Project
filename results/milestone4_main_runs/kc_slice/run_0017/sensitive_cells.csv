@@ -1,0 +1,15 @@
+bucket,bucket_id,SID,SA,cell,cell_record_count
+1,0,011,income,"<=50K(172), >50K(853), #####(2422)",3447
+1,0,012,race,"White(172), Black(325), Asian-Pac-Islander(109), Other(24), Amer-Indian-Eskimo(36), #####(2781)",3447
+2,1,021,income,"<=50K(172), >50K(869), #####(2406)",3447
+2,1,022,race,"Amer-Indian-Eskimo(32), Asian-Pac-Islander(104), Black(323), White(172), #####(2791), Other(25)",3447
+3,2,031,income,"<=50K(172), >50K(863), #####(2412)",3447
+3,2,032,race,"Asian-Pac-Islander(100), Black(310), Amer-Indian-Eskimo(36), White(172), Other(25), #####(2804)",3447
+4,3,041,income,"<=50K(172), >50K(863), #####(2412)",3447
+4,3,042,race,"Amer-Indian-Eskimo(33), White(172), Black(330), Asian-Pac-Islander(109), #####(2778), Other(25)",3447
+5,4,051,income,">50K(863), <=50K(172), #####(2412)",3447
+5,4,052,race,"Black(316), Asian-Pac-Islander(97), White(172), Amer-Indian-Eskimo(31), Other(24), #####(2807)",3447
+6,5,061,income,">50K(846), <=50K(172), #####(2429)",3447
+6,5,062,race,"Asian-Pac-Islander(105), White(172), Black(311), Amer-Indian-Eskimo(34), Other(28), #####(2797)",3447
+7,6,071,income,"<=50K(172), >50K(849), #####(2426)",3447
+7,6,072,race,"Other(22), Asian-Pac-Islander(101), Amer-Indian-Eskimo(33), White(172), Black(325), #####(2794)",3447
