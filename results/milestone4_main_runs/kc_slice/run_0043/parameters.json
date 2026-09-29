@@ -31,7 +31,7 @@
   "bucket_allocation": "multi-SA composite percentile stratification with balanced floor/ceil bucket sizes",
   "qid_grouping": "deterministic greedy non-overlapping grouping",
   "qid_permutation": "numpy default_rng(seed + bucket_number) per bucket",
-  "run_id": 37,
+  "run_id": 43,
   "dataset": "Diabetes",
   "method": "KC-Slice",
   "sa_count": 2
