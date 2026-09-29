@@ -1,0 +1,36 @@
+bucket_id,bucket,group_id,group,group_size
+0,1,1,age + marital.status,2
+0,1,2,workclass,1
+0,1,3,education.num + occupation,2
+0,1,4,sex,1
+0,1,5,native.country,1
+1,2,1,age + marital.status,2
+1,2,2,workclass,1
+1,2,3,education.num + occupation,2
+1,2,4,sex,1
+1,2,5,native.country,1
+2,3,1,age + marital.status,2
+2,3,2,workclass,1
+2,3,3,education.num + occupation,2
+2,3,4,sex,1
+2,3,5,native.country,1
+3,4,1,age + marital.status,2
+3,4,2,workclass,1
+3,4,3,education.num + occupation,2
+3,4,4,sex,1
+3,4,5,native.country,1
+4,5,1,age + marital.status,2
+4,5,2,workclass,1
+4,5,3,education.num + occupation,2
+4,5,4,sex,1
+4,5,5,native.country,1
+5,6,1,age + marital.status,2
+5,6,2,workclass,1
+5,6,3,education.num + occupation,2
+5,6,4,sex,1
+5,6,5,native.country,1
+6,7,1,age + marital.status,2
+6,7,2,workclass,1
+6,7,3,education.num + occupation,2
+6,7,4,sex,1
+6,7,5,native.country,1

@@ -1,0 +1,26 @@
+{
+  "run_id": 18,
+  "dataset": "Adult",
+  "method": "KC-Slice",
+  "seed": 3,
+  "sa_count": 2,
+  "sensitive_attributes": [
+    "income",
+    "race"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "sex",
+    "native.country"
+  ],
+  "project_k_reference": 10,
+  "privacy_c": 5.0,
+  "correlation_threshold": 0.4,
+  "train_rows": 24129,
+  "test_rows": 6033,
+  "output_directory": "/content/PPDP-Project/results/milestone4_main_runs/kc_slice/run_0018"
+}
