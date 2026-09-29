@@ -1,0 +1,145 @@
+bucket,bucket_id,SID,SA,cell,cell_record_count
+1,0,011,income,"<=50K(25), >50K(253), #####(225)",503
+1,0,012,race,"White(25), Black(38), #####(419), Asian-Pac-Islander(15), Other(2), Amer-Indian-Eskimo(4)",503
+1,0,013,native.country,"United-States(25), Mexico(6), Greece(2), #####(438), Vietnam(2), China(2), Taiwan(1), India(1), Philippines(4), Trinadad&Tobago(1), Canada(3), South(1), Holand-Netherlands(1), Puerto-Rico(3), Poland(1), Iran(1), Germany(2), Italy(1), Hong(1), England(1), Cambodia(1), Haiti(1), Hungary(1), Columbia(1), Japan(1), El-Salvador(1)",503
+2,1,021,income,">50K(198), <=50K(25), #####(280)",503
+2,1,022,race,"Asian-Pac-Islander(12), White(25), #####(437), Black(26), Other(3)",503
+2,1,023,native.country,"China(1), Taiwan(1), Philippines(2), United-States(25), Canada(4), #####(456), South(3), India(2), Ireland(1), Germany(2), Cuba(1), Mexico(2), Peru(1), Haiti(1), Puerto-Rico(1)",503
+3,2,031,income,">50K(328), <=50K(25), #####(150)",503
+3,2,032,race,"White(25), Asian-Pac-Islander(16), Black(52), #####(398), Amer-Indian-Eskimo(7), Other(5)",503
+3,2,033,native.country,"Greece(2), China(1), Taiwan(1), Philippines(4), Trinadad&Tobago(1), United-States(25), Iran(2), #####(418), India(5), Germany(2), Canada(1), England(3), Cuba(1), Japan(1), Dominican-Republic(2), El-Salvador(4), Jamaica(3), Italy(2), Vietnam(1), Ireland(1), Portugal(2), Puerto-Rico(1), Nicaragua(2), Mexico(9), Columbia(3), Guatemala(2), Ecuador(1), Poland(1), Laos(1), France(1)",503
+4,3,041,income,">50K(191), <=50K(25), #####(287)",503
+4,3,042,race,"Asian-Pac-Islander(14), White(25), #####(409), Amer-Indian-Eskimo(9), Black(44), Other(2)",503
+4,3,043,native.country,"Canada(2), Iran(1), Philippines(1), Germany(3), United-States(25), #####(433), Japan(2), England(2), South(3), Vietnam(2), Ecuador(2), Guatemala(1), India(1), Cambodia(1), Ireland(1), El-Salvador(2), Puerto-Rico(1), Cuba(3), Poland(1), Italy(2), Peru(1), Mexico(8), Haiti(1), Dominican-Republic(1), France(1), Jamaica(1), Honduras(1)",503
+5,4,051,income,">50K(195), <=50K(25), #####(283)",503
+5,4,052,race,"White(25), Asian-Pac-Islander(14), #####(405), Amer-Indian-Eskimo(5), Black(50), Other(4)",503
+5,4,053,native.country,"Iran(1), India(2), Canada(2), Philippines(2), United-States(25), #####(434), Germany(2), Vietnam(3), Cambodia(1), Cuba(3), England(2), Mexico(10), China(1), Japan(1), Hungary(1), Taiwan(1), El-Salvador(1), Poland(1), Puerto-Rico(3), Columbia(1), Laos(1), Portugal(1), Dominican-Republic(1), Haiti(1), Guatemala(1), Scotland(1)",503
+6,5,061,income,">50K(195), <=50K(25), #####(283)",503
+6,5,062,race,"White(25), Asian-Pac-Islander(14), #####(409), Black(48), Other(3), Amer-Indian-Eskimo(4)",503
+6,5,063,native.country,"Iran(2), China(1), United-States(25), #####(444), Germany(4), Philippines(3), Italy(2), Poland(2), Puerto-Rico(2), Mexico(5), Yugoslavia(2), Vietnam(1), England(1), El-Salvador(1), Cuba(1), South(1), Guatemala(1), Dominican-Republic(2), Thailand(1), Peru(1), Jamaica(1)",503
+7,6,071,income,">50K(190), <=50K(25), #####(288)",503
+7,6,072,race,"White(25), Asian-Pac-Islander(10), #####(413), Amer-Indian-Eskimo(4), Black(48), Other(3)",503
+7,6,073,native.country,"Greece(2), Canada(1), Philippines(1), United-States(25), Japan(4), #####(438), China(2), Germany(3), Taiwan(2), Cuba(2), England(1), El-Salvador(2), Mexico(8), Puerto-Rico(1), India(2), Poland(2), Portugal(1), Italy(1), Trinadad&Tobago(1), Nicaragua(2), Haiti(1), Dominican-Republic(1)",503
+8,7,081,income,">50K(177), <=50K(25), #####(301)",503
+8,7,082,race,"White(25), Asian-Pac-Islander(18), #####(405), Black(46), Amer-Indian-Eskimo(3), Other(6)",503
+8,7,083,native.country,"Iran(1), India(2), Philippines(7), United-States(25), #####(440), Hungary(1), Thailand(1), Japan(1), Germany(1), Canada(2), China(1), Cuba(1), England(1), El-Salvador(1), Puerto-Rico(3), South(1), Guatemala(1), Mexico(10), Haiti(1), Columbia(1), Jamaica(1)",503
+9,8,091,income,">50K(122), <=50K(25), #####(356)",503
+9,8,092,race,"White(25), #####(412), Asian-Pac-Islander(12), Black(47), Amer-Indian-Eskimo(6), Other(1)",503
+9,8,093,native.country,"Greece(1), United-States(25), #####(434), Philippines(3), Germany(2), Mexico(13), Iran(1), India(2), China(1), Japan(1), Cuba(2), Poland(1), Canada(2), England(2), Puerto-Rico(2), Portugal(1), Nicaragua(1), Vietnam(1), El-Salvador(2), Ireland(1), Columbia(1), Jamaica(2), Guatemala(2)",503
+10,9,101,income,">50K(81), <=50K(25), #####(397)",503
+10,9,102,race,"Asian-Pac-Islander(14), White(25), #####(393), Black(55), Other(10), Amer-Indian-Eskimo(6)",503
+10,9,103,native.country,"India(3), United-States(25), Greece(1), #####(428), Portugal(1), Mexico(14), Jamaica(5), Trinadad&Tobago(1), Nicaragua(1), Germany(2), Cuba(1), Japan(1), England(1), Poland(1), El-Salvador(2), China(1), Vietnam(2), Guatemala(1), Puerto-Rico(2), Ireland(1), South(1), Ecuador(2), Dominican-Republic(2), Haiti(1), Laos(1), France(1), Outlying-US(Guam-USVI-etc)(1)",503
+11,10,111,income,">50K(112), <=50K(25), #####(366)",503
+11,10,112,race,"Asian-Pac-Islander(14), White(25), #####(409), Black(51), Amer-Indian-Eskimo(3), Other(1)",503
+11,10,113,native.country,"India(2), Cambodia(1), United-States(25), #####(433), Canada(3), Philippines(4), England(4), Mexico(12), Japan(1), Germany(1), Portugal(1), Cuba(1), China(1), Ireland(1), El-Salvador(3), Taiwan(1), Vietnam(1), South(1), Jamaica(2), Dominican-Republic(1), Puerto-Rico(1), Guatemala(1), Scotland(1), Columbia(1)",503
+12,11,121,income,">50K(111), <=50K(25), #####(367)",503
+12,11,122,race,"White(25), #####(399), Asian-Pac-Islander(17), Black(54), Amer-Indian-Eskimo(3), Other(5)",503
+12,11,123,native.country,"Iran(1), United-States(25), #####(437), Italy(2), Canada(3), South(3), Cuba(3), Mexico(8), Trinadad&Tobago(1), France(1), England(2), Germany(2), Cambodia(1), Taiwan(1), Vietnam(2), Jamaica(1), El-Salvador(1), Philippines(2), Guatemala(1), Haiti(1), Dominican-Republic(1), Yugoslavia(1), Peru(1), Columbia(1), Honduras(1)",503
+13,12,131,income,">50K(108), <=50K(25), #####(370)",503
+13,12,132,race,"White(25), Asian-Pac-Islander(16), #####(410), Black(42), Amer-Indian-Eskimo(6), Other(4)",503
+13,12,133,native.country,"Greece(2), India(3), United-States(25), Italy(3), Germany(2), Taiwan(1), #####(429), England(1), Canada(5), Mexico(11), Japan(1), Poland(2), Cuba(2), Vietnam(2), China(1), El-Salvador(2), Puerto-Rico(4), Guatemala(1), Laos(1), Philippines(2), South(1), Thailand(1), Ecuador(1)",503
+14,13,141,income,">50K(109), <=50K(25), #####(369)",503
+14,13,142,race,"White(25), Asian-Pac-Islander(15), #####(411), Black(44), Amer-Indian-Eskimo(5), Other(3)",503
+14,13,143,native.country,"Canada(5), Italy(2), United-States(25), Japan(2), Germany(2), #####(431), Vietnam(1), Jamaica(3), Trinadad&Tobago(1), Cambodia(1), Taiwan(1), England(2), Poland(1), Ireland(1), India(1), Portugal(1), Cuba(1), China(1), Mexico(9), Puerto-Rico(1), South(2), Guatemala(1), Ecuador(1), Dominican-Republic(2), Philippines(1), Haiti(1), Columbia(1), France(1), Peru(1)",503
+15,14,151,income,">50K(101), <=50K(25), #####(377)",503
+15,14,152,race,"White(25), Asian-Pac-Islander(13), #####(401), Black(55), Amer-Indian-Eskimo(5), Other(4)",503
+15,14,153,native.country,"Iran(2), China(1), United-States(25), #####(440), Poland(1), Canada(1), Puerto-Rico(3), Japan(1), Vietnam(1), India(2), Jamaica(1), Germany(1), Cuba(2), South(2), Mexico(11), Guatemala(2), Dominican-Republic(2), El-Salvador(1), Philippines(1), Nicaragua(2), Scotland(1)",503
+16,15,161,income,">50K(112), <=50K(25), #####(366)",503
+16,15,162,race,"White(25), #####(408), Black(45), Asian-Pac-Islander(16), Amer-Indian-Eskimo(5), Other(4)",503
+16,15,163,native.country,"Iran(1), Canada(3), United-States(25), Germany(3), Ireland(2), Portugal(2), #####(433), Cuba(2), Taiwan(2), Philippines(3), Mexico(11), Jamaica(2), India(1), England(1), Guatemala(2), Italy(1), Vietnam(1), Puerto-Rico(2), South(1), China(1), El-Salvador(1), Haiti(2), Hong(1)",503
+17,16,171,income,">50K(100), <=50K(25), #####(378)",503
+17,16,172,race,"White(25), #####(407), Black(41), Amer-Indian-Eskimo(6), Asian-Pac-Islander(17), Other(7)",503
+17,16,173,native.country,"Iran(3), United-States(25), #####(424), Germany(3), Greece(1), England(2), Puerto-Rico(3), Mexico(10), Italy(2), Jamaica(2), Canada(2), Philippines(6), India(2), Vietnam(2), Cuba(2), Poland(1), Thailand(2), China(2), Dominican-Republic(2), El-Salvador(1), Nicaragua(1), Ecuador(1), Haiti(1), France(1), Peru(1), Hong(1)",503
+18,17,181,income,">50K(107), <=50K(25), #####(371)",503
+18,17,182,race,"White(25), Asian-Pac-Islander(16), #####(412), Black(44), Amer-Indian-Eskimo(4), Other(2)",503
+18,17,183,native.country,"Canada(1), Greece(1), Japan(1), United-States(25), #####(433), Iran(1), Mexico(8), Italy(1), Yugoslavia(1), Cambodia(1), Poland(1), Philippines(6), Hungary(1), Germany(2), Puerto-Rico(2), Cuba(1), Taiwan(1), Vietnam(1), England(1), Guatemala(1), El-Salvador(4), Jamaica(2), South(2), Dominican-Republic(1), Peru(1), Columbia(2), Hong(1)",503
+19,18,191,income,">50K(95), <=50K(25), #####(383)",503
+19,18,192,race,"White(25), Asian-Pac-Islander(14), #####(406), Black(48), Amer-Indian-Eskimo(7), Other(3)",503
+19,18,193,native.country,"England(2), India(2), United-States(25), Iran(1), #####(429), Mexico(11), Poland(2), Canada(2), Cuba(2), China(2), Vietnam(2), Germany(3), Guatemala(1), Jamaica(2), Puerto-Rico(2), El-Salvador(1), South(2), Italy(2), Dominican-Republic(2), Thailand(1), Philippines(3), Ecuador(2), Honduras(1), Columbia(1)",503
+20,19,201,income,"<=50K(25), >50K(108), #####(370)",503
+20,19,202,race,"White(25), Asian-Pac-Islander(12), #####(402), Black(55), Amer-Indian-Eskimo(3), Other(6)",503
+20,19,203,native.country,"Greece(1), Canada(1), Poland(2), United-States(25), Japan(1), #####(434), Cuba(3), El-Salvador(5), Trinadad&Tobago(1), Haiti(2), Vietnam(1), India(1), Taiwan(1), China(1), Germany(1), Puerto-Rico(4), South(1), Mexico(8), Philippines(3), Guatemala(1), Jamaica(1), Portugal(1), Nicaragua(1), Columbia(2), Outlying-US(Guam-USVI-etc)(1)",503
+21,20,211,income,"<=50K(25), >50K(99), #####(379)",503
+21,20,212,race,"White(25), Asian-Pac-Islander(14), #####(404), Black(55), Amer-Indian-Eskimo(3), Other(2)",503
+21,20,213,native.country,"Greece(1), Japan(2), United-States(25), #####(445), England(2), Mexico(5), Philippines(5), India(1), Vietnam(1), China(2), Germany(2), Canada(1), South(1), El-Salvador(1), Guatemala(1), Jamaica(1), Haiti(1), Dominican-Republic(1), Italy(1), Ecuador(1), Peru(1), Columbia(1), Hong(1)",503
+22,21,221,income,"<=50K(25), >50K(108), #####(370)",503
+22,21,222,race,"White(25), #####(413), Black(45), Asian-Pac-Islander(13), Other(5), Amer-Indian-Eskimo(2)",503
+22,21,223,native.country,"Greece(1), Cuba(2), Canada(3), United-States(25), England(2), #####(436), Iran(1), Puerto-Rico(2), Cambodia(1), South(1), India(2), Guatemala(2), Ireland(1), China(1), El-Salvador(2), Japan(1), France(1), Jamaica(1), Italy(1), Philippines(3), Mexico(10), Peru(1), Columbia(1), Dominican-Republic(1), Nicaragua(1)",503
+23,22,231,income,"<=50K(25), >50K(110), #####(368)",503
+23,22,232,race,"White(25), Asian-Pac-Islander(12), #####(410), Amer-Indian-Eskimo(3), Black(49), Other(4)",503
+23,22,233,native.country,"Greece(1), Canada(1), India(2), Cuba(2), Germany(2), Puerto-Rico(3), England(2), United-States(25), #####(439), Philippines(4), Yugoslavia(1), El-Salvador(1), South(1), Guatemala(1), Japan(1), Ecuador(1), Vietnam(1), Jamaica(2), Mexico(7), Dominican-Republic(2), Peru(1), Haiti(1), Columbia(2)",503
+24,23,241,income,">50K(113), <=50K(25), #####(365)",503
+24,23,242,race,"White(25), Asian-Pac-Islander(15), #####(407), Black(44), Amer-Indian-Eskimo(7), Other(5)",503
+24,23,243,native.country,"Iran(1), India(2), Poland(2), Germany(2), United-States(25), Taiwan(1), #####(426), Japan(2), Ireland(2), Trinadad&Tobago(1), Mexico(13), Philippines(4), Puerto-Rico(1), Guatemala(2), Canada(2), England(1), Vietnam(1), South(1), El-Salvador(2), Cuba(2), France(1), Peru(1), Columbia(1), Haiti(1), Italy(1), Portugal(2), Dominican-Republic(2), Nicaragua(1)",503
+25,24,251,income,">50K(98), <=50K(25), #####(380)",503
+25,24,252,race,"White(25), Asian-Pac-Islander(16), #####(410), Black(44), Other(3), Amer-Indian-Eskimo(5)",503
+25,24,253,native.country,"Canada(3), Germany(4), South(1), United-States(25), #####(430), Poland(1), Guatemala(2), Vietnam(2), Cuba(2), Puerto-Rico(5), Japan(1), China(1), Taiwan(1), Philippines(3), Jamaica(3), Italy(1), Mexico(9), Haiti(1), Portugal(1), Hong(1), Thailand(1), Columbia(2), Honduras(1), Scotland(1), Outlying-US(Guam-USVI-etc)(1)",503
+26,25,261,income,">50K(107), <=50K(25), #####(371)",503
+26,25,262,race,"White(25), Asian-Pac-Islander(12), #####(406), Black(54), Other(4), Amer-Indian-Eskimo(2)",503
+26,25,263,native.country,"Poland(2), South(2), United-States(25), #####(433), Germany(2), El-Salvador(2), Canada(3), Puerto-Rico(3), Guatemala(1), China(1), Italy(1), England(2), Vietnam(1), India(1), Taiwan(1), Ireland(1), Cuba(1), Japan(1), Philippines(2), Jamaica(2), Haiti(1), Mexico(9), Dominican-Republic(2), Portugal(1), Ecuador(1), Nicaragua(1), Columbia(1)",503
+27,26,271,income,">50K(112), <=50K(25), #####(366)",503
+27,26,272,race,"White(25), Asian-Pac-Islander(16), #####(402), Black(52), Other(5), Amer-Indian-Eskimo(3)",503
+27,26,273,native.country,"England(3), Canada(2), United-States(25), China(1), Germany(2), #####(433), South(1), Guatemala(1), Iran(1), Philippines(5), Puerto-Rico(3), Vietnam(2), Ireland(1), Mexico(11), Hungary(1), Jamaica(2), India(2), Haiti(1), Cambodia(1), Dominican-Republic(1), Columbia(1), Nicaragua(1), Honduras(1), Yugoslavia(1)",503
+28,27,281,income,">50K(110), <=50K(25), #####(368)",503
+28,27,282,race,"White(25), #####(409), Asian-Pac-Islander(9), Black(46), Other(8), Amer-Indian-Eskimo(6)",503
+28,27,283,native.country,"Poland(2), United-States(25), #####(438), South(1), Germany(3), Italy(1), Guatemala(1), Iran(1), Puerto-Rico(1), Japan(2), Cuba(3), Canada(1), Philippines(2), El-Salvador(3), Mexico(14), Nicaragua(1), Dominican-Republic(1), Ecuador(1), Peru(1), Laos(1)",503
+29,28,291,income,">50K(116), <=50K(25), #####(362)",503
+29,28,292,race,"White(25), #####(405), Asian-Pac-Islander(12), Black(51), Amer-Indian-Eskimo(6), Other(4)",503
+29,28,293,native.country,"England(3), United-States(25), #####(437), China(2), Guatemala(1), Portugal(1), Iran(1), Philippines(4), Italy(2), Germany(1), Ecuador(2), Canada(2), Hungary(1), Puerto-Rico(1), Jamaica(1), Vietnam(1), Mexico(12), El-Salvador(1), Haiti(1), Dominican-Republic(1), Columbia(1), Scotland(1), Outlying-US(Guam-USVI-etc)(1)",503
+30,29,301,income,">50K(113), <=50K(25), #####(365)",503
+30,29,302,race,"White(25), Black(42), #####(402), Asian-Pac-Islander(20), Other(6), Amer-Indian-Eskimo(8)",503
+30,29,303,native.country,"England(4), Germany(3), United-States(25), #####(434), Japan(1), India(3), Ireland(1), Taiwan(2), Canada(1), Italy(1), Puerto-Rico(1), Cuba(2), Mexico(11), Cambodia(1), Vietnam(1), El-Salvador(2), South(1), Nicaragua(1), Philippines(3), Columbia(1), Portugal(1), Dominican-Republic(1), Hong(1), France(1)",503
+31,30,311,income,">50K(110), <=50K(25), #####(368)",503
+31,30,312,race,"White(25), #####(416), Black(37), Asian-Pac-Islander(16), Other(2), Amer-Indian-Eskimo(7)",503
+31,30,313,native.country,"United-States(25), #####(438), Cuba(3), Poland(2), Taiwan(2), Iran(1), England(2), Italy(2), Guatemala(1), Puerto-Rico(2), South(2), Nicaragua(1), Canada(1), El-Salvador(2), Vietnam(1), Ecuador(1), Jamaica(1), Haiti(1), Mexico(6), Columbia(2), Philippines(2), Dominican-Republic(1), Thailand(2), Hong(1), France(1)",503
+32,31,321,income,">50K(105), <=50K(25), #####(373)",503
+32,31,322,race,"White(25), #####(396), Black(48), Other(9), Asian-Pac-Islander(20), Amer-Indian-Eskimo(5)",503
+32,31,323,native.country,"Canada(5), Hungary(1), United-States(25), England(1), #####(426), Japan(2), Jamaica(2), Puerto-Rico(3), Philippines(4), Iran(1), Cuba(1), Taiwan(1), Guatemala(1), Italy(2), Mexico(10), Vietnam(2), Nicaragua(1), South(2), Haiti(1), India(2), Germany(2), Dominican-Republic(1), El-Salvador(1), China(1), Yugoslavia(1), France(2), Peru(1), Laos(1)",503
+33,32,331,income,">50K(101), <=50K(25), #####(377)",503
+33,32,332,race,"White(25), Asian-Pac-Islander(12), #####(404), Black(55), Other(3), Amer-Indian-Eskimo(4)",503
+33,32,333,native.country,"Cuba(3), Ireland(1), Japan(1), United-States(25), Canada(3), #####(434), Iran(1), Puerto-Rico(2), Guatemala(1), England(1), Vietnam(2), Germany(2), Philippines(3), Haiti(1), Jamaica(3), Scotland(1), Dominican-Republic(2), Mexico(11), India(1), Italy(1), Portugal(1), China(1), Thailand(1), Columbia(1)",503
+34,33,341,income,">50K(108), <=50K(25), #####(369)",502
+34,33,342,race,"White(25), #####(406), Amer-Indian-Eskimo(2), Black(50), Other(4), Asian-Pac-Islander(15)",502
+34,33,343,native.country,"United-States(25), #####(438), Cuba(1), Poland(2), Guatemala(1), Puerto-Rico(1), Germany(2), Haiti(2), Japan(1), Mexico(13), Vietnam(1), Cambodia(1), Portugal(1), Philippines(4), Columbia(2), South(1), China(1), Italy(1), India(1), France(1), Hong(1), Laos(1)",502
+35,34,351,income,">50K(107), <=50K(25), #####(370)",502
+35,34,352,race,"White(25), Amer-Indian-Eskimo(9), #####(410), Black(46), Asian-Pac-Islander(8), Other(4)",502
+35,34,353,native.country,"Puerto-Rico(2), England(1), United-States(25), Canada(2), Iran(1), #####(442), Germany(1), Cuba(1), Vietnam(1), Portugal(1), Thailand(1), Mexico(11), Trinadad&Tobago(1), Dominican-Republic(1), South(2), China(1), Italy(1), Philippines(1), Jamaica(1), India(1), El-Salvador(1), Yugoslavia(1), Peru(1), Outlying-US(Guam-USVI-etc)(1)",502
+36,35,361,income,">50K(101), <=50K(25), #####(376)",502
+36,35,362,race,"White(25), Asian-Pac-Islander(19), #####(394), Other(6), Black(52), Amer-Indian-Eskimo(6)",502
+36,35,363,native.country,"England(2), Iran(1), United-States(25), Poland(2), #####(425), Puerto-Rico(1), Haiti(2), Vietnam(1), Canada(1), Japan(1), Guatemala(2), Philippines(5), Scotland(1), El-Salvador(3), China(1), Italy(2), Cambodia(1), Trinadad&Tobago(1), Germany(2), South(2), Taiwan(1), Mexico(12), France(1), Dominican-Republic(2), Columbia(1), India(1), Jamaica(1), Nicaragua(1), Laos(1)",502
+37,36,371,income,">50K(108), <=50K(25), #####(369)",502
+37,36,372,race,"White(25), #####(419), Black(40), Asian-Pac-Islander(11), Amer-Indian-Eskimo(3), Other(4)",502
+37,36,373,native.country,"Greece(2), Ireland(1), England(1), Cuba(2), United-States(25), #####(433), Poland(1), Guatemala(2), Haiti(1), Canada(1), Germany(2), Philippines(3), Vietnam(1), Puerto-Rico(1), India(2), China(1), El-Salvador(2), Italy(1), Mexico(10), Japan(1), Dominican-Republic(1), Columbia(2), Nicaragua(1), Peru(2), Jamaica(1), Honduras(1), Hong(1)",502
+38,37,381,income,">50K(118), <=50K(25), #####(359)",502
+38,37,382,race,"White(25), Other(4), Black(53), #####(399), Asian-Pac-Islander(17), Amer-Indian-Eskimo(4)",502
+38,37,383,native.country,"Canada(3), England(2), Puerto-Rico(3), Hungary(1), United-States(25), #####(431), China(2), Vietnam(2), Taiwan(2), Philippines(4), India(2), Thailand(1), France(1), Mexico(11), Dominican-Republic(1), Columbia(2), Germany(3), Jamaica(2), El-Salvador(2), Ecuador(1), Laos(1)",502
+39,38,391,income,">50K(112), <=50K(25), #####(365)",502
+39,38,392,race,"White(25), Asian-Pac-Islander(16), #####(405), Black(47), Other(3), Amer-Indian-Eskimo(6)",502
+39,38,393,native.country,"Canada(2), Poland(1), United-States(25), Haiti(1), #####(437), Puerto-Rico(2), China(2), Philippines(2), Japan(2), Columbia(1), India(2), England(1), Mexico(11), France(2), Cuba(1), South(2), Taiwan(1), Jamaica(2), Nicaragua(1), El-Salvador(2), Peru(1), Outlying-US(Guam-USVI-etc)(1)",502
+40,39,401,income,"<=50K(25), >50K(96), #####(381)",502
+40,39,402,race,"Black(48), White(25), #####(403), Asian-Pac-Islander(17), Amer-Indian-Eskimo(6), Other(3)",502
+40,39,403,native.country,"Haiti(1), United-States(25), Columbia(1), #####(427), Cuba(2), Thailand(1), Germany(3), Mexico(12), Puerto-Rico(1), England(1), Canada(1), China(1), Guatemala(1), Japan(1), Vietnam(1), India(3), Philippines(6), Taiwan(1), South(2), Ireland(1), Nicaragua(1), Italy(1), Jamaica(1), Yugoslavia(1), El-Salvador(2), Honduras(1), Ecuador(1), Hong(1), Laos(1)",502
+41,40,411,income,">50K(113), <=50K(25), #####(364)",502
+41,40,412,race,"White(25), #####(401), Black(51), Asian-Pac-Islander(14), Amer-Indian-Eskimo(6), Other(5)",502
+41,40,413,native.country,"Canada(3), Iran(2), Puerto-Rico(2), Poland(1), Guatemala(1), United-States(25), England(1), #####(436), Vietnam(1), Ireland(1), Greece(1), Columbia(1), Cuba(1), Philippines(2), South(1), Nicaragua(1), Mexico(10), Jamaica(1), Germany(1), Japan(1), El-Salvador(1), Dominican-Republic(2), Trinadad&Tobago(1), Italy(2), Portugal(2), Ecuador(1)",502
+42,41,421,income,">50K(103), <=50K(25), #####(374)",502
+42,41,422,race,"Other(6), Asian-Pac-Islander(13), White(25), Black(48), #####(406), Amer-Indian-Eskimo(4)",502
+42,41,423,native.country,"Iran(1), China(2), Canada(1), United-States(25), Taiwan(2), Puerto-Rico(3), Cuba(3), Ireland(1), #####(427), Nicaragua(1), Japan(2), Guatemala(1), India(1), Honduras(1), Mexico(14), Germany(2), South(1), England(2), France(1), Columbia(1), Philippines(2), Jamaica(1), Portugal(1), El-Salvador(2), Peru(1), Dominican-Republic(1), Yugoslavia(1), Outlying-US(Guam-USVI-etc)(1)",502
+43,42,431,income,">50K(108), <=50K(25), #####(369)",502
+43,42,432,race,"Asian-Pac-Islander(20), White(25), #####(393), Black(57), Amer-Indian-Eskimo(4), Other(3)",502
+43,42,433,native.country,"Iran(1), Vietnam(2), China(1), Thailand(1), United-States(25), Cambodia(1), England(2), Puerto-Rico(1), #####(431), France(1), India(3), South(2), Germany(4), Guatemala(1), Canada(1), Laos(1), Mexico(10), Philippines(2), Jamaica(3), Portugal(1), El-Salvador(2), Peru(1), Dominican-Republic(2), Italy(1), Ecuador(1), Hong(1)",502
+44,43,441,income,">50K(111), <=50K(25), #####(366)",502
+44,43,442,race,"White(25), Asian-Pac-Islander(11), Black(46), #####(412), Amer-Indian-Eskimo(6), Other(2)",502
+44,43,443,native.country,"England(1), Honduras(1), Puerto-Rico(2), United-States(25), Canada(3), Cuba(2), Nicaragua(1), #####(428), India(3), Haiti(1), Columbia(1), Poland(1), Ireland(1), Guatemala(1), Germany(2), Mexico(12), Trinadad&Tobago(1), Philippines(3), El-Salvador(3), Scotland(1), Ecuador(2), Dominican-Republic(1), Japan(1), Jamaica(1), Yugoslavia(1), Italy(2), Outlying-US(Guam-USVI-etc)(1)",502
+45,44,451,income,">50K(102), <=50K(25), #####(375)",502
+45,44,452,race,"White(25), Asian-Pac-Islander(17), Black(50), Other(3), #####(402), Amer-Indian-Eskimo(5)",502
+45,44,453,native.country,"Hungary(1), Thailand(1), Taiwan(1), Puerto-Rico(2), India(2), Poland(1), England(1), Guatemala(1), Vietnam(1), Haiti(1), United-States(25), Cambodia(1), Cuba(2), South(2), #####(432), Canada(1), Mexico(11), Greece(1), France(1), Jamaica(2), Germany(1), Philippines(4), Columbia(1), Dominican-Republic(2), Peru(1), Italy(1), Hong(1), Portugal(1)",502
+46,45,461,income,">50K(107), <=50K(25), #####(370)",502
+46,45,462,race,"Asian-Pac-Islander(9), White(25), Other(4), Black(54), #####(406), Amer-Indian-Eskimo(4)",502
+46,45,463,native.country,"China(1), Puerto-Rico(1), India(2), United-States(25), Nicaragua(1), Trinadad&Tobago(1), Canada(2), Greece(1), Jamaica(2), #####(434), El-Salvador(3), England(1), Vietnam(1), South(2), Mexico(9), Cuba(2), Germany(3), Guatemala(1), Dominican-Republic(1), Peru(1), Ecuador(1), Japan(1), Philippines(2), Laos(1), Italy(3)",502
+47,46,471,income,">50K(110), <=50K(25), #####(367)",502
+47,46,472,race,"Asian-Pac-Islander(19), White(25), Black(39), Amer-Indian-Eskimo(8), Other(2), #####(409)",502
+47,46,473,native.country,"India(1), Yugoslavia(1), Cuba(2), Jamaica(2), United-States(25), Nicaragua(1), Canada(1), Mexico(11), #####(430), China(2), Puerto-Rico(1), Vietnam(1), Poland(1), France(1), Philippines(7), South(1), Columbia(2), Laos(1), England(1), Italy(1), Taiwan(1), Germany(1), El-Salvador(2), Iran(1), Japan(1), Portugal(1), Dominican-Republic(1), Hong(1)",502
+48,47,481,income,">50K(107), <=50K(25), #####(370)",502
+48,47,482,race,"Other(5), Black(51), White(25), Asian-Pac-Islander(15), #####(404), Amer-Indian-Eskimo(2)",502
+48,47,483,native.country,"Ecuador(1), Haiti(1), Guatemala(1), Mexico(9), Outlying-US(Guam-USVI-etc)(1), United-States(25), England(1), #####(436), Japan(2), El-Salvador(2), Cuba(1), Peru(1), Iran(1), Vietnam(1), Germany(4), Canada(1), Cambodia(1), Italy(2), Philippines(2), Columbia(1), Hong(1), Ireland(1), Portugal(2), Dominican-Republic(2), Scotland(1), Poland(1)",502

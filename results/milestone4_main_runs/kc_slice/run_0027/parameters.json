@@ -1,0 +1,47 @@
+{
+  "project_k_reference": 10,
+  "seed": 3,
+  "train_rows": 24129,
+  "sensitive_attributes": [
+    "income",
+    "race",
+    "native.country"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "sex"
+  ],
+  "numeric_qids": [
+    "age",
+    "education.num"
+  ],
+  "sa_cardinalities": {
+    "income": 2,
+    "race": 5,
+    "native.country": 41
+  },
+  "bucket_count": 48,
+  "internal_k": 502.6875,
+  "base_bucket_size": 502,
+  "remainder": 33,
+  "min_bucket_size": 502,
+  "max_bucket_size": 503,
+  "privacy_c": 5.0,
+  "hsa_values": {
+    "income": "<=50K",
+    "race": "White",
+    "native.country": "United-States"
+  },
+  "correlation_threshold": 0.4,
+  "bucket_allocation": "multi-SA composite percentile stratification with balanced floor/ceil bucket sizes",
+  "qid_grouping": "deterministic greedy non-overlapping grouping",
+  "qid_permutation": "numpy default_rng(seed + bucket_number) per bucket",
+  "run_id": 27,
+  "dataset": "Adult",
+  "method": "KC-Slice",
+  "sa_count": 3
+}

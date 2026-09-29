@@ -1,0 +1,31 @@
+{
+  "run_id": 27,
+  "dataset": "Adult",
+  "method": "KC-Slice",
+  "seed": 3,
+  "project_k_reference": 10,
+  "privacy_c": 5.0,
+  "correlation_threshold": 0.4,
+  "sensitive_attributes": [
+    "income",
+    "race",
+    "native.country"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "sex"
+  ],
+  "training_rows": 24129,
+  "bucketed_rows": 24129,
+  "privacy_checks": 144,
+  "sensitive_cells": 144,
+  "sid_links": 72387,
+  "correlation_records": 720,
+  "qid_grouping_records": 192,
+  "bqa_rows": 24129,
+  "permutation_records": 192
+}
