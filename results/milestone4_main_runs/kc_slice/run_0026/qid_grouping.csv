@@ -1,0 +1,193 @@
+bucket_id,bucket,group_id,group,group_size
+0,1,1,age + marital.status,2
+0,1,2,workclass,1
+0,1,3,education.num + occupation,2
+0,1,4,sex,1
+1,2,1,age + marital.status,2
+1,2,2,workclass,1
+1,2,3,education.num + occupation,2
+1,2,4,sex,1
+2,3,1,age,1
+2,3,2,workclass,1
+2,3,3,education.num + occupation,2
+2,3,4,marital.status + sex,2
+3,4,1,age + marital.status,2
+3,4,2,workclass,1
+3,4,3,education.num + occupation,2
+3,4,4,sex,1
+4,5,1,age + marital.status,2
+4,5,2,workclass,1
+4,5,3,education.num + occupation,2
+4,5,4,sex,1
+5,6,1,age + marital.status,2
+5,6,2,workclass,1
+5,6,3,education.num + occupation,2
+5,6,4,sex,1
+6,7,1,age + marital.status,2
+6,7,2,workclass,1
+6,7,3,education.num + occupation,2
+6,7,4,sex,1
+7,8,1,age + marital.status,2
+7,8,2,workclass,1
+7,8,3,education.num + occupation,2
+7,8,4,sex,1
+8,9,1,age + marital.status,2
+8,9,2,workclass,1
+8,9,3,education.num + occupation,2
+8,9,4,sex,1
+9,10,1,age + marital.status,2
+9,10,2,workclass,1
+9,10,3,education.num + occupation,2
+9,10,4,sex,1
+10,11,1,age + marital.status,2
+10,11,2,workclass,1
+10,11,3,education.num + occupation,2
+10,11,4,sex,1
+11,12,1,age + marital.status,2
+11,12,2,workclass,1
+11,12,3,education.num + occupation,2
+11,12,4,sex,1
+12,13,1,age + marital.status,2
+12,13,2,workclass,1
+12,13,3,education.num + occupation,2
+12,13,4,sex,1
+13,14,1,age + marital.status,2
+13,14,2,workclass,1
+13,14,3,education.num + occupation,2
+13,14,4,sex,1
+14,15,1,age + marital.status,2
+14,15,2,workclass,1
+14,15,3,education.num + occupation,2
+14,15,4,sex,1
+15,16,1,age + marital.status,2
+15,16,2,workclass,1
+15,16,3,education.num + occupation,2
+15,16,4,sex,1
+16,17,1,age + marital.status,2
+16,17,2,workclass,1
+16,17,3,education.num + occupation,2
+16,17,4,sex,1
+17,18,1,age + marital.status,2
+17,18,2,workclass,1
+17,18,3,education.num + occupation,2
+17,18,4,sex,1
+18,19,1,age + marital.status,2
+18,19,2,workclass,1
+18,19,3,education.num + occupation,2
+18,19,4,sex,1
+19,20,1,age + marital.status,2
+19,20,2,workclass,1
+19,20,3,education.num + occupation,2
+19,20,4,sex,1
+20,21,1,age + marital.status,2
+20,21,2,workclass,1
+20,21,3,education.num + occupation,2
+20,21,4,sex,1
+21,22,1,age + marital.status,2
+21,22,2,workclass,1
+21,22,3,education.num + occupation,2
+21,22,4,sex,1
+22,23,1,age + marital.status,2
+22,23,2,workclass,1
+22,23,3,education.num + occupation,2
+22,23,4,sex,1
+23,24,1,age + marital.status,2
+23,24,2,workclass,1
+23,24,3,education.num + occupation,2
+23,24,4,sex,1
+24,25,1,age + marital.status,2
+24,25,2,workclass,1
+24,25,3,education.num + occupation,2
+24,25,4,sex,1
+25,26,1,age + marital.status,2
+25,26,2,workclass,1
+25,26,3,education.num + occupation,2
+25,26,4,sex,1
+26,27,1,age + marital.status,2
+26,27,2,workclass,1
+26,27,3,education.num + occupation,2
+26,27,4,sex,1
+27,28,1,age + marital.status,2
+27,28,2,workclass,1
+27,28,3,education.num + occupation,2
+27,28,4,sex,1
+28,29,1,age + marital.status,2
+28,29,2,workclass,1
+28,29,3,education.num + occupation,2
+28,29,4,sex,1
+29,30,1,age + marital.status,2
+29,30,2,workclass,1
+29,30,3,education.num + occupation,2
+29,30,4,sex,1
+30,31,1,age + marital.status,2
+30,31,2,workclass,1
+30,31,3,education.num + occupation,2
+30,31,4,sex,1
+31,32,1,age + marital.status,2
+31,32,2,workclass,1
+31,32,3,education.num + occupation,2
+31,32,4,sex,1
+32,33,1,age + marital.status,2
+32,33,2,workclass,1
+32,33,3,education.num + occupation,2
+32,33,4,sex,1
+33,34,1,age + marital.status,2
+33,34,2,workclass,1
+33,34,3,education.num + occupation,2
+33,34,4,sex,1
+34,35,1,age + marital.status,2
+34,35,2,workclass,1
+34,35,3,education.num + occupation,2
+34,35,4,sex,1
+35,36,1,age + marital.status,2
+35,36,2,workclass,1
+35,36,3,education.num + occupation,2
+35,36,4,sex,1
+36,37,1,age + marital.status,2
+36,37,2,workclass,1
+36,37,3,education.num + occupation,2
+36,37,4,sex,1
+37,38,1,age + marital.status,2
+37,38,2,workclass,1
+37,38,3,education.num + occupation,2
+37,38,4,sex,1
+38,39,1,age + marital.status,2
+38,39,2,workclass,1
+38,39,3,education.num + occupation,2
+38,39,4,sex,1
+39,40,1,age + marital.status,2
+39,40,2,workclass,1
+39,40,3,education.num + occupation,2
+39,40,4,sex,1
+40,41,1,age + marital.status,2
+40,41,2,workclass,1
+40,41,3,education.num + occupation,2
+40,41,4,sex,1
+41,42,1,age + marital.status,2
+41,42,2,workclass,1
+41,42,3,education.num + occupation,2
+41,42,4,sex,1
+42,43,1,age + marital.status,2
+42,43,2,workclass,1
+42,43,3,education.num + occupation,2
+42,43,4,sex,1
+43,44,1,age + marital.status,2
+43,44,2,workclass,1
+43,44,3,education.num + occupation,2
+43,44,4,sex,1
+44,45,1,age + marital.status,2
+44,45,2,workclass,1
+44,45,3,education.num + occupation,2
+44,45,4,sex,1
+45,46,1,age + marital.status,2
+45,46,2,workclass,1
+45,46,3,education.num + occupation,2
+45,46,4,sex,1
+46,47,1,age + marital.status,2
+46,47,2,workclass,1
+46,47,3,education.num + occupation,2
+46,47,4,sex,1
+47,48,1,age + marital.status,2
+47,48,2,workclass,1
+47,48,3,education.num + occupation,2
+47,48,4,sex,1
