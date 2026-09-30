@@ -1,6 +1,3 @@
-# Milestone 2 records the experiment configuration baseline.
-# No anonymization runs are performed in this milestone.
-
 k: 10
 
 seeds:

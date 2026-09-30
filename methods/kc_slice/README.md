@@ -1,12 +1,15 @@
-# KC-Slice Reimplementation Skeleton
+# KC-Slice Reimplementation
 
-Milestone 2 creates the project structure only.
+This directory contains the project reimplementation of the KC-Slice
+sensitivity-induced slicing algorithm.
 
-Files:
-- `algorithm.py`
-- `config.py`
-- `io.py`
-- `evaluate.py`
-- `smoke_test.py`
+Source paper:
+KC-Slice: A dynamic privacy-preserving data publishing technique
+for multisensitive attributes.
 
-Implementation work is intentionally deferred to the later milestone.
+Implementation rules:
+1. Follow the origin paper.
+2. Record every parameter taken from the paper.
+3. Do not silently invent unspecified parameters.
+4. Record every experimental assumption.
+5. Keep this implementation separate from Mondrian and ARX.
