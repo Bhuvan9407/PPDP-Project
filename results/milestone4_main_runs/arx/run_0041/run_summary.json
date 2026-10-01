@@ -1,0 +1,33 @@
+{
+  "run_id": 41,
+  "dataset": "Diabetes",
+  "sa_count": 2,
+  "sensitive_attributes": [
+    "diag_1",
+    "diag_2"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "method": "ARX",
+  "seed": 2,
+  "k": 10,
+  "training_rows": 78442,
+  "bucketed_rows": 78442,
+  "sid_links": 156884,
+  "equivalence_classes": 10,
+  "minimum_class_size": 49,
+  "maximum_class_size": 20312,
+  "mean_class_size": 7844.2,
+  "discernibility_metric": 1142444516,
+  "runtime_seconds": 7.558865939000498,
+  "correlation_records": 1,
+  "qid_grouping_records": 10,
+  "bqa_rows": 78442,
+  "permutation_records": 1,
+  "privacy_checks": 20,
+  "sensitive_cells": 20,
+  "total_sid_links": 156884
+}
