@@ -1,0 +1,2 @@
+run_id,method,status,permutation,reason
+42,ARX,PASS,not_applicable,ARX anonymization does not use the KC-Slice QID permutation stage.
