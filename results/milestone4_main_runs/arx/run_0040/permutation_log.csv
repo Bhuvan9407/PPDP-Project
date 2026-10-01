@@ -1,0 +1,2 @@
+run_id,method,action,reason,records_affected
+40,ARX,none,ARX does not apply the KC-Slice QID permutation step.,0

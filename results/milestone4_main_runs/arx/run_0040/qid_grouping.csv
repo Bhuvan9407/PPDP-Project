@@ -1,0 +1,11 @@
+class_id,class_size,gen_race,gen_gender,gen_age,grouping_method
+0,378,*,*,[10-20),ARX equivalence class
+1,1173,*,*,[20-30),ARX equivalence class
+2,2791,*,*,[30-40),ARX equivalence class
+3,17397,*,*,[60-70),ARX equivalence class
+4,20280,*,*,[70-80),ARX equivalence class
+5,13430,*,*,[80-90),ARX equivalence class
+6,7451,*,*,[40-50),ARX equivalence class
+7,13321,*,*,[50-60),ARX equivalence class
+8,2163,*,*,[90-100),ARX equivalence class
+9,58,*,*,[0-10),ARX equivalence class

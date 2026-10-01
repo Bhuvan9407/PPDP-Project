@@ -1,0 +1,36 @@
+{
+  "run_id": 40,
+  "dataset": "Diabetes",
+  "method": "ARX",
+  "seed": 1,
+  "project_k_reference": 10,
+  "sa_count": 2,
+  "sensitive_attributes": [
+    "diag_1",
+    "diag_2"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "training_rows": 78442,
+  "test_rows": 19611,
+  "bucketed_rows": 78442,
+  "privacy_checks": 20,
+  "sensitive_cells": 20,
+  "sid_links": 156884,
+  "correlation_records": 1,
+  "qid_grouping_records": 10,
+  "bqa_rows": 78442,
+  "permutation_records": 1,
+  "equivalence_classes": 10,
+  "minimum_class_size": 58,
+  "maximum_class_size": 20280,
+  "mean_class_size": 7844.2,
+  "discernibility_metric": 1141255778,
+  "arx_runtime_seconds": 9.813291315000242,
+  "arx_version": "3.9.2",
+  "suppression_limit": 0.0,
+  "k_anonymity": "PASS"
+}

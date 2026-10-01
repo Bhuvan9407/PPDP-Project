@@ -1,0 +1,44 @@
+{
+  "run_id": 40,
+  "dataset": "Diabetes",
+  "method": "ARX",
+  "seed": 1,
+  "project_k_reference": 10,
+  "sa_count": 2,
+  "sensitive_attributes": [
+    "diag_1",
+    "diag_2"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "numeric_qids": [],
+  "categorical_qids": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "training_rows": 78442,
+  "test_rows": 19611,
+  "equivalence_classes": 10,
+  "minimum_class_size": 58,
+  "maximum_class_size": 20280,
+  "mean_class_size": 7844.2,
+  "discernibility_metric": 1141255778,
+  "arx_runtime_seconds": 9.813291315000242,
+  "arx_version": "3.9.2",
+  "suppression_limit": 0.0,
+  "privacy_model": "k-anonymity",
+  "k_anonymity": "PASS",
+  "hierarchies": {
+    "race": "/content/PPDP-Project/hierarchies/diabetes_arx_run40/race.csv",
+    "gender": "/content/PPDP-Project/hierarchies/diabetes_arx_run40/gender.csv",
+    "age": "/content/PPDP-Project/hierarchies/diabetes_arx_run40/age.csv"
+  },
+  "sensitive_attribute_handling": "diag_1 and diag_2 are retained unchanged and evaluated over the ARX QID equivalence classes.",
+  "source_row_handling": "_source_row is retained as an insensitive attribute for deterministic row alignment.",
+  "correlation_audit": "not_applicable",
+  "qid_permutation": "none"
+}
