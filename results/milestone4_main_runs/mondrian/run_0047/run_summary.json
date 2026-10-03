@@ -1,0 +1,37 @@
+{
+  "run_id": 47,
+  "dataset": "Diabetes",
+  "method": "Mondrian",
+  "seed": 2,
+  "project_k_reference": 10,
+  "sa_count": 3,
+  "sensitive_attributes": [
+    "diag_1",
+    "diag_2",
+    "diag_3"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "training_rows": 78442,
+  "test_rows": 19611,
+  "bucketed_rows": 78442,
+  "privacy_checks": 150,
+  "sensitive_cells": 150,
+  "sid_links": 235326,
+  "correlation_records": 1,
+  "qid_grouping_records": 50,
+  "bqa_rows": 78442,
+  "permutation_records": 1,
+  "equivalence_classes": 50,
+  "minimum_class_size": 12,
+  "maximum_class_size": 8587,
+  "mean_class_size": 1568.84,
+  "discernibility_metric": 462454336,
+  "ncp_percent": 4.06785574999032,
+  "mondrian_runtime_seconds": 0.21608686447143555,
+  "wall_runtime_seconds": 0.7962954380000156,
+  "k_anonymity": "PASS"
+}
