@@ -1,0 +1,2871 @@
+class_id,SID,SA,cell,cell_record_count
+0,00001,income,<=50K(17),17
+0,00002,race,"White(14), Amer-Indian-Eskimo(1), Black(1), Other(1)",17
+1,00011,income,<=50K(18),18
+1,00012,race,"White(15), Black(2), Amer-Indian-Eskimo(1)",18
+2,00021,income,<=50K(32),32
+2,00022,race,"White(30), Black(2)",32
+3,00031,income,<=50K(60),60
+3,00032,race,"White(54), Black(5), Asian-Pac-Islander(1)",60
+4,00041,income,<=50K(44),44
+4,00042,race,"White(38), Black(6)",44
+5,00051,income,<=50K(23),23
+5,00052,race,"White(20), Black(3)",23
+6,00061,income,<=50K(24),24
+6,00062,race,"White(21), Black(3)",24
+7,00071,income,"<=50K(19), >50K(1)",20
+7,00072,race,"White(15), Black(4), Other(1)",20
+8,00081,income,<=50K(15),15
+8,00082,race,"White(14), Black(1)",15
+9,00091,income,<=50K(16),16
+9,00092,race,"White(10), Black(6)",16
+10,00101,income,<=50K(18),18
+10,00102,race,"White(14), Black(4)",18
+11,00111,income,"<=50K(9), >50K(1)",10
+11,00112,race,"White(7), Black(3)",10
+12,00121,income,<=50K(16),16
+12,00122,race,"White(12), Black(4)",16
+13,00131,income,"<=50K(15), >50K(1)",16
+13,00132,race,White(16),16
+14,00141,income,<=50K(25),25
+14,00142,race,"White(19), Black(4), Other(1), Amer-Indian-Eskimo(1)",25
+15,00151,income,"<=50K(29), >50K(1)",30
+15,00152,race,"White(27), Black(3)",30
+16,00161,income,<=50K(13),13
+16,00162,race,"White(12), Black(1)",13
+17,00171,income,"<=50K(12), >50K(1)",13
+17,00172,race,"White(9), Black(3), Asian-Pac-Islander(1)",13
+18,00181,income,<=50K(20),20
+18,00182,race,"White(17), Black(3)",20
+19,00191,income,<=50K(14),14
+19,00192,race,"Black(7), White(6), Amer-Indian-Eskimo(1)",14
+20,00201,income,<=50K(18),18
+20,00202,race,"White(15), Black(1), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",18
+21,00211,income,<=50K(17),17
+21,00212,race,"Black(9), White(8)",17
+22,00221,income,<=50K(23),23
+22,00222,race,"White(18), Black(4), Other(1)",23
+23,00231,income,<=50K(16),16
+23,00232,race,"White(8), Black(7), Amer-Indian-Eskimo(1)",16
+24,00241,income,<=50K(10),10
+24,00242,race,"White(5), Black(4), Amer-Indian-Eskimo(1)",10
+25,00251,income,<=50K(24),24
+25,00252,race,"White(15), Black(8), Amer-Indian-Eskimo(1)",24
+26,00261,income,<=50K(19),19
+26,00262,race,"White(17), Asian-Pac-Islander(2)",19
+27,00271,income,<=50K(15),15
+27,00272,race,White(15),15
+28,00281,income,<=50K(17),17
+28,00282,race,White(17),17
+29,00291,income,<=50K(35),35
+29,00292,race,"White(29), Black(5), Asian-Pac-Islander(1)",35
+30,00301,income,<=50K(36),36
+30,00302,race,"White(30), Black(5), Other(1)",36
+31,00311,income,<=50K(25),25
+31,00312,race,"White(20), Black(4), Asian-Pac-Islander(1)",25
+32,00321,income,<=50K(16),16
+32,00322,race,"White(13), Black(3)",16
+33,00331,income,<=50K(10),10
+33,00332,race,"White(5), Black(4), Amer-Indian-Eskimo(1)",10
+34,00341,income,<=50K(10),10
+34,00342,race,"White(9), Black(1)",10
+35,00351,income,<=50K(10),10
+35,00352,race,"White(9), Black(1)",10
+36,00361,income,<=50K(16),16
+36,00362,race,"White(15), Black(1)",16
+37,00371,income,<=50K(14),14
+37,00372,race,"White(13), Black(1)",14
+38,00381,income,<=50K(14),14
+38,00382,race,"White(10), Black(2), Asian-Pac-Islander(1), Other(1)",14
+39,00391,income,<=50K(12),12
+39,00392,race,"White(10), Black(2)",12
+40,00401,income,<=50K(12),12
+40,00402,race,"White(11), Black(1)",12
+41,00411,income,<=50K(13),13
+41,00412,race,"White(9), Black(4)",13
+42,00421,income,<=50K(12),12
+42,00422,race,"White(10), Black(2)",12
+43,00431,income,<=50K(55),55
+43,00432,race,"White(54), Black(1)",55
+44,00441,income,<=50K(49),49
+44,00442,race,"White(47), Black(1), Other(1)",49
+45,00451,income,<=50K(41),41
+45,00452,race,"White(39), Black(2)",41
+46,00461,income,<=50K(20),20
+46,00462,race,"White(17), Black(3)",20
+47,00471,income,<=50K(27),27
+47,00472,race,"White(24), Black(1), Other(1), Asian-Pac-Islander(1)",27
+48,00481,income,<=50K(14),14
+48,00482,race,"White(13), Black(1)",14
+49,00491,income,<=50K(12),12
+49,00492,race,"White(10), Black(2)",12
+50,00501,income,"<=50K(17), >50K(2)",19
+50,00502,race,"White(16), Black(3)",19
+51,00511,income,<=50K(10),10
+51,00512,race,"White(8), Black(2)",10
+52,00521,income,<=50K(11),11
+52,00522,race,"White(9), Black(2)",11
+53,00531,income,<=50K(11),11
+53,00532,race,"White(6), Black(5)",11
+54,00541,income,"<=50K(10), >50K(1)",11
+54,00542,race,"White(7), Black(4)",11
+55,00551,income,<=50K(16),16
+55,00552,race,"White(12), Black(2), Other(1), Asian-Pac-Islander(1)",16
+56,00561,income,"<=50K(13), >50K(1)",14
+56,00562,race,"White(13), Black(1)",14
+57,00571,income,<=50K(19),19
+57,00572,race,"White(12), Black(7)",19
+58,00581,income,<=50K(11),11
+58,00582,race,"White(8), Black(3)",11
+59,00591,income,<=50K(62),62
+59,00592,race,"White(53), Black(5), Asian-Pac-Islander(2), Other(2)",62
+60,00601,income,<=50K(23),23
+60,00602,race,"White(19), Black(3), Asian-Pac-Islander(1)",23
+61,00611,income,<=50K(24),24
+61,00612,race,"White(22), Black(2)",24
+62,00621,income,<=50K(17),17
+62,00622,race,"White(15), Black(2)",17
+63,00631,income,<=50K(16),16
+63,00632,race,"White(11), Black(5)",16
+64,00641,income,<=50K(22),22
+64,00642,race,"White(18), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",22
+65,00651,income,<=50K(18),18
+65,00652,race,"White(16), Black(2)",18
+66,00661,income,<=50K(26),26
+66,00662,race,"White(19), Black(7)",26
+67,00671,income,<=50K(12),12
+67,00672,race,"White(9), Black(3)",12
+68,00681,income,<=50K(10),10
+68,00682,race,"White(7), Black(3)",10
+69,00691,income,"<=50K(9), >50K(1)",10
+69,00692,race,White(10),10
+70,00701,income,"<=50K(11), >50K(1)",12
+70,00702,race,"White(9), Black(3)",12
+71,00711,income,"<=50K(11), >50K(1)",12
+71,00712,race,"White(9), Black(2), Asian-Pac-Islander(1)",12
+72,00721,income,<=50K(13),13
+72,00722,race,"White(11), Asian-Pac-Islander(1), Black(1)",13
+73,00731,income,<=50K(14),14
+73,00732,race,"White(13), Other(1)",14
+74,00741,income,<=50K(10),10
+74,00742,race,"White(9), Other(1)",10
+75,00751,income,<=50K(16),16
+75,00752,race,"White(7), Asian-Pac-Islander(6), Other(2), Amer-Indian-Eskimo(1)",16
+76,00761,income,<=50K(10),10
+76,00762,race,"White(6), Asian-Pac-Islander(4)",10
+77,00771,income,<=50K(10),10
+77,00772,race,"White(7), Asian-Pac-Islander(3)",10
+78,00781,income,<=50K(10),10
+78,00782,race,"White(7), Black(2), Other(1)",10
+79,00791,income,<=50K(10),10
+79,00792,race,"White(9), Other(1)",10
+80,00801,income,<=50K(15),15
+80,00802,race,"Black(8), White(5), Asian-Pac-Islander(2)",15
+81,00811,income,"<=50K(16), >50K(1)",17
+81,00812,race,"Black(9), White(5), Asian-Pac-Islander(2), Other(1)",17
+82,00821,income,<=50K(30),30
+82,00822,race,"White(25), Black(5)",30
+83,00831,income,"<=50K(9), >50K(1)",10
+83,00832,race,"White(7), Black(3)",10
+84,00841,income,<=50K(40),40
+84,00842,race,"White(32), Black(8)",40
+85,00851,income,<=50K(69),69
+85,00852,race,"White(58), Black(10), Asian-Pac-Islander(1)",69
+86,00861,income,<=50K(36),36
+86,00862,race,"White(33), Black(2), Other(1)",36
+87,00871,income,<=50K(18),18
+87,00872,race,"White(15), Black(3)",18
+88,00881,income,<=50K(18),18
+88,00882,race,"White(17), Black(1)",18
+89,00891,income,<=50K(22),22
+89,00892,race,"White(18), Black(4)",22
+90,00901,income,<=50K(14),14
+90,00902,race,"White(10), Black(3), Amer-Indian-Eskimo(1)",14
+91,00911,income,<=50K(24),24
+91,00912,race,"White(18), Black(6)",24
+92,00921,income,<=50K(10),10
+92,00922,race,"White(7), Black(3)",10
+93,00931,income,<=50K(17),17
+93,00932,race,"White(14), Black(3)",17
+94,00941,income,<=50K(12),12
+94,00942,race,"White(11), Black(1)",12
+95,00951,income,<=50K(15),15
+95,00952,race,"White(12), Black(3)",15
+96,00961,income,<=50K(31),31
+96,00962,race,"White(27), Black(4)",31
+97,00971,income,<=50K(10),10
+97,00972,race,"White(8), Black(2)",10
+98,00981,income,<=50K(10),10
+98,00982,race,"White(9), Other(1)",10
+99,00991,income,<=50K(10),10
+99,00992,race,"White(6), Black(4)",10
+100,01001,income,<=50K(11),11
+100,01002,race,White(11),11
+101,01011,income,"<=50K(13), >50K(1)",14
+101,01012,race,White(14),14
+102,01021,income,<=50K(13),13
+102,01022,race,"White(11), Black(2)",13
+103,01031,income,<=50K(24),24
+103,01032,race,"White(20), Black(4)",24
+104,01041,income,<=50K(17),17
+104,01042,race,"White(12), Black(3), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",17
+105,01051,income,"<=50K(21), >50K(1)",22
+105,01052,race,"White(18), Black(2), Other(1), Amer-Indian-Eskimo(1)",22
+106,01061,income,<=50K(19),19
+106,01062,race,"White(10), Black(9)",19
+107,01071,income,<=50K(11),11
+107,01072,race,"White(6), Black(4), Amer-Indian-Eskimo(1)",11
+108,01081,income,<=50K(10),10
+108,01082,race,"White(8), Black(2)",10
+109,01091,income,<=50K(14),14
+109,01092,race,"White(12), Black(2)",14
+110,01101,income,<=50K(14),14
+110,01102,race,"White(13), Black(1)",14
+111,01111,income,<=50K(14),14
+111,01112,race,"White(13), Black(1)",14
+112,01121,income,<=50K(12),12
+112,01122,race,"White(10), Black(2)",12
+113,01131,income,<=50K(25),25
+113,01132,race,"White(21), Black(4)",25
+114,01141,income,"<=50K(23), >50K(2)",25
+114,01142,race,"White(22), Black(3)",25
+115,01151,income,<=50K(37),37
+115,01152,race,"White(32), Black(4), Asian-Pac-Islander(1)",37
+116,01161,income,<=50K(38),38
+116,01162,race,"White(33), Black(3), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",38
+117,01171,income,<=50K(29),29
+117,01172,race,"White(27), Black(1), Asian-Pac-Islander(1)",29
+118,01181,income,<=50K(19),19
+118,01182,race,"White(17), Black(2)",19
+119,01191,income,<=50K(14),14
+119,01192,race,"White(11), Black(2), Asian-Pac-Islander(1)",14
+120,01201,income,"<=50K(9), >50K(1)",10
+120,01202,race,"White(9), Black(1)",10
+121,01211,income,"<=50K(18), >50K(1)",19
+121,01212,race,"White(15), Black(2), Other(1), Asian-Pac-Islander(1)",19
+122,01221,income,"<=50K(16), >50K(1)",17
+122,01222,race,White(17),17
+123,01231,income,<=50K(19),19
+123,01232,race,"White(15), Black(2), Other(1), Amer-Indian-Eskimo(1)",19
+124,01241,income,"<=50K(13), >50K(2)",15
+124,01242,race,"White(12), Amer-Indian-Eskimo(2), Black(1)",15
+125,01251,income,<=50K(17),17
+125,01252,race,"White(12), Black(5)",17
+126,01261,income,<=50K(16),16
+126,01262,race,"White(12), Black(3), Other(1)",16
+127,01271,income,<=50K(17),17
+127,01272,race,"White(15), Black(2)",17
+128,01281,income,"<=50K(11), >50K(1)",12
+128,01282,race,"White(10), Asian-Pac-Islander(1), Black(1)",12
+129,01291,income,<=50K(24),24
+129,01292,race,White(24),24
+130,01301,income,<=50K(14),14
+130,01302,race,"White(12), Asian-Pac-Islander(1), Black(1)",14
+131,01311,income,<=50K(26),26
+131,01312,race,"White(22), Black(4)",26
+132,01321,income,<=50K(10),10
+132,01322,race,"White(7), Asian-Pac-Islander(1), Black(1), Other(1)",10
+133,01331,income,<=50K(10),10
+133,01332,race,"White(9), Black(1)",10
+134,01341,income,<=50K(20),20
+134,01342,race,"White(18), Black(2)",20
+135,01351,income,<=50K(13),13
+135,01352,race,White(13),13
+136,01361,income,<=50K(13),13
+136,01362,race,"White(10), Other(2), Amer-Indian-Eskimo(1)",13
+137,01371,income,<=50K(12),12
+137,01372,race,White(12),12
+138,01381,income,<=50K(12),12
+138,01382,race,"White(10), Asian-Pac-Islander(1), Other(1)",12
+139,01391,income,<=50K(19),19
+139,01392,race,"White(12), Asian-Pac-Islander(6), Black(1)",19
+140,01401,income,<=50K(11),11
+140,01402,race,"White(8), Asian-Pac-Islander(2), Other(1)",11
+141,01411,income,<=50K(12),12
+141,01412,race,"White(7), Asian-Pac-Islander(4), Other(1)",12
+142,01421,income,"<=50K(10), >50K(2)",12
+142,01422,race,"White(6), Asian-Pac-Islander(3), Black(2), Other(1)",12
+143,01431,income,<=50K(11),11
+143,01432,race,"White(10), Black(1)",11
+144,01441,income,<=50K(11),11
+144,01442,race,"White(8), Other(1), Asian-Pac-Islander(1), Black(1)",11
+145,01451,income,<=50K(10),10
+145,01452,race,"White(8), Black(2)",10
+146,01461,income,<=50K(33),33
+146,01462,race,"White(28), Black(5)",33
+147,01471,income,<=50K(22),22
+147,01472,race,"White(17), Black(3), Amer-Indian-Eskimo(1), Other(1)",22
+148,01481,income,<=50K(37),37
+148,01482,race,"White(33), Black(2), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",37
+149,01491,income,<=50K(36),36
+149,01492,race,"White(28), Black(6), Asian-Pac-Islander(2)",36
+150,01501,income,<=50K(12),12
+150,01502,race,"White(10), Black(1), Amer-Indian-Eskimo(1)",12
+151,01511,income,<=50K(23),23
+151,01512,race,"White(18), Black(5)",23
+152,01521,income,<=50K(19),19
+152,01522,race,"White(16), Black(2), Amer-Indian-Eskimo(1)",19
+153,01531,income,<=50K(16),16
+153,01532,race,White(16),16
+154,01541,income,<=50K(17),17
+154,01542,race,White(17),17
+155,01551,income,<=50K(28),28
+155,01552,race,"White(26), Black(2)",28
+156,01561,income,<=50K(13),13
+156,01562,race,"White(11), Black(2)",13
+157,01571,income,<=50K(14),14
+157,01572,race,"White(12), Other(1), Black(1)",14
+158,01581,income,<=50K(24),24
+158,01582,race,"White(20), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",24
+159,01591,income,<=50K(21),21
+159,01592,race,"White(20), Asian-Pac-Islander(1)",21
+160,01601,income,<=50K(15),15
+160,01602,race,"White(13), Black(2)",15
+161,01611,income,<=50K(10),10
+161,01612,race,"White(7), Black(2), Amer-Indian-Eskimo(1)",10
+162,01621,income,<=50K(19),19
+162,01622,race,White(19),19
+163,01631,income,<=50K(18),18
+163,01632,race,White(18),18
+164,01641,income,<=50K(14),14
+164,01642,race,"White(12), Black(2)",14
+165,01651,income,<=50K(43),43
+165,01652,race,"White(40), Black(3)",43
+166,01661,income,<=50K(28),28
+166,01662,race,"White(22), Black(5), Amer-Indian-Eskimo(1)",28
+167,01671,income,<=50K(17),17
+167,01672,race,"White(16), Black(1)",17
+168,01681,income,<=50K(27),27
+168,01682,race,"White(23), Black(4)",27
+169,01691,income,<=50K(11),11
+169,01692,race,"White(9), Black(2)",11
+170,01701,income,<=50K(12),12
+170,01702,race,"White(10), Black(1), Amer-Indian-Eskimo(1)",12
+171,01711,income,<=50K(12),12
+171,01712,race,"White(10), Black(1), Other(1)",12
+172,01721,income,<=50K(15),15
+172,01722,race,"White(12), Black(3)",15
+173,01731,income,"<=50K(12), >50K(2)",14
+173,01732,race,"White(7), Black(4), Amer-Indian-Eskimo(2), Other(1)",14
+174,01741,income,<=50K(20),20
+174,01742,race,"White(17), Black(2), Amer-Indian-Eskimo(1)",20
+175,01751,income,"<=50K(48), >50K(2)",50
+175,01752,race,"White(41), Black(9)",50
+176,01761,income,"<=50K(11), >50K(1)",12
+176,01762,race,"White(11), Black(1)",12
+177,01771,income,"<=50K(9), >50K(1)",10
+177,01772,race,White(10),10
+178,01781,income,"<=50K(20), >50K(1)",21
+178,01782,race,"White(19), Black(2)",21
+179,01791,income,<=50K(11),11
+179,01792,race,"White(6), Black(4), Asian-Pac-Islander(1)",11
+180,01801,income,<=50K(18),18
+180,01802,race,"White(14), Black(3), Asian-Pac-Islander(1)",18
+181,01811,income,"<=50K(9), >50K(1)",10
+181,01812,race,"White(5), Black(3), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",10
+182,01821,income,<=50K(10),10
+182,01822,race,"White(8), Black(2)",10
+183,01831,income,"<=50K(10), >50K(1)",11
+183,01832,race,"White(9), Black(2)",11
+184,01841,income,<=50K(23),23
+184,01842,race,"White(20), Black(3)",23
+185,01851,income,<=50K(18),18
+185,01852,race,"White(12), Black(5), Other(1)",18
+186,01861,income,<=50K(31),31
+186,01862,race,"White(29), Amer-Indian-Eskimo(1), Black(1)",31
+187,01871,income,"<=50K(43), >50K(1)",44
+187,01872,race,"White(38), Black(5), Amer-Indian-Eskimo(1)",44
+188,01881,income,"<=50K(20), >50K(1)",21
+188,01882,race,"White(19), Black(1), Amer-Indian-Eskimo(1)",21
+189,01891,income,<=50K(11),11
+189,01892,race,"White(9), Black(2)",11
+190,01901,income,"<=50K(21), >50K(1)",22
+190,01902,race,"White(21), Black(1)",22
+191,01911,income,<=50K(28),28
+191,01912,race,"White(27), Black(1)",28
+192,01921,income,"<=50K(20), >50K(1)",21
+192,01922,race,"White(17), Black(3), Amer-Indian-Eskimo(1)",21
+193,01931,income,<=50K(48),48
+193,01932,race,"White(44), Black(3), Amer-Indian-Eskimo(1)",48
+194,01941,income,<=50K(31),31
+194,01942,race,"White(26), Black(3), Other(1), Asian-Pac-Islander(1)",31
+195,01951,income,<=50K(30),30
+195,01952,race,"White(24), Black(5), Other(1)",30
+196,01961,income,<=50K(20),20
+196,01962,race,"White(19), Black(1)",20
+197,01971,income,<=50K(13),13
+197,01972,race,"White(11), Black(2)",13
+198,01981,income,<=50K(20),20
+198,01982,race,"White(19), Black(1)",20
+199,01991,income,<=50K(19),19
+199,01992,race,"White(17), Black(2)",19
+200,02001,income,<=50K(19),19
+200,02002,race,"White(17), Black(2)",19
+201,02011,income,<=50K(19),19
+201,02012,race,"White(18), Asian-Pac-Islander(1)",19
+202,02021,income,<=50K(12),12
+202,02022,race,"White(9), Black(2), Asian-Pac-Islander(1)",12
+203,02031,income,<=50K(20),20
+203,02032,race,White(20),20
+204,02041,income,<=50K(17),17
+204,02042,race,White(17),17
+205,02051,income,<=50K(19),19
+205,02052,race,"White(17), Black(2)",19
+206,02061,income,"<=50K(12), >50K(1)",13
+206,02062,race,"White(12), Black(1)",13
+207,02071,income,<=50K(17),17
+207,02072,race,"White(13), Black(3), Amer-Indian-Eskimo(1)",17
+208,02081,income,<=50K(34),34
+208,02082,race,"White(30), Black(4)",34
+209,02091,income,<=50K(26),26
+209,02092,race,"White(23), Black(2), Amer-Indian-Eskimo(1)",26
+210,02101,income,"<=50K(13), >50K(1)",14
+210,02102,race,"White(12), Amer-Indian-Eskimo(1), Black(1)",14
+211,02111,income,<=50K(17),17
+211,02112,race,"White(15), Black(1), Amer-Indian-Eskimo(1)",17
+212,02121,income,<=50K(12),12
+212,02122,race,"White(11), Black(1)",12
+213,02131,income,"<=50K(13), >50K(1)",14
+213,02132,race,"White(12), Black(1), Asian-Pac-Islander(1)",14
+214,02141,income,<=50K(15),15
+214,02142,race,"White(12), Black(3)",15
+215,02151,income,"<=50K(21), >50K(2)",23
+215,02152,race,"White(19), Black(4)",23
+216,02161,income,<=50K(11),11
+216,02162,race,"White(10), Other(1)",11
+217,02171,income,"<=50K(10), >50K(1)",11
+217,02172,race,"White(8), Black(3)",11
+218,02181,income,<=50K(28),28
+218,02182,race,"White(26), Black(1), Amer-Indian-Eskimo(1)",28
+219,02191,income,<=50K(24),24
+219,02192,race,"White(23), Black(1)",24
+220,02201,income,<=50K(10),10
+220,02202,race,White(10),10
+221,02211,income,<=50K(57),57
+221,02212,race,"White(51), Black(4), Amer-Indian-Eskimo(2)",57
+222,02221,income,<=50K(39),39
+222,02222,race,"White(35), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",39
+223,02231,income,<=50K(29),29
+223,02232,race,"White(25), Black(4)",29
+224,02241,income,<=50K(25),25
+224,02242,race,"White(20), Black(3), Amer-Indian-Eskimo(2)",25
+225,02251,income,<=50K(23),23
+225,02252,race,"White(16), Black(6), Amer-Indian-Eskimo(1)",23
+226,02261,income,<=50K(50),50
+226,02262,race,"White(35), Black(14), Amer-Indian-Eskimo(1)",50
+227,02271,income,<=50K(20),20
+227,02272,race,"White(16), Black(4)",20
+228,02281,income,<=50K(47),47
+228,02282,race,"White(32), Black(11), Asian-Pac-Islander(3), Amer-Indian-Eskimo(1)",47
+229,02291,income,<=50K(19),19
+229,02292,race,"White(15), Black(4)",19
+230,02301,income,<=50K(13),13
+230,02302,race,"White(9), Black(4)",13
+231,02311,income,<=50K(29),29
+231,02312,race,"White(27), Black(2)",29
+232,02321,income,<=50K(15),15
+232,02322,race,"White(12), Black(3)",15
+233,02331,income,<=50K(11),11
+233,02332,race,White(11),11
+234,02341,income,<=50K(13),13
+234,02342,race,"White(11), Black(2)",13
+235,02351,income,"<=50K(12), >50K(1)",13
+235,02352,race,"White(7), Black(5), Amer-Indian-Eskimo(1)",13
+236,02361,income,<=50K(17),17
+236,02362,race,"White(13), Black(4)",17
+237,02371,income,"<=50K(19), >50K(1)",20
+237,02372,race,"White(17), Black(2), Asian-Pac-Islander(1)",20
+238,02381,income,<=50K(14),14
+238,02382,race,"White(13), Black(1)",14
+239,02391,income,<=50K(12),12
+239,02392,race,"White(10), Black(2)",12
+240,02401,income,<=50K(13),13
+240,02402,race,"White(12), Black(1)",13
+241,02411,income,<=50K(16),16
+241,02412,race,"White(15), Black(1)",16
+242,02421,income,<=50K(11),11
+242,02422,race,White(11),11
+243,02431,income,"<=50K(14), >50K(1)",15
+243,02432,race,"White(14), Black(1)",15
+244,02441,income,<=50K(12),12
+244,02442,race,"White(7), Black(3), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",12
+245,02451,income,<=50K(37),37
+245,02452,race,"White(35), Black(2)",37
+246,02461,income,<=50K(18),18
+246,02462,race,"White(17), Black(1)",18
+247,02471,income,<=50K(17),17
+247,02472,race,"White(13), Black(3), Amer-Indian-Eskimo(1)",17
+248,02481,income,<=50K(24),24
+248,02482,race,"White(16), Black(6), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",24
+249,02491,income,<=50K(18),18
+249,02492,race,"White(14), Black(4)",18
+250,02501,income,<=50K(14),14
+250,02502,race,"White(10), Black(2), Other(2)",14
+251,02511,income,<=50K(10),10
+251,02512,race,"White(8), Other(1), Asian-Pac-Islander(1)",10
+252,02521,income,"<=50K(15), >50K(1)",16
+252,02522,race,"White(13), Other(3)",16
+253,02531,income,<=50K(11),11
+253,02532,race,"White(7), Asian-Pac-Islander(4)",11
+254,02541,income,<=50K(11),11
+254,02542,race,"White(8), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",11
+255,02551,income,<=50K(18),18
+255,02552,race,"White(11), Asian-Pac-Islander(5), Other(2)",18
+256,02561,income,<=50K(20),20
+256,02562,race,"White(19), Other(1)",20
+257,02571,income,"<=50K(18), >50K(1)",19
+257,02572,race,"White(14), Asian-Pac-Islander(5)",19
+258,02581,income,<=50K(15),15
+258,02582,race,"White(8), Asian-Pac-Islander(4), Black(2), Amer-Indian-Eskimo(1)",15
+259,02591,income,<=50K(14),14
+259,02592,race,"Asian-Pac-Islander(7), White(7)",14
+260,02601,income,<=50K(13),13
+260,02602,race,"White(6), Asian-Pac-Islander(5), Black(2)",13
+261,02611,income,<=50K(13),13
+261,02612,race,"White(12), Other(1)",13
+262,02621,income,<=50K(15),15
+262,02622,race,"White(12), Black(2), Other(1)",15
+263,02631,income,<=50K(16),16
+263,02632,race,"White(10), Black(3), Asian-Pac-Islander(2), Other(1)",16
+264,02641,income,<=50K(14),14
+264,02642,race,"White(12), Other(2)",14
+265,02651,income,<=50K(11),11
+265,02652,race,"White(9), Black(2)",11
+266,02661,income,"<=50K(29), >50K(1)",30
+266,02662,race,"White(29), Black(1)",30
+267,02671,income,"<=50K(26), >50K(2)",28
+267,02672,race,"White(25), Black(2), Other(1)",28
+268,02681,income,"<=50K(31), >50K(4)",35
+268,02682,race,"White(31), Black(3), Amer-Indian-Eskimo(1)",35
+269,02691,income,"<=50K(30), >50K(7)",37
+269,02692,race,"White(33), Black(3), Amer-Indian-Eskimo(1)",37
+270,02701,income,"<=50K(18), >50K(6)",24
+270,02702,race,"White(21), Black(2), Amer-Indian-Eskimo(1)",24
+271,02711,income,"<=50K(14), >50K(1)",15
+271,02712,race,"White(14), Black(1)",15
+272,02721,income,"<=50K(12), >50K(2)",14
+272,02722,race,"White(11), Black(2), Other(1)",14
+273,02731,income,"<=50K(20), >50K(7)",27
+273,02732,race,"White(22), Black(4), Other(1)",27
+274,02741,income,"<=50K(32), >50K(10)",42
+274,02742,race,"White(41), Black(1)",42
+275,02751,income,"<=50K(28), >50K(8)",36
+275,02752,race,"White(33), Black(3)",36
+276,02761,income,"<=50K(20), >50K(7)",27
+276,02762,race,"White(26), Black(1)",27
+277,02771,income,">50K(7), <=50K(3)",10
+277,02772,race,White(10),10
+278,02781,income,"<=50K(7), >50K(3)",10
+278,02782,race,"White(7), Black(3)",10
+279,02791,income,"<=50K(16), >50K(3)",19
+279,02792,race,"White(15), Black(2), Amer-Indian-Eskimo(1), Other(1)",19
+280,02801,income,"<=50K(12), >50K(7)",19
+280,02802,race,"White(16), Black(3)",19
+281,02811,income,<=50K(15),15
+281,02812,race,"White(10), Black(5)",15
+282,02821,income,"<=50K(18), >50K(1)",19
+282,02822,race,"White(18), Black(1)",19
+283,02831,income,"<=50K(13), >50K(3)",16
+283,02832,race,"White(14), Black(2)",16
+284,02841,income,"<=50K(8), >50K(5)",13
+284,02842,race,White(13),13
+285,02851,income,"<=50K(25), >50K(3)",28
+285,02852,race,"White(24), Black(4)",28
+286,02861,income,<=50K(18),18
+286,02862,race,"White(16), Other(1), Black(1)",18
+287,02871,income,"<=50K(10), >50K(1)",11
+287,02872,race,"White(10), Other(1)",11
+288,02881,income,"<=50K(20), >50K(1)",21
+288,02882,race,"White(20), Black(1)",21
+289,02891,income,"<=50K(30), >50K(8)",38
+289,02892,race,"White(33), Black(3), Amer-Indian-Eskimo(2)",38
+290,02901,income,"<=50K(14), >50K(5)",19
+290,02902,race,"White(17), Amer-Indian-Eskimo(2)",19
+291,02911,income,"<=50K(17), >50K(4)",21
+291,02912,race,"White(20), Asian-Pac-Islander(1)",21
+292,02921,income,"<=50K(13), >50K(5)",18
+292,02922,race,"White(17), Black(1)",18
+293,02931,income,"<=50K(14), >50K(5)",19
+293,02932,race,White(19),19
+294,02941,income,"<=50K(16), >50K(2)",18
+294,02942,race,"White(16), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",18
+295,02951,income,"<=50K(21), >50K(12)",33
+295,02952,race,"White(32), Amer-Indian-Eskimo(1)",33
+296,02961,income,"<=50K(16), >50K(2)",18
+296,02962,race,White(18),18
+297,02971,income,"<=50K(15), >50K(13)",28
+297,02972,race,White(28),28
+298,02981,income,"<=50K(14), >50K(8)",22
+298,02982,race,White(22),22
+299,02991,income,<=50K(14),14
+299,02992,race,"White(13), Black(1)",14
+300,03001,income,"<=50K(18), >50K(1)",19
+300,03002,race,"White(16), Black(2), Other(1)",19
+301,03011,income,"<=50K(15), >50K(1)",16
+301,03012,race,"White(13), Black(3)",16
+302,03021,income,"<=50K(8), >50K(4)",12
+302,03022,race,"White(9), Black(2), Amer-Indian-Eskimo(1)",12
+303,03031,income,"<=50K(7), >50K(4)",11
+303,03032,race,"White(10), Black(1)",11
+304,03041,income,"<=50K(5), >50K(5)",10
+304,03042,race,White(10),10
+305,03051,income,"<=50K(8), >50K(2)",10
+305,03052,race,"White(7), Black(2), Asian-Pac-Islander(1)",10
+306,03061,income,"<=50K(7), >50K(3)",10
+306,03062,race,"White(8), Black(1), Asian-Pac-Islander(1)",10
+307,03071,income,"<=50K(7), >50K(3)",10
+307,03072,race,"White(8), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",10
+308,03081,income,"<=50K(9), >50K(2)",11
+308,03082,race,"White(9), Black(1), Amer-Indian-Eskimo(1)",11
+309,03091,income,">50K(15), <=50K(9)",24
+309,03092,race,White(24),24
+310,03101,income,">50K(13), <=50K(11)",24
+310,03102,race,"White(22), Black(1), Asian-Pac-Islander(1)",24
+311,03111,income,"<=50K(11), >50K(3)",14
+311,03112,race,"White(12), Black(2)",14
+312,03121,income,"<=50K(6), >50K(5)",11
+312,03122,race,"White(10), Black(1)",11
+313,03131,income,">50K(9), <=50K(6)",15
+313,03132,race,White(15),15
+314,03141,income,"<=50K(10), >50K(2)",12
+314,03142,race,"White(10), Black(2)",12
+315,03151,income,"<=50K(10), >50K(6)",16
+315,03152,race,"White(14), Black(2)",16
+316,03161,income,"<=50K(10), >50K(5)",15
+316,03162,race,"White(13), Black(1), Amer-Indian-Eskimo(1)",15
+317,03171,income,"<=50K(12), >50K(8)",20
+317,03172,race,"White(17), Black(1), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",20
+318,03181,income,"<=50K(21), >50K(3)",24
+318,03182,race,"White(20), Black(2), Amer-Indian-Eskimo(2)",24
+319,03191,income,"<=50K(9), >50K(4)",13
+319,03192,race,"White(12), Amer-Indian-Eskimo(1)",13
+320,03201,income,"<=50K(11), >50K(5)",16
+320,03202,race,"White(13), Black(3)",16
+321,03211,income,">50K(6), <=50K(4)",10
+321,03212,race,"White(9), Black(1)",10
+322,03221,income,"<=50K(15), >50K(11)",26
+322,03222,race,"White(24), Black(2)",26
+323,03231,income,"<=50K(8), >50K(3)",11
+323,03232,race,White(11),11
+324,03241,income,"<=50K(6), >50K(4)",10
+324,03242,race,"White(9), Black(1)",10
+325,03251,income,"<=50K(10), >50K(6)",16
+325,03252,race,"White(14), Black(1), Asian-Pac-Islander(1)",16
+326,03261,income,<=50K(16),16
+326,03262,race,"White(10), Black(4), Asian-Pac-Islander(1), Other(1)",16
+327,03271,income,<=50K(11),11
+327,03272,race,"White(7), Asian-Pac-Islander(2), Other(1), Amer-Indian-Eskimo(1)",11
+328,03281,income,<=50K(12),12
+328,03282,race,"White(10), Amer-Indian-Eskimo(2)",12
+329,03291,income,<=50K(18),18
+329,03292,race,"White(14), Asian-Pac-Islander(3), Other(1)",18
+330,03301,income,"<=50K(11), >50K(3)",14
+330,03302,race,"White(10), Other(2), Asian-Pac-Islander(2)",14
+331,03311,income,"<=50K(13), >50K(2)",15
+331,03312,race,"White(9), Asian-Pac-Islander(4), Other(2)",15
+332,03321,income,<=50K(11),11
+332,03322,race,"Asian-Pac-Islander(6), White(5)",11
+333,03331,income,"<=50K(11), >50K(2)",13
+333,03332,race,"White(7), Asian-Pac-Islander(4), Other(2)",13
+334,03341,income,"<=50K(11), >50K(3)",14
+334,03342,race,"White(9), Asian-Pac-Islander(3), Other(2)",14
+335,03351,income,">50K(7), <=50K(6)",13
+335,03352,race,"White(8), Asian-Pac-Islander(3), Black(2)",13
+336,03361,income,"<=50K(13), >50K(4)",17
+336,03362,race,"White(9), Asian-Pac-Islander(4), Black(3), Other(1)",17
+337,03371,income,"<=50K(16), >50K(1)",17
+337,03372,race,"White(13), Black(2), Asian-Pac-Islander(1), Other(1)",17
+338,03381,income,<=50K(18),18
+338,03382,race,White(18),18
+339,03391,income,"<=50K(18), >50K(1)",19
+339,03392,race,White(19),19
+340,03401,income,"<=50K(23), >50K(5)",28
+340,03402,race,White(28),28
+341,03411,income,"<=50K(21), >50K(5)",26
+341,03412,race,White(26),26
+342,03421,income,"<=50K(23), >50K(2)",25
+342,03422,race,"White(24), Black(1)",25
+343,03431,income,"<=50K(47), >50K(6)",53
+343,03432,race,"White(46), Amer-Indian-Eskimo(3), Asian-Pac-Islander(2), Black(2)",53
+344,03441,income,"<=50K(24), >50K(8)",32
+344,03442,race,White(32),32
+345,03451,income,"<=50K(49), >50K(8)",57
+345,03452,race,"White(55), Other(1), Black(1)",57
+346,03461,income,"<=50K(22), >50K(9)",31
+346,03462,race,"White(28), Black(2), Amer-Indian-Eskimo(1)",31
+347,03471,income,"<=50K(25), >50K(5)",30
+347,03472,race,White(30),30
+348,03481,income,"<=50K(57), >50K(21)",78
+348,03482,race,"White(75), Black(2), Other(1)",78
+349,03491,income,<=50K(17),17
+349,03492,race,"White(16), Other(1)",17
+350,03501,income,"<=50K(17), >50K(1)",18
+350,03502,race,"White(15), Black(2), Other(1)",18
+351,03511,income,<=50K(20),20
+351,03512,race,"White(19), Black(1)",20
+352,03521,income,<=50K(18),18
+352,03522,race,"White(14), Black(3), Amer-Indian-Eskimo(1)",18
+353,03531,income,"<=50K(13), >50K(3)",16
+353,03532,race,"White(9), Black(4), Amer-Indian-Eskimo(3)",16
+354,03541,income,"<=50K(10), >50K(5)",15
+354,03542,race,White(15),15
+355,03551,income,"<=50K(24), >50K(3)",27
+355,03552,race,"White(23), Black(3), Amer-Indian-Eskimo(1)",27
+356,03561,income,"<=50K(7), >50K(3)",10
+356,03562,race,"White(8), Black(2)",10
+357,03571,income,<=50K(10),10
+357,03572,race,White(10),10
+358,03581,income,"<=50K(16), >50K(3)",19
+358,03582,race,White(19),19
+359,03591,income,"<=50K(16), >50K(3)",19
+359,03592,race,"White(16), Black(3)",19
+360,03601,income,"<=50K(20), >50K(2)",22
+360,03602,race,"White(21), Black(1)",22
+361,03611,income,"<=50K(11), >50K(1)",12
+361,03612,race,"White(11), Amer-Indian-Eskimo(1)",12
+362,03621,income,"<=50K(16), >50K(3)",19
+362,03622,race,White(19),19
+363,03631,income,"<=50K(10), >50K(5)",15
+363,03632,race,"White(14), Asian-Pac-Islander(1)",15
+364,03641,income,"<=50K(14), >50K(7)",21
+364,03642,race,White(21),21
+365,03651,income,"<=50K(13), >50K(2)",15
+365,03652,race,"White(14), Other(1)",15
+366,03661,income,"<=50K(17), >50K(11)",28
+366,03662,race,White(28),28
+367,03671,income,"<=50K(11), >50K(3)",14
+367,03672,race,"White(13), Other(1)",14
+368,03681,income,"<=50K(8), >50K(2)",10
+368,03682,race,"White(9), Black(1)",10
+369,03691,income,"<=50K(17), >50K(3)",20
+369,03692,race,White(20),20
+370,03701,income,">50K(8), <=50K(4)",12
+370,03702,race,"White(11), Black(1)",12
+371,03711,income,"<=50K(7), >50K(3)",10
+371,03712,race,White(10),10
+372,03721,income,"<=50K(9), >50K(1)",10
+372,03722,race,"White(8), Black(2)",10
+373,03731,income,<=50K(13),13
+373,03732,race,White(13),13
+374,03741,income,<=50K(14),14
+374,03742,race,White(14),14
+375,03751,income,<=50K(13),13
+375,03752,race,"White(12), Other(1)",13
+376,03761,income,<=50K(13),13
+376,03762,race,"White(12), Other(1)",13
+377,03771,income,"<=50K(10), >50K(2)",12
+377,03772,race,"White(9), Other(3)",12
+378,03781,income,"<=50K(14), >50K(1)",15
+378,03782,race,"White(13), Black(1), Amer-Indian-Eskimo(1)",15
+379,03791,income,"<=50K(10), >50K(2)",12
+379,03792,race,"White(7), Asian-Pac-Islander(4), Other(1)",12
+380,03801,income,"<=50K(9), >50K(2)",11
+380,03802,race,"White(8), Black(1), Other(1), Asian-Pac-Islander(1)",11
+381,03811,income,"<=50K(9), >50K(1)",10
+381,03812,race,"White(6), Black(2), Asian-Pac-Islander(1), Other(1)",10
+382,03821,income,"<=50K(9), >50K(1)",10
+382,03822,race,"White(9), Black(1)",10
+383,03831,income,<=50K(16),16
+383,03832,race,"White(15), Asian-Pac-Islander(1)",16
+384,03841,income,<=50K(12),12
+384,03842,race,White(12),12
+385,03851,income,<=50K(17),17
+385,03852,race,"White(13), Black(4)",17
+386,03861,income,"<=50K(21), >50K(2)",23
+386,03862,race,"White(20), Asian-Pac-Islander(2), Black(1)",23
+387,03871,income,<=50K(23),23
+387,03872,race,"White(20), Black(2), Asian-Pac-Islander(1)",23
+388,03881,income,<=50K(30),30
+388,03882,race,"White(26), Black(3), Asian-Pac-Islander(1)",30
+389,03891,income,"<=50K(10), >50K(1)",11
+389,03892,race,White(11),11
+390,03901,income,<=50K(10),10
+390,03902,race,White(10),10
+391,03911,income,<=50K(13),13
+391,03912,race,"White(12), Black(1)",13
+392,03921,income,<=50K(10),10
+392,03922,race,"White(8), Amer-Indian-Eskimo(1), Black(1)",10
+393,03931,income,<=50K(16),16
+393,03932,race,"White(14), Black(2)",16
+394,03941,income,"<=50K(17), >50K(4)",21
+394,03942,race,"White(18), Black(3)",21
+395,03951,income,"<=50K(6), >50K(4)",10
+395,03952,race,White(10),10
+396,03961,income,"<=50K(7), >50K(3)",10
+396,03962,race,"White(9), Black(1)",10
+397,03971,income,"<=50K(15), >50K(4)",19
+397,03972,race,"White(16), Other(2), Black(1)",19
+398,03981,income,"<=50K(10), >50K(1)",11
+398,03982,race,"White(10), Black(1)",11
+399,03991,income,"<=50K(10), >50K(1)",11
+399,03992,race,"White(9), Black(2)",11
+400,04001,income,"<=50K(26), >50K(3)",29
+400,04002,race,"White(25), Black(2), Amer-Indian-Eskimo(2)",29
+401,04011,income,"<=50K(10), >50K(4)",14
+401,04012,race,White(14),14
+402,04021,income,"<=50K(11), >50K(2)",13
+402,04022,race,"White(12), Black(1)",13
+403,04031,income,"<=50K(10), >50K(3)",13
+403,04032,race,"White(9), Black(3), Asian-Pac-Islander(1)",13
+404,04041,income,<=50K(14),14
+404,04042,race,"White(10), Black(3), Other(1)",14
+405,04051,income,<=50K(13),13
+405,04052,race,"White(10), Black(3)",13
+406,04061,income,<=50K(24),24
+406,04062,race,White(24),24
+407,04071,income,"<=50K(11), >50K(1)",12
+407,04072,race,"White(11), Black(1)",12
+408,04081,income,"<=50K(11), >50K(5)",16
+408,04082,race,"White(15), Other(1)",16
+409,04091,income,"<=50K(9), >50K(5)",14
+409,04092,race,"White(12), Asian-Pac-Islander(1), Black(1)",14
+410,04101,income,"<=50K(9), >50K(1)",10
+410,04102,race,"White(6), Asian-Pac-Islander(4)",10
+411,04111,income,"<=50K(9), >50K(1)",10
+411,04112,race,Asian-Pac-Islander(10),10
+412,04121,income,"<=50K(15), >50K(2)",17
+412,04122,race,"White(12), Asian-Pac-Islander(2), Black(2), Other(1)",17
+413,04131,income,<=50K(16),16
+413,04132,race,"White(15), Asian-Pac-Islander(1)",16
+414,04141,income,"<=50K(15), >50K(1)",16
+414,04142,race,"White(15), Black(1)",16
+415,04151,income,<=50K(12),12
+415,04152,race,White(12),12
+416,04161,income,<=50K(18),18
+416,04162,race,"White(16), Black(2)",18
+417,04171,income,"<=50K(18), >50K(1)",19
+417,04172,race,White(19),19
+418,04181,income,<=50K(21),21
+418,04182,race,"White(20), Asian-Pac-Islander(1)",21
+419,04191,income,<=50K(10),10
+419,04192,race,"White(7), Black(2), Asian-Pac-Islander(1)",10
+420,04201,income,"<=50K(26), >50K(3)",29
+420,04202,race,"White(26), Asian-Pac-Islander(3)",29
+421,04211,income,<=50K(15),15
+421,04212,race,"White(12), Asian-Pac-Islander(2), Black(1)",15
+422,04221,income,<=50K(15),15
+422,04222,race,"White(14), Black(1)",15
+423,04231,income,"<=50K(21), >50K(6)",27
+423,04232,race,"White(25), Black(2)",27
+424,04241,income,"<=50K(15), >50K(2)",17
+424,04242,race,"White(14), Black(3)",17
+425,04251,income,"<=50K(17), >50K(1)",18
+425,04252,race,"White(16), Asian-Pac-Islander(1), Other(1)",18
+426,04261,income,"<=50K(11), >50K(5)",16
+426,04262,race,White(16),16
+427,04271,income,"<=50K(10), >50K(5)",15
+427,04272,race,"White(13), Black(2)",15
+428,04281,income,"<=50K(12), >50K(3)",15
+428,04282,race,"White(14), Black(1)",15
+429,04291,income,"<=50K(10), >50K(4)",14
+429,04292,race,"White(13), Black(1)",14
+430,04301,income,"<=50K(18), >50K(1)",19
+430,04302,race,"White(14), Other(2), Black(2), Asian-Pac-Islander(1)",19
+431,04311,income,"<=50K(14), >50K(4)",18
+431,04312,race,"White(14), Black(4)",18
+432,04321,income,"<=50K(10), >50K(3)",13
+432,04322,race,"White(11), Black(1), Asian-Pac-Islander(1)",13
+433,04331,income,"<=50K(8), >50K(7)",15
+433,04332,race,"White(14), Black(1)",15
+434,04341,income,">50K(8), <=50K(4)",12
+434,04342,race,"White(11), Asian-Pac-Islander(1)",12
+435,04351,income,"<=50K(13), >50K(5)",18
+435,04352,race,"Asian-Pac-Islander(12), White(6)",18
+436,04361,income,"<=50K(17), >50K(2)",19
+436,04362,race,"White(15), Black(2), Other(1), Asian-Pac-Islander(1)",19
+437,04371,income,<=50K(14),14
+437,04372,race,"White(12), Black(2)",14
+438,04381,income,<=50K(10),10
+438,04382,race,White(10),10
+439,04391,income,<=50K(25),25
+439,04392,race,"White(24), Asian-Pac-Islander(1)",25
+440,04401,income,<=50K(31),31
+440,04402,race,"White(26), Asian-Pac-Islander(4), Black(1)",31
+441,04411,income,"<=50K(11), >50K(1)",12
+441,04412,race,"White(9), Black(3)",12
+442,04421,income,<=50K(12),12
+442,04422,race,"White(9), Black(3)",12
+443,04431,income,<=50K(11),11
+443,04432,race,White(11),11
+444,04441,income,<=50K(11),11
+444,04442,race,White(11),11
+445,04451,income,<=50K(11),11
+445,04452,race,"White(10), Black(1)",11
+446,04461,income,<=50K(10),10
+446,04462,race,"White(9), Black(1)",10
+447,04471,income,<=50K(21),21
+447,04472,race,"White(18), Black(2), Asian-Pac-Islander(1)",21
+448,04481,income,<=50K(19),19
+448,04482,race,"White(17), Black(2)",19
+449,04491,income,<=50K(11),11
+449,04492,race,"White(9), Black(2)",11
+450,04501,income,"<=50K(8), >50K(3)",11
+450,04502,race,"White(8), Asian-Pac-Islander(1), Other(1), Black(1)",11
+451,04511,income,<=50K(19),19
+451,04512,race,"White(16), Black(3)",19
+452,04521,income,"<=50K(17), >50K(1)",18
+452,04522,race,White(18),18
+453,04531,income,"<=50K(8), >50K(2)",10
+453,04532,race,"White(7), Black(2), Amer-Indian-Eskimo(1)",10
+454,04541,income,"<=50K(13), >50K(4)",17
+454,04542,race,"White(15), Black(2)",17
+455,04551,income,<=50K(10),10
+455,04552,race,"White(7), Black(3)",10
+456,04561,income,<=50K(28),28
+456,04562,race,"White(25), Black(2), Asian-Pac-Islander(1)",28
+457,04571,income,<=50K(28),28
+457,04572,race,"White(27), Asian-Pac-Islander(1)",28
+458,04581,income,"<=50K(36), >50K(2)",38
+458,04582,race,"White(35), Black(3)",38
+459,04591,income,"<=50K(15), >50K(3)",18
+459,04592,race,White(18),18
+460,04601,income,"<=50K(18), >50K(2)",20
+460,04602,race,"White(19), Black(1)",20
+461,04611,income,"<=50K(7), >50K(3)",10
+461,04612,race,"White(8), Black(2)",10
+462,04621,income,"<=50K(7), >50K(3)",10
+462,04622,race,White(10),10
+463,04631,income,"<=50K(8), >50K(2)",10
+463,04632,race,White(10),10
+464,04641,income,"<=50K(13), >50K(3)",16
+464,04642,race,"White(13), Black(1), Asian-Pac-Islander(1), Other(1)",16
+465,04651,income,"<=50K(7), >50K(6)",13
+465,04652,race,"White(11), Amer-Indian-Eskimo(1), Black(1)",13
+466,04661,income,"<=50K(8), >50K(5)",13
+466,04662,race,"White(12), Black(1)",13
+467,04671,income,"<=50K(9), >50K(3)",12
+467,04672,race,"White(11), Black(1)",12
+468,04681,income,<=50K(15),15
+468,04682,race,"White(13), Black(2)",15
+469,04691,income,<=50K(14),14
+469,04692,race,"White(12), Other(1), Amer-Indian-Eskimo(1)",14
+470,04701,income,<=50K(14),14
+470,04702,race,"White(11), Black(3)",14
+471,04711,income,"<=50K(11), >50K(1)",12
+471,04712,race,"White(11), Black(1)",12
+472,04721,income,"<=50K(9), >50K(4)",13
+472,04722,race,"White(12), Other(1)",13
+473,04731,income,"<=50K(10), >50K(1)",11
+473,04732,race,"White(9), Black(2)",11
+474,04741,income,<=50K(14),14
+474,04742,race,"White(11), Black(3)",14
+475,04751,income,<=50K(11),11
+475,04752,race,White(11),11
+476,04761,income,<=50K(11),11
+476,04762,race,"White(10), Black(1)",11
+477,04771,income,<=50K(11),11
+477,04772,race,"White(10), Black(1)",11
+478,04781,income,"<=50K(11), >50K(2)",13
+478,04782,race,White(13),13
+479,04791,income,"<=50K(21), >50K(1)",22
+479,04792,race,"White(20), Black(1), Asian-Pac-Islander(1)",22
+480,04801,income,"<=50K(22), >50K(3)",25
+480,04802,race,"White(23), Black(2)",25
+481,04811,income,"<=50K(14), >50K(4)",18
+481,04812,race,"White(17), Asian-Pac-Islander(1)",18
+482,04821,income,<=50K(11),11
+482,04822,race,White(11),11
+483,04831,income,<=50K(11),11
+483,04832,race,"White(9), Black(2)",11
+484,04841,income,"<=50K(18), >50K(1)",19
+484,04842,race,"White(15), Black(4)",19
+485,04851,income,<=50K(18),18
+485,04852,race,"Asian-Pac-Islander(17), White(1)",18
+486,04861,income,"<=50K(13), >50K(1)",14
+486,04862,race,"Asian-Pac-Islander(9), White(4), Amer-Indian-Eskimo(1)",14
+487,04871,income,<=50K(14),14
+487,04872,race,"White(7), Asian-Pac-Islander(4), Black(3)",14
+488,04881,income,"<=50K(10), >50K(2)",12
+488,04882,race,"White(8), Black(4)",12
+489,04891,income,"<=50K(12), >50K(3)",15
+489,04892,race,"White(14), Asian-Pac-Islander(1)",15
+490,04901,income,">50K(9), <=50K(7)",16
+490,04902,race,White(16),16
+491,04911,income,">50K(18), <=50K(11)",29
+491,04912,race,"White(28), Black(1)",29
+492,04921,income,">50K(19), <=50K(14)",33
+492,04922,race,"White(31), Amer-Indian-Eskimo(1), Black(1)",33
+493,04931,income,">50K(17), <=50K(6)",23
+493,04932,race,White(23),23
+494,04941,income,"<=50K(17), >50K(10)",27
+494,04942,race,White(27),27
+495,04951,income,">50K(6), <=50K(5)",11
+495,04952,race,White(11),11
+496,04961,income,">50K(8), <=50K(4)",12
+496,04962,race,White(12),12
+497,04971,income,">50K(10), <=50K(5)",15
+497,04972,race,"White(14), Other(1)",15
+498,04981,income,"<=50K(8), >50K(5)",13
+498,04982,race,White(13),13
+499,04991,income,">50K(9), <=50K(4)",13
+499,04992,race,White(13),13
+500,05001,income,">50K(31), <=50K(11)",42
+500,05002,race,"White(40), Black(2)",42
+501,05011,income,">50K(13), <=50K(4)",17
+501,05012,race,White(17),17
+502,05021,income,">50K(34), <=50K(4)",38
+502,05022,race,"White(37), Black(1)",38
+503,05031,income,">50K(28), <=50K(18)",46
+503,05032,race,"White(45), Black(1)",46
+504,05041,income,">50K(17), <=50K(7)",24
+504,05042,race,"White(22), Black(2)",24
+505,05051,income,">50K(15), <=50K(1)",16
+505,05052,race,"White(15), Black(1)",16
+506,05061,income,">50K(12), <=50K(8)",20
+506,05062,race,"White(19), Asian-Pac-Islander(1)",20
+507,05071,income,">50K(16), <=50K(2)",18
+507,05072,race,"White(17), Black(1)",18
+508,05081,income,">50K(16), <=50K(3)",19
+508,05082,race,"White(18), Asian-Pac-Islander(1)",19
+509,05091,income,">50K(15), <=50K(3)",18
+509,05092,race,White(18),18
+510,05101,income,">50K(12), <=50K(2)",14
+510,05102,race,White(14),14
+511,05111,income,">50K(10), <=50K(1)",11
+511,05112,race,White(11),11
+512,05121,income,">50K(8), <=50K(2)",10
+512,05122,race,White(10),10
+513,05131,income,">50K(12), <=50K(8)",20
+513,05132,race,"Asian-Pac-Islander(17), White(2), Other(1)",20
+514,05141,income,">50K(9), <=50K(7)",16
+514,05142,race,"White(8), Asian-Pac-Islander(7), Other(1)",16
+515,05151,income,">50K(8), <=50K(6)",14
+515,05152,race,"White(8), Asian-Pac-Islander(4), Black(2)",14
+516,05161,income,">50K(9), <=50K(5)",14
+516,05162,race,"White(10), Asian-Pac-Islander(3), Other(1)",14
+517,05171,income,"<=50K(17), >50K(1)",18
+517,05172,race,"White(14), Black(3), Amer-Indian-Eskimo(1)",18
+518,05181,income,"<=50K(14), >50K(5)",19
+518,05182,race,"White(18), Black(1)",19
+519,05191,income,">50K(13), <=50K(13)",26
+519,05192,race,"White(25), Black(1)",26
+520,05201,income,"<=50K(11), >50K(8)",19
+520,05202,race,White(19),19
+521,05211,income,">50K(12), <=50K(7)",19
+521,05212,race,"White(17), Black(1), Other(1)",19
+522,05221,income,">50K(11), <=50K(9)",20
+522,05222,race,"White(19), Black(1)",20
+523,05231,income,">50K(14), <=50K(9)",23
+523,05232,race,"White(21), Black(2)",23
+524,05241,income,">50K(7), <=50K(7)",14
+524,05242,race,"White(13), Asian-Pac-Islander(1)",14
+525,05251,income,">50K(10), <=50K(5)",15
+525,05252,race,"White(12), Black(2), Asian-Pac-Islander(1)",15
+526,05261,income,">50K(15), <=50K(10)",25
+526,05262,race,"White(23), Amer-Indian-Eskimo(1), Black(1)",25
+527,05271,income,">50K(14), <=50K(1)",15
+527,05272,race,White(15),15
+528,05281,income,">50K(9), <=50K(7)",16
+528,05282,race,"White(15), Asian-Pac-Islander(1)",16
+529,05291,income,<=50K(10),10
+529,05292,race,"White(8), Black(2)",10
+530,05301,income,">50K(16), <=50K(4)",20
+530,05302,race,White(20),20
+531,05311,income,"<=50K(9), >50K(6)",15
+531,05312,race,"White(14), Asian-Pac-Islander(1)",15
+532,05321,income,"<=50K(8), >50K(2)",10
+532,05322,race,White(10),10
+533,05331,income,">50K(8), <=50K(8)",16
+533,05332,race,"White(15), Black(1)",16
+534,05341,income,"<=50K(8), >50K(2)",10
+534,05342,race,White(10),10
+535,05351,income,"<=50K(15), >50K(5)",20
+535,05352,race,"White(19), Black(1)",20
+536,05361,income,"<=50K(10), >50K(8)",18
+536,05362,race,White(18),18
+537,05371,income,"<=50K(9), >50K(8)",17
+537,05372,race,White(17),17
+538,05381,income,">50K(11), <=50K(7)",18
+538,05382,race,"White(16), Asian-Pac-Islander(1), Black(1)",18
+539,05391,income,">50K(8), <=50K(7)",15
+539,05392,race,"White(14), Asian-Pac-Islander(1)",15
+540,05401,income,">50K(9), <=50K(5)",14
+540,05402,race,White(14),14
+541,05411,income,"<=50K(8), >50K(5)",13
+541,05412,race,"Asian-Pac-Islander(7), White(6)",13
+542,05421,income,"<=50K(7), >50K(4)",11
+542,05422,race,"Asian-Pac-Islander(5), White(4), Amer-Indian-Eskimo(1), Other(1)",11
+543,05431,income,"<=50K(9), >50K(2)",11
+543,05432,race,"White(10), Black(1)",11
+544,05441,income,"<=50K(8), >50K(3)",11
+544,05442,race,"White(7), Black(3), Asian-Pac-Islander(1)",11
+545,05451,income,<=50K(22),22
+545,05452,race,"White(20), Asian-Pac-Islander(1), Black(1)",22
+546,05461,income,<=50K(18),18
+546,05462,race,"White(16), Black(2)",18
+547,05471,income,<=50K(19),19
+547,05472,race,"Black(10), White(9)",19
+548,05481,income,<=50K(13),13
+548,05482,race,"White(10), Black(2), Other(1)",13
+549,05491,income,"<=50K(13), >50K(1)",14
+549,05492,race,"White(8), Black(6)",14
+550,05501,income,"<=50K(16), >50K(1)",17
+550,05502,race,"White(9), Black(8)",17
+551,05511,income,<=50K(11),11
+551,05512,race,"Black(6), White(4), Asian-Pac-Islander(1)",11
+552,05521,income,<=50K(10),10
+552,05522,race,"White(9), Asian-Pac-Islander(1)",10
+553,05531,income,<=50K(10),10
+553,05532,race,"White(9), Black(1)",10
+554,05541,income,<=50K(17),17
+554,05542,race,"White(16), Black(1)",17
+555,05551,income,<=50K(19),19
+555,05552,race,"White(13), Black(5), Amer-Indian-Eskimo(1)",19
+556,05561,income,<=50K(20),20
+556,05562,race,"White(16), Black(3), Amer-Indian-Eskimo(1)",20
+557,05571,income,<=50K(10),10
+557,05572,race,"White(9), Black(1)",10
+558,05581,income,<=50K(10),10
+558,05582,race,"White(7), Black(3)",10
+559,05591,income,<=50K(10),10
+559,05592,race,"White(6), Amer-Indian-Eskimo(2), Black(2)",10
+560,05601,income,<=50K(10),10
+560,05602,race,"White(6), Black(3), Amer-Indian-Eskimo(1)",10
+561,05611,income,"<=50K(10), >50K(1)",11
+561,05612,race,"Asian-Pac-Islander(6), White(5)",11
+562,05621,income,<=50K(11),11
+562,05622,race,"White(7), Asian-Pac-Islander(2), Black(1), Other(1)",11
+563,05631,income,"<=50K(17), >50K(1)",18
+563,05632,race,"White(16), Black(1), Other(1)",18
+564,05641,income,"<=50K(18), >50K(1)",19
+564,05642,race,"White(17), Amer-Indian-Eskimo(1), Black(1)",19
+565,05651,income,<=50K(16),16
+565,05652,race,"White(12), Black(3), Other(1)",16
+566,05661,income,"<=50K(15), >50K(2)",17
+566,05662,race,"White(15), Black(2)",17
+567,05671,income,<=50K(11),11
+567,05672,race,"White(8), Black(2), Other(1)",11
+568,05681,income,"<=50K(9), >50K(4)",13
+568,05682,race,"White(7), Black(4), Asian-Pac-Islander(2)",13
+569,05691,income,<=50K(10),10
+569,05692,race,"White(7), Black(3)",10
+570,05701,income,"<=50K(17), >50K(1)",18
+570,05702,race,"White(11), Black(6), Asian-Pac-Islander(1)",18
+571,05711,income,"<=50K(18), >50K(1)",19
+571,05712,race,"White(13), Black(3), Amer-Indian-Eskimo(3)",19
+572,05721,income,"<=50K(15), >50K(1)",16
+572,05722,race,"White(13), Black(3)",16
+573,05731,income,<=50K(12),12
+573,05732,race,"White(5), Asian-Pac-Islander(4), Black(2), Other(1)",12
+574,05741,income,"<=50K(10), >50K(2)",12
+574,05742,race,"White(9), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1), Black(1)",12
+575,05751,income,"<=50K(11), >50K(1)",12
+575,05752,race,"White(11), Black(1)",12
+576,05761,income,"<=50K(11), >50K(2)",13
+576,05762,race,"White(12), Black(1)",13
+577,05771,income,"<=50K(16), >50K(2)",18
+577,05772,race,White(18),18
+578,05781,income,"<=50K(15), >50K(3)",18
+578,05782,race,"White(16), Black(2)",18
+579,05791,income,<=50K(13),13
+579,05792,race,White(13),13
+580,05801,income,"<=50K(13), >50K(1)",14
+580,05802,race,"White(13), Black(1)",14
+581,05811,income,<=50K(17),17
+581,05812,race,"White(13), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",17
+582,05821,income,<=50K(12),12
+582,05822,race,White(12),12
+583,05831,income,"<=50K(12), >50K(1)",13
+583,05832,race,"White(9), Black(3), Amer-Indian-Eskimo(1)",13
+584,05841,income,<=50K(12),12
+584,05842,race,White(12),12
+585,05851,income,<=50K(11),11
+585,05852,race,White(11),11
+586,05861,income,<=50K(10),10
+586,05862,race,"White(9), Black(1)",10
+587,05871,income,"<=50K(10), >50K(1)",11
+587,05872,race,"White(7), Black(4)",11
+588,05881,income,<=50K(13),13
+588,05882,race,"White(9), Black(3), Amer-Indian-Eskimo(1)",13
+589,05891,income,<=50K(12),12
+589,05892,race,White(12),12
+590,05901,income,"<=50K(11), >50K(1)",12
+590,05902,race,"White(11), Black(1)",12
+591,05911,income,<=50K(13),13
+591,05912,race,"White(10), Black(3)",13
+592,05921,income,<=50K(12),12
+592,05922,race,"White(9), Asian-Pac-Islander(2), Black(1)",12
+593,05931,income,<=50K(16),16
+593,05932,race,"White(11), Black(5)",16
+594,05941,income,"<=50K(15), >50K(1)",16
+594,05942,race,"White(12), Black(2), Amer-Indian-Eskimo(2)",16
+595,05951,income,"<=50K(19), >50K(4)",23
+595,05952,race,"White(19), Asian-Pac-Islander(2), Other(1), Black(1)",23
+596,05961,income,"<=50K(14), >50K(1)",15
+596,05962,race,"White(11), Black(2), Other(1), Asian-Pac-Islander(1)",15
+597,05971,income,"<=50K(16), >50K(1)",17
+597,05972,race,"White(14), Black(2), Asian-Pac-Islander(1)",17
+598,05981,income,"<=50K(13), >50K(4)",17
+598,05982,race,White(17),17
+599,05991,income,"<=50K(15), >50K(3)",18
+599,05992,race,White(18),18
+600,06001,income,"<=50K(13), >50K(3)",16
+600,06002,race,"White(13), Black(3)",16
+601,06011,income,"<=50K(10), >50K(4)",14
+601,06012,race,"White(9), Black(5)",14
+602,06021,income,"<=50K(9), >50K(3)",12
+602,06022,race,White(12),12
+603,06031,income,"<=50K(7), >50K(3)",10
+603,06032,race,White(10),10
+604,06041,income,"<=50K(11), >50K(5)",16
+604,06042,race,"White(14), Black(1), Amer-Indian-Eskimo(1)",16
+605,06051,income,"<=50K(9), >50K(2)",11
+605,06052,race,"White(9), Black(2)",11
+606,06061,income,"<=50K(6), >50K(4)",10
+606,06062,race,"White(6), Black(4)",10
+607,06071,income,"<=50K(14), >50K(4)",18
+607,06072,race,White(18),18
+608,06081,income,"<=50K(14), >50K(6)",20
+608,06082,race,"White(15), Black(4), Asian-Pac-Islander(1)",20
+609,06091,income,"<=50K(8), >50K(6)",14
+609,06092,race,"White(11), Amer-Indian-Eskimo(2), Black(1)",14
+610,06101,income,"<=50K(12), >50K(4)",16
+610,06102,race,"White(15), Black(1)",16
+611,06111,income,"<=50K(11), >50K(5)",16
+611,06112,race,"White(14), Black(1), Amer-Indian-Eskimo(1)",16
+612,06121,income,"<=50K(16), >50K(7)",23
+612,06122,race,"White(19), Black(4)",23
+613,06131,income,"<=50K(10), >50K(3)",13
+613,06132,race,White(13),13
+614,06141,income,"<=50K(7), >50K(5)",12
+614,06142,race,"White(11), Amer-Indian-Eskimo(1)",12
+615,06151,income,"<=50K(12), >50K(6)",18
+615,06152,race,"White(15), Black(2), Amer-Indian-Eskimo(1)",18
+616,06161,income,">50K(6), <=50K(5)",11
+616,06162,race,"Asian-Pac-Islander(7), White(4)",11
+617,06171,income,"<=50K(7), >50K(4)",11
+617,06172,race,"White(8), Asian-Pac-Islander(2), Other(1)",11
+618,06181,income,"<=50K(16), >50K(3)",19
+618,06182,race,White(19),19
+619,06191,income,"<=50K(15), >50K(4)",19
+619,06192,race,White(19),19
+620,06201,income,"<=50K(20), >50K(7)",27
+620,06202,race,White(27),27
+621,06211,income,"<=50K(10), >50K(1)",11
+621,06212,race,White(11),11
+622,06221,income,"<=50K(11), >50K(1)",12
+622,06222,race,"White(11), Black(1)",12
+623,06231,income,"<=50K(6), >50K(4)",10
+623,06232,race,White(10),10
+624,06241,income,"<=50K(10), >50K(4)",14
+624,06242,race,"White(11), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",14
+625,06251,income,"<=50K(11), >50K(3)",14
+625,06252,race,White(14),14
+626,06261,income,"<=50K(8), >50K(5)",13
+626,06262,race,"White(12), Amer-Indian-Eskimo(1)",13
+627,06271,income,"<=50K(8), >50K(5)",13
+627,06272,race,"White(12), Amer-Indian-Eskimo(1)",13
+628,06281,income,"<=50K(17), >50K(4)",21
+628,06282,race,"White(20), Black(1)",21
+629,06291,income,"<=50K(13), >50K(3)",16
+629,06292,race,White(16),16
+630,06301,income,"<=50K(8), >50K(6)",14
+630,06302,race,White(14),14
+631,06311,income,"<=50K(11), >50K(7)",18
+631,06312,race,"White(17), Black(1)",18
+632,06321,income,"<=50K(7), >50K(5)",12
+632,06322,race,"White(11), Black(1)",12
+633,06331,income,"<=50K(11), >50K(7)",18
+633,06332,race,"White(16), Black(2)",18
+634,06341,income,">50K(11), <=50K(8)",19
+634,06342,race,White(19),19
+635,06351,income,"<=50K(9), >50K(3)",12
+635,06352,race,"White(10), Black(2)",12
+636,06361,income,<=50K(14),14
+636,06362,race,White(14),14
+637,06371,income,<=50K(10),10
+637,06372,race,"White(9), Other(1)",10
+638,06381,income,<=50K(13),13
+638,06382,race,"White(8), Black(3), Asian-Pac-Islander(2)",13
+639,06391,income,<=50K(10),10
+639,06392,race,"White(8), Black(1), Asian-Pac-Islander(1)",10
+640,06401,income,"<=50K(20), >50K(2)",22
+640,06402,race,"White(15), Black(4), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",22
+641,06411,income,<=50K(10),10
+641,06412,race,"White(8), Black(2)",10
+642,06421,income,">50K(6), <=50K(4)",10
+642,06422,race,White(10),10
+643,06431,income,<=50K(20),20
+643,06432,race,"White(17), Black(2), Asian-Pac-Islander(1)",20
+644,06441,income,<=50K(16),16
+644,06442,race,"White(13), Black(3)",16
+645,06451,income,<=50K(19),19
+645,06452,race,"White(16), Black(2), Amer-Indian-Eskimo(1)",19
+646,06461,income,"<=50K(15), >50K(2)",17
+646,06462,race,"White(15), Black(2)",17
+647,06471,income,<=50K(16),16
+647,06472,race,"White(15), Black(1)",16
+648,06481,income,"<=50K(16), >50K(1)",17
+648,06482,race,"White(16), Black(1)",17
+649,06491,income,"<=50K(9), >50K(2)",11
+649,06492,race,"White(10), Black(1)",11
+650,06501,income,<=50K(13),13
+650,06502,race,White(13),13
+651,06511,income,"<=50K(21), >50K(5)",26
+651,06512,race,"White(21), Black(4), Asian-Pac-Islander(1)",26
+652,06521,income,"<=50K(8), >50K(6)",14
+652,06522,race,White(14),14
+653,06531,income,<=50K(18),18
+653,06532,race,"White(16), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",18
+654,06541,income,"<=50K(18), >50K(1)",19
+654,06542,race,"White(16), Black(2), Amer-Indian-Eskimo(1)",19
+655,06551,income,"<=50K(10), >50K(1)",11
+655,06552,race,White(11),11
+656,06561,income,"<=50K(9), >50K(2)",11
+656,06562,race,"Asian-Pac-Islander(8), White(2), Black(1)",11
+657,06571,income,"<=50K(16), >50K(1)",17
+657,06572,race,"White(13), Black(4)",17
+658,06581,income,"<=50K(13), >50K(1)",14
+658,06582,race,"White(11), Black(3)",14
+659,06591,income,"<=50K(14), >50K(1)",15
+659,06592,race,"White(13), Black(2)",15
+660,06601,income,"<=50K(9), >50K(5)",14
+660,06602,race,"White(11), Black(3)",14
+661,06611,income,"<=50K(14), >50K(1)",15
+661,06612,race,"White(13), Black(1), Amer-Indian-Eskimo(1)",15
+662,06621,income,<=50K(15),15
+662,06622,race,"White(14), Asian-Pac-Islander(1)",15
+663,06631,income,<=50K(13),13
+663,06632,race,"White(10), Black(2), Other(1)",13
+664,06641,income,"<=50K(12), >50K(2)",14
+664,06642,race,"White(10), Black(3), Asian-Pac-Islander(1)",14
+665,06651,income,<=50K(14),14
+665,06652,race,"Black(7), White(5), Asian-Pac-Islander(2)",14
+666,06661,income,<=50K(15),15
+666,06662,race,"White(10), Black(3), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",15
+667,06671,income,"<=50K(14), >50K(1)",15
+667,06672,race,"White(14), Asian-Pac-Islander(1)",15
+668,06681,income,"<=50K(17), >50K(3)",20
+668,06682,race,"White(16), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",20
+669,06691,income,"<=50K(11), >50K(3)",14
+669,06692,race,"White(11), Black(3)",14
+670,06701,income,">50K(13), <=50K(5)",18
+670,06702,race,"White(16), Asian-Pac-Islander(1), Black(1)",18
+671,06711,income,"<=50K(9), >50K(9)",18
+671,06712,race,"White(17), Asian-Pac-Islander(1)",18
+672,06721,income,"<=50K(7), >50K(4)",11
+672,06722,race,White(11),11
+673,06731,income,">50K(9), <=50K(1)",10
+673,06732,race,White(10),10
+674,06741,income,">50K(12), <=50K(4)",16
+674,06742,race,White(16),16
+675,06751,income,">50K(8), <=50K(5)",13
+675,06752,race,"White(12), Other(1)",13
+676,06761,income,">50K(11), <=50K(3)",14
+676,06762,race,"White(12), Black(2)",14
+677,06771,income,">50K(9), <=50K(1)",10
+677,06772,race,White(10),10
+678,06781,income,">50K(7), <=50K(4)",11
+678,06782,race,White(11),11
+679,06791,income,">50K(9), <=50K(5)",14
+679,06792,race,"White(11), Black(3)",14
+680,06801,income,">50K(8), <=50K(6)",14
+680,06802,race,White(14),14
+681,06811,income,">50K(6), <=50K(5)",11
+681,06812,race,White(11),11
+682,06821,income,">50K(8), <=50K(4)",12
+682,06822,race,White(12),12
+683,06831,income,"<=50K(6), >50K(6)",12
+683,06832,race,White(12),12
+684,06841,income,">50K(5), <=50K(5)",10
+684,06842,race,White(10),10
+685,06851,income,">50K(16), <=50K(2)",18
+685,06852,race,"White(16), Black(2)",18
+686,06861,income,"<=50K(9), >50K(2)",11
+686,06862,race,"Asian-Pac-Islander(7), White(3), Black(1)",11
+687,06871,income,">50K(8), <=50K(4)",12
+687,06872,race,"White(9), Asian-Pac-Islander(3)",12
+688,06881,income,"<=50K(13), >50K(5)",18
+688,06882,race,"White(16), Black(1), Asian-Pac-Islander(1)",18
+689,06891,income,">50K(10), <=50K(6)",16
+689,06892,race,"White(14), Asian-Pac-Islander(2)",16
+690,06901,income,"<=50K(9), >50K(2)",11
+690,06902,race,White(11),11
+691,06911,income,"<=50K(8), >50K(2)",10
+691,06912,race,White(10),10
+692,06921,income,"<=50K(8), >50K(3)",11
+692,06922,race,White(11),11
+693,06931,income,">50K(6), <=50K(4)",10
+693,06932,race,"White(9), Black(1)",10
+694,06941,income,"<=50K(14), >50K(2)",16
+694,06942,race,White(16),16
+695,06951,income,"<=50K(10), >50K(8)",18
+695,06952,race,White(18),18
+696,06961,income,">50K(12), <=50K(4)",16
+696,06962,race,White(16),16
+697,06971,income,">50K(7), <=50K(7)",14
+697,06972,race,"White(11), Black(3)",14
+698,06981,income,"<=50K(8), >50K(6)",14
+698,06982,race,"White(13), Black(1)",14
+699,06991,income,"<=50K(6), >50K(5)",11
+699,06992,race,"Asian-Pac-Islander(7), White(4)",11
+700,07001,income,"<=50K(8), >50K(3)",11
+700,07002,race,"White(8), Asian-Pac-Islander(2), Black(1)",11
+701,07011,income,<=50K(20),20
+701,07012,race,"White(16), Black(4)",20
+702,07021,income,"<=50K(17), >50K(2)",19
+702,07022,race,"White(15), Black(4)",19
+703,07031,income,"<=50K(30), >50K(2)",32
+703,07032,race,"White(24), Black(5), Amer-Indian-Eskimo(3)",32
+704,07041,income,<=50K(15),15
+704,07042,race,"White(11), Black(3), Amer-Indian-Eskimo(1)",15
+705,07051,income,<=50K(16),16
+705,07052,race,"White(13), Black(2), Other(1)",16
+706,07061,income,<=50K(29),29
+706,07062,race,"White(19), Black(9), Asian-Pac-Islander(1)",29
+707,07071,income,<=50K(21),21
+707,07072,race,"White(19), Other(1), Black(1)",21
+708,07081,income,"<=50K(17), >50K(1)",18
+708,07082,race,"White(14), Black(3), Other(1)",18
+709,07091,income,<=50K(19),19
+709,07092,race,White(19),19
+710,07101,income,"<=50K(13), >50K(1)",14
+710,07102,race,"White(13), Black(1)",14
+711,07111,income,"<=50K(18), >50K(1)",19
+711,07112,race,"White(16), Black(2), Amer-Indian-Eskimo(1)",19
+712,07121,income,<=50K(18),18
+712,07122,race,"White(15), Black(3)",18
+713,07131,income,"<=50K(15), >50K(1)",16
+713,07132,race,"White(13), Black(3)",16
+714,07141,income,<=50K(16),16
+714,07142,race,"White(13), Black(3)",16
+715,07151,income,<=50K(12),12
+715,07152,race,"White(8), Black(3), Amer-Indian-Eskimo(1)",12
+716,07161,income,"<=50K(10), >50K(1)",11
+716,07162,race,"White(8), Black(3)",11
+717,07171,income,<=50K(15),15
+717,07172,race,"White(13), Black(2)",15
+718,07181,income,<=50K(16),16
+718,07182,race,"White(14), Black(1), Asian-Pac-Islander(1)",16
+719,07191,income,<=50K(16),16
+719,07192,race,White(16),16
+720,07201,income,<=50K(13),13
+720,07202,race,"Black(7), White(6)",13
+721,07211,income,<=50K(11),11
+721,07212,race,"White(9), Black(2)",11
+722,07221,income,<=50K(11),11
+722,07222,race,"White(7), Black(4)",11
+723,07231,income,<=50K(11),11
+723,07232,race,"White(7), Black(4)",11
+724,07241,income,<=50K(17),17
+724,07242,race,"Black(9), White(8)",17
+725,07251,income,"<=50K(16), >50K(1)",17
+725,07252,race,"White(10), Black(7)",17
+726,07261,income,"<=50K(21), >50K(1)",22
+726,07262,race,"White(18), Black(4)",22
+727,07271,income,<=50K(17),17
+727,07272,race,"White(12), Black(5)",17
+728,07281,income,">50K(8), <=50K(6)",14
+728,07282,race,White(14),14
+729,07291,income,"<=50K(7), >50K(6)",13
+729,07292,race,"White(9), Black(4)",13
+730,07301,income,"<=50K(22), >50K(3)",25
+730,07302,race,"White(18), Black(7)",25
+731,07311,income,"<=50K(8), >50K(8)",16
+731,07312,race,"White(15), Black(1)",16
+732,07321,income,">50K(9), <=50K(5)",14
+732,07322,race,"White(13), Black(1)",14
+733,07331,income,<=50K(17),17
+733,07332,race,"White(14), Black(3)",17
+734,07341,income,"<=50K(12), >50K(1)",13
+734,07342,race,"White(7), Black(5), Asian-Pac-Islander(1)",13
+735,07351,income,"<=50K(14), >50K(1)",15
+735,07352,race,"White(11), Black(4)",15
+736,07361,income,"<=50K(15), >50K(1)",16
+736,07362,race,"White(12), Black(4)",16
+737,07371,income,">50K(5), <=50K(5)",10
+737,07372,race,"White(9), Black(1)",10
+738,07381,income,">50K(8), <=50K(3)",11
+738,07382,race,"White(8), Black(3)",11
+739,07391,income,">50K(12), <=50K(5)",17
+739,07392,race,"White(15), Black(2)",17
+740,07401,income,<=50K(24),24
+740,07402,race,"White(16), Black(7), Amer-Indian-Eskimo(1)",24
+741,07411,income,<=50K(21),21
+741,07412,race,"White(15), Black(6)",21
+742,07421,income,<=50K(22),22
+742,07422,race,"White(16), Black(6)",22
+743,07431,income,<=50K(18),18
+743,07432,race,"White(15), Black(3)",18
+744,07441,income,<=50K(25),25
+744,07442,race,"White(24), Black(1)",25
+745,07451,income,<=50K(26),26
+745,07452,race,"White(22), Black(2), Amer-Indian-Eskimo(2)",26
+746,07461,income,<=50K(14),14
+746,07462,race,"White(13), Black(1)",14
+747,07471,income,<=50K(14),14
+747,07472,race,"White(8), Black(6)",14
+748,07481,income,<=50K(13),13
+748,07482,race,"White(11), Black(2)",13
+749,07491,income,<=50K(14),14
+749,07492,race,"White(12), Black(2)",14
+750,07501,income,"<=50K(10), >50K(1)",11
+750,07502,race,White(11),11
+751,07511,income,<=50K(11),11
+751,07512,race,"White(9), Black(2)",11
+752,07521,income,<=50K(18),18
+752,07522,race,"White(14), Black(4)",18
+753,07531,income,<=50K(12),12
+753,07532,race,White(12),12
+754,07541,income,<=50K(20),20
+754,07542,race,"White(16), Black(4)",20
+755,07551,income,"<=50K(9), >50K(1)",10
+755,07552,race,White(10),10
+756,07561,income,"<=50K(13), >50K(2)",15
+756,07562,race,"White(14), Black(1)",15
+757,07571,income,<=50K(14),14
+757,07572,race,White(14),14
+758,07581,income,"<=50K(15), >50K(1)",16
+758,07582,race,"White(15), Black(1)",16
+759,07591,income,<=50K(11),11
+759,07592,race,"White(10), Asian-Pac-Islander(1)",11
+760,07601,income,<=50K(13),13
+760,07602,race,"White(12), Black(1)",13
+761,07611,income,"<=50K(10), >50K(1)",11
+761,07612,race,"White(9), Black(2)",11
+762,07621,income,<=50K(13),13
+762,07622,race,White(13),13
+763,07631,income,<=50K(12),12
+763,07632,race,"White(11), Black(1)",12
+764,07641,income,<=50K(19),19
+764,07642,race,"White(10), Black(8), Other(1)",19
+765,07651,income,<=50K(15),15
+765,07652,race,"White(12), Black(2), Asian-Pac-Islander(1)",15
+766,07661,income,"<=50K(12), >50K(3)",15
+766,07662,race,"White(12), Black(3)",15
+767,07671,income,"<=50K(10), >50K(3)",13
+767,07672,race,"White(10), Black(3)",13
+768,07681,income,<=50K(19),19
+768,07682,race,"White(15), Black(4)",19
+769,07691,income,"<=50K(10), >50K(2)",12
+769,07692,race,"White(11), Black(1)",12
+770,07701,income,"<=50K(14), >50K(1)",15
+770,07702,race,"White(11), Black(4)",15
+771,07711,income,"<=50K(15), >50K(1)",16
+771,07712,race,"White(12), Asian-Pac-Islander(2), Black(2)",16
+772,07721,income,"<=50K(9), >50K(5)",14
+772,07722,race,"White(8), Black(5), Amer-Indian-Eskimo(1)",14
+773,07731,income,">50K(8), <=50K(4)",12
+773,07732,race,White(12),12
+774,07741,income,"<=50K(11), >50K(1)",12
+774,07742,race,"White(11), Black(1)",12
+775,07751,income,"<=50K(7), >50K(5)",12
+775,07752,race,White(12),12
+776,07761,income,<=50K(11),11
+776,07762,race,"White(8), Asian-Pac-Islander(3)",11
+777,07771,income,<=50K(11),11
+777,07772,race,"White(10), Other(1)",11
+778,07781,income,"<=50K(10), >50K(5)",15
+778,07782,race,"White(11), Other(3), Asian-Pac-Islander(1)",15
+779,07791,income,"<=50K(15), >50K(2)",17
+779,07792,race,"White(13), Asian-Pac-Islander(4)",17
+780,07801,income,"<=50K(11), >50K(2)",13
+780,07802,race,"White(10), Asian-Pac-Islander(2), Other(1)",13
+781,07811,income,<=50K(17),17
+781,07812,race,"White(8), Black(6), Asian-Pac-Islander(2), Other(1)",17
+782,07821,income,"<=50K(15), >50K(2)",17
+782,07822,race,"White(13), Black(4)",17
+783,07831,income,<=50K(11),11
+783,07832,race,"White(6), Black(3), Other(2)",11
+784,07841,income,<=50K(11),11
+784,07842,race,"White(6), Black(3), Other(1), Asian-Pac-Islander(1)",11
+785,07851,income,"<=50K(10), >50K(2)",12
+785,07852,race,"White(7), Black(5)",12
+786,07861,income,"<=50K(29), >50K(20)",49
+786,07862,race,"White(45), Black(4)",49
+787,07871,income,"<=50K(14), >50K(6)",20
+787,07872,race,"White(18), Amer-Indian-Eskimo(1), Black(1)",20
+788,07881,income,"<=50K(7), >50K(5)",12
+788,07882,race,"White(11), Asian-Pac-Islander(1)",12
+789,07891,income,"<=50K(12), >50K(1)",13
+789,07892,race,White(13),13
+790,07901,income,"<=50K(15), >50K(5)",20
+790,07902,race,"White(19), Black(1)",20
+791,07911,income,"<=50K(13), >50K(8)",21
+791,07912,race,"White(17), Black(4)",21
+792,07921,income,"<=50K(10), >50K(4)",14
+792,07922,race,"White(9), Black(3), Amer-Indian-Eskimo(2)",14
+793,07931,income,"<=50K(10), >50K(8)",18
+793,07932,race,"White(15), Black(3)",18
+794,07941,income,"<=50K(14), >50K(10)",24
+794,07942,race,"White(21), Black(3)",24
+795,07951,income,"<=50K(23), >50K(14)",37
+795,07952,race,"White(34), Black(3)",37
+796,07961,income,"<=50K(21), >50K(2)",23
+796,07962,race,"White(19), Black(4)",23
+797,07971,income,"<=50K(8), >50K(3)",11
+797,07972,race,White(11),11
+798,07981,income,"<=50K(8), >50K(2)",10
+798,07982,race,"White(7), Amer-Indian-Eskimo(2), Black(1)",10
+799,07991,income,"<=50K(13), >50K(1)",14
+799,07992,race,"White(12), Black(1), Amer-Indian-Eskimo(1)",14
+800,08001,income,"<=50K(10), >50K(5)",15
+800,08002,race,"White(10), Black(4), Amer-Indian-Eskimo(1)",15
+801,08011,income,"<=50K(10), >50K(2)",12
+801,08012,race,"White(9), Black(2), Amer-Indian-Eskimo(1)",12
+802,08021,income,"<=50K(10), >50K(1)",11
+802,08022,race,"White(9), Black(1), Amer-Indian-Eskimo(1)",11
+803,08031,income,"<=50K(9), >50K(3)",12
+803,08032,race,"White(11), Black(1)",12
+804,08041,income,"<=50K(8), >50K(4)",12
+804,08042,race,"White(8), Black(4)",12
+805,08051,income,">50K(6), <=50K(5)",11
+805,08052,race,"White(9), Black(2)",11
+806,08061,income,"<=50K(16), >50K(11)",27
+806,08062,race,"White(24), Black(3)",27
+807,08071,income,">50K(8), <=50K(5)",13
+807,08072,race,White(13),13
+808,08081,income,"<=50K(22), >50K(8)",30
+808,08082,race,"White(28), Black(2)",30
+809,08091,income,">50K(11), <=50K(8)",19
+809,08092,race,White(19),19
+810,08101,income,">50K(9), <=50K(8)",17
+810,08102,race,"White(15), Black(1), Asian-Pac-Islander(1)",17
+811,08111,income,"<=50K(8), >50K(3)",11
+811,08112,race,"White(10), Black(1)",11
+812,08121,income,"<=50K(9), >50K(3)",12
+812,08122,race,"White(11), Black(1)",12
+813,08131,income,">50K(6), <=50K(4)",10
+813,08132,race,"White(7), Black(2), Amer-Indian-Eskimo(1)",10
+814,08141,income,"<=50K(6), >50K(5)",11
+814,08142,race,White(11),11
+815,08151,income,"<=50K(13), >50K(2)",15
+815,08152,race,"White(12), Black(2), Asian-Pac-Islander(1)",15
+816,08161,income,">50K(7), <=50K(5)",12
+816,08162,race,"White(11), Black(1)",12
+817,08171,income,">50K(7), <=50K(5)",12
+817,08172,race,White(12),12
+818,08181,income,">50K(6), <=50K(5)",11
+818,08182,race,"White(9), Black(2)",11
+819,08191,income,"<=50K(9), >50K(1)",10
+819,08192,race,White(10),10
+820,08201,income,"<=50K(7), >50K(5)",12
+820,08202,race,"White(11), Black(1)",12
+821,08211,income,"<=50K(17), >50K(2)",19
+821,08212,race,"White(16), Black(2), Other(1)",19
+822,08221,income,"<=50K(10), >50K(8)",18
+822,08222,race,"White(17), Black(1)",18
+823,08231,income,"<=50K(12), >50K(6)",18
+823,08232,race,"White(12), Black(5), Amer-Indian-Eskimo(1)",18
+824,08241,income,">50K(11), <=50K(10)",21
+824,08242,race,"White(18), Black(3)",21
+825,08251,income,"<=50K(11), >50K(7)",18
+825,08252,race,"White(17), Black(1)",18
+826,08261,income,">50K(8), <=50K(6)",14
+826,08262,race,White(14),14
+827,08271,income,"<=50K(15), >50K(8)",23
+827,08272,race,White(23),23
+828,08281,income,"<=50K(15), >50K(3)",18
+828,08282,race,"White(15), Black(3)",18
+829,08291,income,"<=50K(9), >50K(4)",13
+829,08292,race,"White(10), Black(3)",13
+830,08301,income,"<=50K(8), >50K(2)",10
+830,08302,race,"White(7), Black(3)",10
+831,08311,income,"<=50K(9), >50K(1)",10
+831,08312,race,"White(9), Black(1)",10
+832,08321,income,"<=50K(11), >50K(4)",15
+832,08322,race,"White(14), Black(1)",15
+833,08331,income,"<=50K(9), >50K(4)",13
+833,08332,race,"White(11), Black(2)",13
+834,08341,income,"<=50K(18), >50K(7)",25
+834,08342,race,"White(22), Black(3)",25
+835,08351,income,"<=50K(9), >50K(2)",11
+835,08352,race,White(11),11
+836,08361,income,"<=50K(15), >50K(5)",20
+836,08362,race,"White(19), Black(1)",20
+837,08371,income,"<=50K(20), >50K(2)",22
+837,08372,race,"White(18), Black(3), Amer-Indian-Eskimo(1)",22
+838,08381,income,"<=50K(14), >50K(3)",17
+838,08382,race,White(17),17
+839,08391,income,">50K(6), <=50K(6)",12
+839,08392,race,White(12),12
+840,08401,income,"<=50K(9), >50K(1)",10
+840,08402,race,"White(8), Black(2)",10
+841,08411,income,"<=50K(16), >50K(1)",17
+841,08412,race,"White(13), Black(3), Asian-Pac-Islander(1)",17
+842,08421,income,"<=50K(19), >50K(1)",20
+842,08422,race,"White(16), Black(4)",20
+843,08431,income,"<=50K(14), >50K(4)",18
+843,08432,race,"White(16), Black(2)",18
+844,08441,income,">50K(14), <=50K(5)",19
+844,08442,race,White(19),19
+845,08451,income,">50K(12), <=50K(6)",18
+845,08452,race,White(18),18
+846,08461,income,">50K(11), <=50K(10)",21
+846,08462,race,"White(20), Black(1)",21
+847,08471,income,"<=50K(10), >50K(6)",16
+847,08472,race,White(16),16
+848,08481,income,">50K(16), <=50K(5)",21
+848,08482,race,"White(20), Black(1)",21
+849,08491,income,"<=50K(13), >50K(6)",19
+849,08492,race,"White(18), Black(1)",19
+850,08501,income,"<=50K(12), >50K(6)",18
+850,08502,race,White(18),18
+851,08511,income,"<=50K(14), >50K(2)",16
+851,08512,race,"White(14), Asian-Pac-Islander(2)",16
+852,08521,income,"<=50K(16), >50K(2)",18
+852,08522,race,"White(15), Other(2), Asian-Pac-Islander(1)",18
+853,08531,income,<=50K(19),19
+853,08532,race,"White(11), Asian-Pac-Islander(8)",19
+854,08541,income,<=50K(10),10
+854,08542,race,"White(7), Asian-Pac-Islander(2), Other(1)",10
+855,08551,income,<=50K(10),10
+855,08552,race,"White(6), Asian-Pac-Islander(3), Black(1)",10
+856,08561,income,"<=50K(14), >50K(4)",18
+856,08562,race,"Asian-Pac-Islander(10), White(5), Other(2), Amer-Indian-Eskimo(1)",18
+857,08571,income,"<=50K(14), >50K(4)",18
+857,08572,race,"White(11), Asian-Pac-Islander(3), Black(2), Amer-Indian-Eskimo(1), Other(1)",18
+858,08581,income,"<=50K(16), >50K(2)",18
+858,08582,race,"White(10), Black(3), Asian-Pac-Islander(3), Other(2)",18
+859,08591,income,"<=50K(6), >50K(5)",11
+859,08592,race,"White(10), Black(1)",11
+860,08601,income,"<=50K(9), >50K(1)",10
+860,08602,race,White(10),10
+861,08611,income,"<=50K(11), >50K(2)",13
+861,08612,race,"White(7), Asian-Pac-Islander(2), Other(2), Black(2)",13
+862,08621,income,"<=50K(57), >50K(12)",69
+862,08622,race,"White(62), Black(6), Amer-Indian-Eskimo(1)",69
+863,08631,income,"<=50K(51), >50K(19)",70
+863,08632,race,"White(64), Black(6)",70
+864,08641,income,"<=50K(22), >50K(10)",32
+864,08642,race,"White(29), Black(3)",32
+865,08651,income,<=50K(17),17
+865,08652,race,"White(13), Black(2), Amer-Indian-Eskimo(2)",17
+866,08661,income,"<=50K(12), >50K(4)",16
+866,08662,race,"White(13), Black(3)",16
+867,08671,income,"<=50K(30), >50K(9)",39
+867,08672,race,"White(33), Black(5), Amer-Indian-Eskimo(1)",39
+868,08681,income,<=50K(10),10
+868,08682,race,"White(7), Black(2), Amer-Indian-Eskimo(1)",10
+869,08691,income,"<=50K(9), >50K(1)",10
+869,08692,race,"White(8), Black(2)",10
+870,08701,income,"<=50K(10), >50K(8)",18
+870,08702,race,"White(16), Black(1), Amer-Indian-Eskimo(1)",18
+871,08711,income,"<=50K(25), >50K(15)",40
+871,08712,race,"White(36), Black(3), Other(1)",40
+872,08721,income,"<=50K(30), >50K(8)",38
+872,08722,race,"White(33), Black(3), Other(2)",38
+873,08731,income,"<=50K(73), >50K(31)",104
+873,08732,race,"White(94), Black(7), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",104
+874,08741,income,"<=50K(13), >50K(1)",14
+874,08742,race,"White(12), Black(2)",14
+875,08751,income,"<=50K(10), >50K(4)",14
+875,08752,race,"White(13), Black(1)",14
+876,08761,income,"<=50K(20), >50K(6)",26
+876,08762,race,"White(24), Asian-Pac-Islander(1), Black(1)",26
+877,08771,income,"<=50K(42), >50K(14)",56
+877,08772,race,"White(46), Black(6), Amer-Indian-Eskimo(4)",56
+878,08781,income,"<=50K(15), >50K(14)",29
+878,08782,race,"White(26), Black(2), Amer-Indian-Eskimo(1)",29
+879,08791,income,"<=50K(8), >50K(6)",14
+879,08792,race,White(14),14
+880,08801,income,<=50K(10),10
+880,08802,race,White(10),10
+881,08811,income,"<=50K(17), >50K(14)",31
+881,08812,race,"White(25), Black(6)",31
+882,08821,income,"<=50K(17), >50K(5)",22
+882,08822,race,"White(21), Black(1)",22
+883,08831,income,<=50K(19),19
+883,08832,race,"White(16), Black(3)",19
+884,08841,income,">50K(9), <=50K(6)",15
+884,08842,race,White(15),15
+885,08851,income,"<=50K(20), >50K(14)",34
+885,08852,race,"White(28), Black(4), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",34
+886,08861,income,">50K(18), <=50K(15)",33
+886,08862,race,"White(30), Black(2), Amer-Indian-Eskimo(1)",33
+887,08871,income,"<=50K(26), >50K(13)",39
+887,08872,race,"White(36), Black(2), Asian-Pac-Islander(1)",39
+888,08881,income,"<=50K(11), >50K(9)",20
+888,08882,race,"White(19), Black(1)",20
+889,08891,income,"<=50K(10), >50K(8)",18
+889,08892,race,"White(15), Black(3)",18
+890,08901,income,"<=50K(13), >50K(8)",21
+890,08902,race,"White(19), Black(1), Asian-Pac-Islander(1)",21
+891,08911,income,"<=50K(11), >50K(1)",12
+891,08912,race,"White(9), Black(3)",12
+892,08921,income,">50K(6), <=50K(4)",10
+892,08922,race,White(10),10
+893,08931,income,"<=50K(11), >50K(10)",21
+893,08932,race,"White(18), Black(3)",21
+894,08941,income,">50K(7), <=50K(7)",14
+894,08942,race,"White(11), Black(2), Asian-Pac-Islander(1)",14
+895,08951,income,"<=50K(10), >50K(4)",14
+895,08952,race,"White(13), Black(1)",14
+896,08961,income,"<=50K(8), >50K(6)",14
+896,08962,race,White(14),14
+897,08971,income,">50K(6), <=50K(4)",10
+897,08972,race,White(10),10
+898,08981,income,">50K(14), <=50K(14)",28
+898,08982,race,"White(26), Black(2)",28
+899,08991,income,<=50K(16),16
+899,08992,race,"White(12), Black(4)",16
+900,09001,income,<=50K(11),11
+900,09002,race,"White(9), Black(2)",11
+901,09011,income,<=50K(12),12
+901,09012,race,"White(9), Black(3)",12
+902,09021,income,<=50K(11),11
+902,09022,race,"White(7), Black(4)",11
+903,09031,income,"<=50K(8), >50K(2)",10
+903,09032,race,"White(9), Black(1)",10
+904,09041,income,"<=50K(9), >50K(1)",10
+904,09042,race,White(10),10
+905,09051,income,"<=50K(14), >50K(6)",20
+905,09052,race,"White(16), Black(3), Asian-Pac-Islander(1)",20
+906,09061,income,"<=50K(17), >50K(1)",18
+906,09062,race,"White(13), Black(5)",18
+907,09071,income,"<=50K(14), >50K(5)",19
+907,09072,race,"White(16), Black(1), Amer-Indian-Eskimo(1), Other(1)",19
+908,09081,income,"<=50K(22), >50K(3)",25
+908,09082,race,"White(19), Black(6)",25
+909,09091,income,"<=50K(10), >50K(1)",11
+909,09092,race,"White(10), Black(1)",11
+910,09101,income,"<=50K(7), >50K(3)",10
+910,09102,race,"White(9), Black(1)",10
+911,09111,income,"<=50K(5), >50K(5)",10
+911,09112,race,"White(8), Black(2)",10
+912,09121,income,"<=50K(6), >50K(5)",11
+912,09122,race,White(11),11
+913,09131,income,"<=50K(9), >50K(3)",12
+913,09132,race,"White(11), Black(1)",12
+914,09141,income,">50K(6), <=50K(4)",10
+914,09142,race,White(10),10
+915,09151,income,"<=50K(18), >50K(1)",19
+915,09152,race,"White(15), Black(2), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",19
+916,09161,income,"<=50K(12), >50K(3)",15
+916,09162,race,"White(11), Black(3), Other(1)",15
+917,09171,income,"<=50K(78), >50K(37)",115
+917,09172,race,"White(110), Black(4), Asian-Pac-Islander(1)",115
+918,09181,income,"<=50K(71), >50K(25)",96
+918,09182,race,"White(86), Black(8), Amer-Indian-Eskimo(2)",96
+919,09191,income,"<=50K(27), >50K(12)",39
+919,09192,race,"White(32), Black(6), Amer-Indian-Eskimo(1)",39
+920,09201,income,<=50K(17),17
+920,09202,race,"White(16), Black(1)",17
+921,09211,income,"<=50K(10), >50K(7)",17
+921,09212,race,White(17),17
+922,09221,income,"<=50K(16), >50K(11)",27
+922,09222,race,"White(22), Black(5)",27
+923,09231,income,"<=50K(11), >50K(7)",18
+923,09232,race,"White(15), Black(2), Asian-Pac-Islander(1)",18
+924,09241,income,"<=50K(11), >50K(7)",18
+924,09242,race,"White(15), Black(3)",18
+925,09251,income,"<=50K(13), >50K(4)",17
+925,09252,race,"White(12), Black(5)",17
+926,09261,income,"<=50K(6), >50K(5)",11
+926,09262,race,"White(7), Black(3), Amer-Indian-Eskimo(1)",11
+927,09271,income,"<=50K(10), >50K(6)",16
+927,09272,race,"White(14), Asian-Pac-Islander(1), Black(1)",16
+928,09281,income,">50K(6), <=50K(4)",10
+928,09282,race,White(10),10
+929,09291,income,"<=50K(14), >50K(3)",17
+929,09292,race,White(17),17
+930,09301,income,"<=50K(10), >50K(7)",17
+930,09302,race,White(17),17
+931,09311,income,"<=50K(12), >50K(2)",14
+931,09312,race,"White(13), Black(1)",14
+932,09321,income,"<=50K(20), >50K(4)",24
+932,09322,race,"White(23), Black(1)",24
+933,09331,income,"<=50K(11), >50K(3)",14
+933,09332,race,"White(12), Black(1), Asian-Pac-Islander(1)",14
+934,09341,income,"<=50K(9), >50K(4)",13
+934,09342,race,White(13),13
+935,09351,income,"<=50K(11), >50K(6)",17
+935,09352,race,"White(15), Black(1), Amer-Indian-Eskimo(1)",17
+936,09361,income,"<=50K(7), >50K(4)",11
+936,09362,race,White(11),11
+937,09371,income,"<=50K(12), >50K(2)",14
+937,09372,race,White(14),14
+938,09381,income,">50K(7), <=50K(7)",14
+938,09382,race,"White(13), Asian-Pac-Islander(1)",14
+939,09391,income,<=50K(11),11
+939,09392,race,White(11),11
+940,09401,income,"<=50K(9), >50K(3)",12
+940,09402,race,White(12),12
+941,09411,income,"<=50K(16), >50K(2)",18
+941,09412,race,"White(15), Black(3)",18
+942,09421,income,<=50K(18),18
+942,09422,race,"White(17), Black(1)",18
+943,09431,income,"<=50K(17), >50K(2)",19
+943,09432,race,White(19),19
+944,09441,income,<=50K(20),20
+944,09442,race,"White(17), Black(2), Amer-Indian-Eskimo(1)",20
+945,09451,income,"<=50K(16), >50K(2)",18
+945,09452,race,"White(16), Black(2)",18
+946,09461,income,"<=50K(13), >50K(1)",14
+946,09462,race,"White(11), Black(2), Asian-Pac-Islander(1)",14
+947,09471,income,">50K(10), <=50K(10)",20
+947,09472,race,"White(19), Asian-Pac-Islander(1)",20
+948,09481,income,"<=50K(5), >50K(5)",10
+948,09482,race,White(10),10
+949,09491,income,"<=50K(9), >50K(7)",16
+949,09492,race,White(16),16
+950,09501,income,">50K(9), <=50K(6)",15
+950,09502,race,"White(14), Black(1)",15
+951,09511,income,">50K(18), <=50K(5)",23
+951,09512,race,"White(21), Asian-Pac-Islander(1), Black(1)",23
+952,09521,income,">50K(12), <=50K(11)",23
+952,09522,race,"White(22), Black(1)",23
+953,09531,income,"<=50K(9), >50K(7)",16
+953,09532,race,"White(14), Black(2)",16
+954,09541,income,"<=50K(7), >50K(6)",13
+954,09542,race,"White(12), Black(1)",13
+955,09551,income,">50K(14), <=50K(11)",25
+955,09552,race,"White(24), Black(1)",25
+956,09561,income,"<=50K(12), >50K(5)",17
+956,09562,race,"White(15), Amer-Indian-Eskimo(1), Black(1)",17
+957,09571,income,"<=50K(7), >50K(3)",10
+957,09572,race,"White(8), Amer-Indian-Eskimo(1), Other(1)",10
+958,09581,income,"<=50K(9), >50K(4)",13
+958,09582,race,"White(12), Black(1)",13
+959,09591,income,"<=50K(8), >50K(4)",12
+959,09592,race,White(12),12
+960,09601,income,"<=50K(8), >50K(6)",14
+960,09602,race,White(14),14
+961,09611,income,"<=50K(6), >50K(4)",10
+961,09612,race,"White(9), Black(1)",10
+962,09621,income,"<=50K(15), >50K(4)",19
+962,09622,race,"White(17), Black(2)",19
+963,09631,income,"<=50K(11), >50K(1)",12
+963,09632,race,"White(11), Black(1)",12
+964,09641,income,"<=50K(12), >50K(3)",15
+964,09642,race,"White(13), Black(2)",15
+965,09651,income,"<=50K(10), >50K(3)",13
+965,09652,race,"White(11), Black(2)",13
+966,09661,income,"<=50K(12), >50K(1)",13
+966,09662,race,"White(8), Black(5)",13
+967,09671,income,"<=50K(11), >50K(3)",14
+967,09672,race,"White(12), Black(2)",14
+968,09681,income,<=50K(19),19
+968,09682,race,"White(10), Black(8), Asian-Pac-Islander(1)",19
+969,09691,income,<=50K(14),14
+969,09692,race,"White(13), Black(1)",14
+970,09701,income,"<=50K(15), >50K(1)",16
+970,09702,race,"White(14), Black(2)",16
+971,09711,income,<=50K(11),11
+971,09712,race,"White(8), Black(3)",11
+972,09721,income,"<=50K(8), >50K(4)",12
+972,09722,race,"White(11), Black(1)",12
+973,09731,income,"<=50K(9), >50K(3)",12
+973,09732,race,"White(11), Black(1)",12
+974,09741,income,"<=50K(9), >50K(1)",10
+974,09742,race,White(10),10
+975,09751,income,"<=50K(8), >50K(7)",15
+975,09752,race,"White(12), Black(3)",15
+976,09761,income,"<=50K(9), >50K(6)",15
+976,09762,race,"White(13), Black(2)",15
+977,09771,income,"<=50K(9), >50K(7)",16
+977,09772,race,"White(14), Black(2)",16
+978,09781,income,"<=50K(11), >50K(1)",12
+978,09782,race,White(12),12
+979,09791,income,<=50K(14),14
+979,09792,race,"White(10), Asian-Pac-Islander(3), Other(1)",14
+980,09801,income,"<=50K(13), >50K(2)",15
+980,09802,race,"White(8), Asian-Pac-Islander(4), Black(2), Other(1)",15
+981,09811,income,<=50K(15),15
+981,09812,race,"White(13), Asian-Pac-Islander(2)",15
+982,09821,income,"<=50K(10), >50K(3)",13
+982,09822,race,"White(11), Other(1), Asian-Pac-Islander(1)",13
+983,09831,income,"<=50K(10), >50K(4)",14
+983,09832,race,"White(10), Asian-Pac-Islander(4)",14
+984,09841,income,"<=50K(14), >50K(4)",18
+984,09842,race,"White(10), Asian-Pac-Islander(6), Other(1), Black(1)",18
+985,09851,income,"<=50K(7), >50K(4)",11
+985,09852,race,"White(8), Asian-Pac-Islander(2), Black(1)",11
+986,09861,income,"<=50K(11), >50K(1)",12
+986,09862,race,"White(11), Other(1)",12
+987,09871,income,"<=50K(18), >50K(1)",19
+987,09872,race,"White(12), Black(4), Asian-Pac-Islander(3)",19
+988,09881,income,"<=50K(11), >50K(1)",12
+988,09882,race,"White(10), Other(1), Asian-Pac-Islander(1)",12
+989,09891,income,"<=50K(8), >50K(2)",10
+989,09892,race,"White(8), Black(1), Asian-Pac-Islander(1)",10
+990,09901,income,"<=50K(16), >50K(3)",19
+990,09902,race,"White(15), Black(3), Asian-Pac-Islander(1)",19
+991,09911,income,"<=50K(9), >50K(1)",10
+991,09912,race,"White(6), Black(3), Amer-Indian-Eskimo(1)",10
+992,09921,income,<=50K(10),10
+992,09922,race,"White(7), Black(2), Amer-Indian-Eskimo(1)",10
+993,09931,income,<=50K(10),10
+993,09932,race,"White(4), Black(3), Asian-Pac-Islander(2), Other(1)",10
+994,09941,income,"<=50K(11), >50K(2)",13
+994,09942,race,"White(10), Asian-Pac-Islander(2), Black(1)",13
+995,09951,income,"<=50K(13), >50K(3)",16
+995,09952,race,"White(13), Black(3)",16
+996,09961,income,<=50K(14),14
+996,09962,race,"White(11), Black(3)",14
+997,09971,income,<=50K(13),13
+997,09972,race,"White(9), Asian-Pac-Islander(2), Other(1), Black(1)",13
+998,09981,income,">50K(21), <=50K(14)",35
+998,09982,race,"White(33), Black(1), Asian-Pac-Islander(1)",35
+999,09991,income,"<=50K(13), >50K(5)",18
+999,09992,race,"White(15), Black(2), Asian-Pac-Islander(1)",18
+1000,10001,income,">50K(14), <=50K(4)",18
+1000,10002,race,White(18),18
+1001,10011,income,">50K(17), <=50K(4)",21
+1001,10012,race,White(21),21
+1002,10021,income,">50K(12), <=50K(9)",21
+1002,10022,race,"White(17), Black(4)",21
+1003,10031,income,">50K(42), <=50K(12)",54
+1003,10032,race,"White(48), Black(4), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",54
+1004,10041,income,">50K(23), <=50K(7)",30
+1004,10042,race,"White(23), Black(6), Asian-Pac-Islander(1)",30
+1005,10051,income,">50K(18), <=50K(10)",28
+1005,10052,race,White(28),28
+1006,10061,income,">50K(20), <=50K(9)",29
+1006,10062,race,"White(27), Black(1), Amer-Indian-Eskimo(1)",29
+1007,10071,income,">50K(15), <=50K(10)",25
+1007,10072,race,White(25),25
+1008,10081,income,"<=50K(10), >50K(6)",16
+1008,10082,race,"White(15), Asian-Pac-Islander(1)",16
+1009,10091,income,"<=50K(9), >50K(6)",15
+1009,10092,race,White(15),15
+1010,10101,income,"<=50K(9), >50K(4)",13
+1010,10102,race,"White(10), Black(3)",13
+1011,10111,income,">50K(9), <=50K(5)",14
+1011,10112,race,White(14),14
+1012,10121,income,"<=50K(15), >50K(10)",25
+1012,10122,race,"White(24), Black(1)",25
+1013,10131,income,">50K(9), <=50K(9)",18
+1013,10132,race,"White(16), Amer-Indian-Eskimo(1), Black(1)",18
+1014,10141,income,">50K(14), <=50K(11)",25
+1014,10142,race,"White(22), Black(3)",25
+1015,10151,income,"<=50K(8), >50K(5)",13
+1015,10152,race,White(13),13
+1016,10161,income,>50K(12),12
+1016,10162,race,White(12),12
+1017,10171,income,">50K(17), <=50K(2)",19
+1017,10172,race,"White(16), Black(2), Asian-Pac-Islander(1)",19
+1018,10181,income,>50K(10),10
+1018,10182,race,White(10),10
+1019,10191,income,">50K(14), <=50K(5)",19
+1019,10192,race,"White(18), Black(1)",19
+1020,10201,income,">50K(9), <=50K(4)",13
+1020,10202,race,White(13),13
+1021,10211,income,">50K(11), <=50K(2)",13
+1021,10212,race,White(13),13
+1022,10221,income,">50K(12), <=50K(1)",13
+1022,10222,race,"White(12), Black(1)",13
+1023,10231,income,">50K(14), <=50K(6)",20
+1023,10232,race,"White(19), Black(1)",20
+1024,10241,income,"<=50K(11), >50K(9)",20
+1024,10242,race,White(20),20
+1025,10251,income,">50K(12), <=50K(8)",20
+1025,10252,race,"White(18), Other(1), Black(1)",20
+1026,10261,income,">50K(9), <=50K(6)",15
+1026,10262,race,White(15),15
+1027,10271,income,">50K(14), <=50K(4)",18
+1027,10272,race,White(18),18
+1028,10281,income,">50K(13), <=50K(1)",14
+1028,10282,race,White(14),14
+1029,10291,income,">50K(11), <=50K(3)",14
+1029,10292,race,White(14),14
+1030,10301,income,">50K(16), <=50K(3)",19
+1030,10302,race,White(19),19
+1031,10311,income,">50K(15), <=50K(3)",18
+1031,10312,race,"White(17), Black(1)",18
+1032,10321,income,">50K(16), <=50K(3)",19
+1032,10322,race,White(19),19
+1033,10331,income,">50K(15), <=50K(3)",18
+1033,10332,race,"White(16), Black(2)",18
+1034,10341,income,">50K(22), <=50K(11)",33
+1034,10342,race,"White(30), Black(3)",33
+1035,10351,income,">50K(13), <=50K(4)",17
+1035,10352,race,White(17),17
+1036,10361,income,">50K(11), <=50K(3)",14
+1036,10362,race,"White(13), Amer-Indian-Eskimo(1)",14
+1037,10371,income,">50K(8), <=50K(4)",12
+1037,10372,race,"White(11), Black(1)",12
+1038,10381,income,"<=50K(9), >50K(1)",10
+1038,10382,race,"White(8), Black(2)",10
+1039,10391,income,<=50K(11),11
+1039,10392,race,"White(9), Black(2)",11
+1040,10401,income,">50K(14), <=50K(4)",18
+1040,10402,race,"White(17), Black(1)",18
+1041,10411,income,"<=50K(14), >50K(6)",20
+1041,10412,race,"White(19), Black(1)",20
+1042,10421,income,">50K(15), <=50K(15)",30
+1042,10422,race,"White(26), Amer-Indian-Eskimo(1), Black(1), Other(1), Asian-Pac-Islander(1)",30
+1043,10431,income,">50K(9), <=50K(2)",11
+1043,10432,race,"White(10), Black(1)",11
+1044,10441,income,">50K(12), <=50K(5)",17
+1044,10442,race,"White(16), Black(1)",17
+1045,10451,income,">50K(10), <=50K(8)",18
+1045,10452,race,White(18),18
+1046,10461,income,">50K(12), <=50K(4)",16
+1046,10462,race,"White(15), Black(1)",16
+1047,10471,income,">50K(12), <=50K(3)",15
+1047,10472,race,White(15),15
+1048,10481,income,">50K(7), <=50K(5)",12
+1048,10482,race,White(12),12
+1049,10491,income,">50K(16), <=50K(4)",20
+1049,10492,race,White(20),20
+1050,10501,income,">50K(12), <=50K(2)",14
+1050,10502,race,"White(13), Black(1)",14
+1051,10511,income,">50K(9), <=50K(1)",10
+1051,10512,race,White(10),10
+1052,10521,income,">50K(16), <=50K(3)",19
+1052,10522,race,White(19),19
+1053,10531,income,">50K(9), <=50K(8)",17
+1053,10532,race,"White(14), Black(2), Asian-Pac-Islander(1)",17
+1054,10541,income,">50K(15), <=50K(3)",18
+1054,10542,race,"White(17), Black(1)",18
+1055,10551,income,">50K(16), <=50K(6)",22
+1055,10552,race,White(22),22
+1056,10561,income,">50K(16), <=50K(8)",24
+1056,10562,race,White(24),24
+1057,10571,income,">50K(8), <=50K(7)",15
+1057,10572,race,"White(13), Black(2)",15
+1058,10581,income,>50K(13),13
+1058,10582,race,"White(12), Asian-Pac-Islander(1)",13
+1059,10591,income,">50K(9), <=50K(2)",11
+1059,10592,race,"White(10), Black(1)",11
+1060,10601,income,">50K(17), <=50K(7)",24
+1060,10602,race,White(24),24
+1061,10611,income,">50K(16), <=50K(5)",21
+1061,10612,race,White(21),21
+1062,10621,income,">50K(6), <=50K(4)",10
+1062,10622,race,"White(9), Asian-Pac-Islander(1)",10
+1063,10631,income,">50K(8), <=50K(2)",10
+1063,10632,race,White(10),10
+1064,10641,income,">50K(9), <=50K(6)",15
+1064,10642,race,White(15),15
+1065,10651,income,">50K(9), <=50K(9)",18
+1065,10652,race,"White(16), Black(1), Asian-Pac-Islander(1)",18
+1066,10661,income,">50K(10), <=50K(5)",15
+1066,10662,race,White(15),15
+1067,10671,income,"<=50K(8), >50K(3)",11
+1067,10672,race,White(11),11
+1068,10681,income,">50K(8), <=50K(3)",11
+1068,10682,race,White(11),11
+1069,10691,income,">50K(8), <=50K(5)",13
+1069,10692,race,White(13),13
+1070,10701,income,"<=50K(11), >50K(6)",17
+1070,10702,race,"White(15), Black(1), Asian-Pac-Islander(1)",17
+1071,10711,income,">50K(8), <=50K(8)",16
+1071,10712,race,"White(15), Black(1)",16
+1072,10721,income,">50K(12), <=50K(6)",18
+1072,10722,race,"Asian-Pac-Islander(9), White(7), Other(2)",18
+1073,10731,income,">50K(12), <=50K(4)",16
+1073,10732,race,"Asian-Pac-Islander(13), White(3)",16
+1074,10741,income,">50K(9), <=50K(7)",16
+1074,10742,race,"Asian-Pac-Islander(9), White(7)",16
+1075,10751,income,"<=50K(8), >50K(7)",15
+1075,10752,race,"Asian-Pac-Islander(9), White(5), Other(1)",15
+1076,10761,income,">50K(9), <=50K(7)",16
+1076,10762,race,White(16),16
+1077,10771,income,">50K(8), <=50K(8)",16
+1077,10772,race,"White(11), Black(3), Asian-Pac-Islander(2)",16
+1078,10781,income,"<=50K(9), >50K(8)",17
+1078,10782,race,White(17),17
+1079,10791,income,">50K(8), <=50K(7)",15
+1079,10792,race,"White(10), Asian-Pac-Islander(4), Black(1)",15
+1080,10801,income,<=50K(12),12
+1080,10802,race,"White(8), Black(4)",12
+1081,10811,income,"<=50K(11), >50K(1)",12
+1081,10812,race,"White(10), Black(1), Asian-Pac-Islander(1)",12
+1082,10821,income,"<=50K(12), >50K(1)",13
+1082,10822,race,"White(12), Black(1)",13
+1083,10831,income,<=50K(12),12
+1083,10832,race,"White(8), Black(3), Other(1)",12
+1084,10841,income,<=50K(11),11
+1084,10842,race,"White(9), Black(2)",11
+1085,10851,income,"<=50K(16), >50K(2)",18
+1085,10852,race,"White(12), Black(5), Asian-Pac-Islander(1)",18
+1086,10861,income,"<=50K(11), >50K(1)",12
+1086,10862,race,"White(10), Asian-Pac-Islander(1), Black(1)",12
+1087,10871,income,"<=50K(13), >50K(10)",23
+1087,10872,race,White(23),23
+1088,10881,income,">50K(10), <=50K(7)",17
+1088,10882,race,"White(15), Black(1), Asian-Pac-Islander(1)",17
+1089,10891,income,"<=50K(12), >50K(5)",17
+1089,10892,race,"White(15), Amer-Indian-Eskimo(1), Other(1)",17
+1090,10901,income,">50K(13), <=50K(5)",18
+1090,10902,race,White(18),18
+1091,10911,income,"<=50K(10), >50K(8)",18
+1091,10912,race,White(18),18
+1092,10921,income,">50K(11), <=50K(7)",18
+1092,10922,race,"White(16), Other(1), Black(1)",18
+1093,10931,income,"<=50K(7), >50K(7)",14
+1093,10932,race,"White(13), Black(1)",14
+1094,10941,income,">50K(18), <=50K(14)",32
+1094,10942,race,"White(29), Black(3)",32
+1095,10951,income,">50K(11), <=50K(3)",14
+1095,10952,race,"White(13), Asian-Pac-Islander(1)",14
+1096,10961,income,"<=50K(11), >50K(9)",20
+1096,10962,race,White(20),20
+1097,10971,income,"<=50K(8), >50K(3)",11
+1097,10972,race,White(11),11
+1098,10981,income,">50K(9), <=50K(2)",11
+1098,10982,race,White(11),11
+1099,10991,income,"<=50K(16), >50K(1)",17
+1099,10992,race,"White(16), Black(1)",17
+1100,11001,income,"<=50K(12), >50K(5)",17
+1100,11002,race,"White(13), Black(4)",17
+1101,11011,income,"<=50K(17), >50K(1)",18
+1101,11012,race,"White(17), Asian-Pac-Islander(1)",18
+1102,11021,income,">50K(8), <=50K(7)",15
+1102,11022,race,White(15),15
+1103,11031,income,">50K(12), <=50K(9)",21
+1103,11032,race,"White(19), Black(2)",21
+1104,11041,income,">50K(6), <=50K(4)",10
+1104,11042,race,White(10),10
+1105,11051,income,"<=50K(8), >50K(2)",10
+1105,11052,race,"White(9), Black(1)",10
+1106,11061,income,">50K(9), <=50K(4)",13
+1106,11062,race,White(13),13
+1107,11071,income,">50K(7), <=50K(6)",13
+1107,11072,race,"White(12), Black(1)",13
+1108,11081,income,">50K(12), <=50K(5)",17
+1108,11082,race,White(17),17
+1109,11091,income,">50K(6), <=50K(5)",11
+1109,11092,race,White(11),11
+1110,11101,income,"<=50K(13), >50K(1)",14
+1110,11102,race,"White(13), Black(1)",14
+1111,11111,income,"<=50K(8), >50K(6)",14
+1111,11112,race,White(14),14
+1112,11121,income,">50K(8), <=50K(5)",13
+1112,11122,race,"White(11), Black(2)",13
+1113,11131,income,">50K(8), <=50K(6)",14
+1113,11132,race,"White(13), Black(1)",14
+1114,11141,income,">50K(6), <=50K(6)",12
+1114,11142,race,White(12),12
+1115,11151,income,"<=50K(13), >50K(2)",15
+1115,11152,race,White(15),15
+1116,11161,income,"<=50K(9), >50K(4)",13
+1116,11162,race,White(13),13
+1117,11171,income,"<=50K(12), >50K(2)",14
+1117,11172,race,"White(13), Black(1)",14
+1118,11181,income,">50K(8), <=50K(6)",14
+1118,11182,race,White(14),14
+1119,11191,income,"<=50K(11), >50K(6)",17
+1119,11192,race,White(17),17
+1120,11201,income,"<=50K(14), >50K(3)",17
+1120,11202,race,White(17),17
+1121,11211,income,"<=50K(14), >50K(6)",20
+1121,11212,race,"White(19), Black(1)",20
+1122,11221,income,"<=50K(10), >50K(4)",14
+1122,11222,race,"White(13), Asian-Pac-Islander(1)",14
+1123,11231,income,"<=50K(11), >50K(5)",16
+1123,11232,race,"White(15), Black(1)",16
+1124,11241,income,">50K(10), <=50K(6)",16
+1124,11242,race,"White(15), Black(1)",16
+1125,11251,income,"<=50K(9), >50K(3)",12
+1125,11252,race,White(12),12
+1126,11261,income,">50K(7), <=50K(5)",12
+1126,11262,race,White(12),12
+1127,11271,income,">50K(10), <=50K(7)",17
+1127,11272,race,White(17),17
+1128,11281,income,"<=50K(10), >50K(7)",17
+1128,11282,race,"White(15), Black(1), Asian-Pac-Islander(1)",17
+1129,11291,income,">50K(8), <=50K(2)",10
+1129,11292,race,White(10),10
+1130,11301,income,"<=50K(10), >50K(3)",13
+1130,11302,race,"White(12), Black(1)",13
+1131,11311,income,"<=50K(10), >50K(4)",14
+1131,11312,race,"White(13), Black(1)",14
+1132,11321,income,"<=50K(6), >50K(5)",11
+1132,11322,race,"White(10), Black(1)",11
+1133,11331,income,">50K(8), <=50K(8)",16
+1133,11332,race,"White(15), Black(1)",16
+1134,11341,income,">50K(14), <=50K(8)",22
+1134,11342,race,"White(18), Black(2), Asian-Pac-Islander(2)",22
+1135,11351,income,"<=50K(10), >50K(8)",18
+1135,11352,race,"White(15), Asian-Pac-Islander(2), Black(1)",18
+1136,11361,income,"<=50K(11), >50K(4)",15
+1136,11362,race,"White(13), Black(2)",15
+1137,11371,income,">50K(10), <=50K(6)",16
+1137,11372,race,"White(15), Black(1)",16
+1138,11381,income,"<=50K(9), >50K(4)",13
+1138,11382,race,"White(12), Black(1)",13
+1139,11391,income,">50K(13), <=50K(5)",18
+1139,11392,race,"White(17), Black(1)",18
+1140,11401,income,"<=50K(13), >50K(5)",18
+1140,11402,race,"White(17), Black(1)",18
+1141,11411,income,"<=50K(8), >50K(5)",13
+1141,11412,race,"Asian-Pac-Islander(10), White(3)",13
+1142,11421,income,"<=50K(11), >50K(3)",14
+1142,11422,race,"Asian-Pac-Islander(10), White(4)",14
+1143,11431,income,">50K(7), <=50K(3)",10
+1143,11432,race,"White(5), Asian-Pac-Islander(4), Amer-Indian-Eskimo(1)",10
+1144,11441,income,"<=50K(7), >50K(4)",11
+1144,11442,race,"Asian-Pac-Islander(7), White(4)",11
+1145,11451,income,"<=50K(10), >50K(1)",11
+1145,11452,race,"White(9), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",11
+1146,11461,income,"<=50K(7), >50K(5)",12
+1146,11462,race,White(12),12
+1147,11471,income,">50K(10), <=50K(5)",15
+1147,11472,race,"White(12), Black(2), Asian-Pac-Islander(1)",15
+1148,11481,income,"<=50K(11), >50K(8)",19
+1148,11482,race,"White(16), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",19
+1149,11491,income,<=50K(14),14
+1149,11492,race,"White(10), Asian-Pac-Islander(2), Black(2)",14
+1150,11501,income,"<=50K(17), >50K(2)",19
+1150,11502,race,"White(16), Black(2), Asian-Pac-Islander(1)",19
+1151,11511,income,<=50K(13),13
+1151,11512,race,"White(8), Black(5)",13
+1152,11521,income,"<=50K(14), >50K(2)",16
+1152,11522,race,"White(8), Black(7), Asian-Pac-Islander(1)",16
+1153,11531,income,"<=50K(8), >50K(5)",13
+1153,11532,race,"White(11), Black(2)",13
+1154,11541,income,"<=50K(9), >50K(3)",12
+1154,11542,race,"White(9), Black(3)",12
+1155,11551,income,"<=50K(10), >50K(3)",13
+1155,11552,race,"White(11), Amer-Indian-Eskimo(2)",13
+1156,11561,income,">50K(9), <=50K(7)",16
+1156,11562,race,"White(10), Black(5), Amer-Indian-Eskimo(1)",16
+1157,11571,income,"<=50K(15), >50K(2)",17
+1157,11572,race,White(17),17
+1158,11581,income,"<=50K(11), >50K(5)",16
+1158,11582,race,White(16),16
+1159,11591,income,"<=50K(10), >50K(2)",12
+1159,11592,race,"White(11), Black(1)",12
+1160,11601,income,"<=50K(10), >50K(3)",13
+1160,11602,race,White(13),13
+1161,11611,income,"<=50K(14), >50K(5)",19
+1161,11612,race,"White(17), Amer-Indian-Eskimo(1), Black(1)",19
+1162,11621,income,"<=50K(14), >50K(3)",17
+1162,11622,race,"White(11), Black(5), Asian-Pac-Islander(1)",17
+1163,11631,income,<=50K(17),17
+1163,11632,race,"White(10), Black(5), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",17
+1164,11641,income,<=50K(18),18
+1164,11642,race,"White(14), Black(4)",18
+1165,11651,income,<=50K(15),15
+1165,11652,race,"White(8), Black(7)",15
+1166,11661,income,"<=50K(12), >50K(4)",16
+1166,11662,race,"White(15), Black(1)",16
+1167,11671,income,"<=50K(12), >50K(2)",14
+1167,11672,race,"White(11), Black(3)",14
+1168,11681,income,">50K(10), <=50K(4)",14
+1168,11682,race,"White(13), Black(1)",14
+1169,11691,income,"<=50K(8), >50K(4)",12
+1169,11692,race,"White(9), Amer-Indian-Eskimo(1), Black(1), Asian-Pac-Islander(1)",12
+1170,11701,income,">50K(10), <=50K(6)",16
+1170,11702,race,"White(15), Other(1)",16
+1171,11711,income,">50K(6), <=50K(5)",11
+1171,11712,race,"White(6), Black(5)",11
+1172,11721,income,"<=50K(7), >50K(4)",11
+1172,11722,race,"White(7), Black(3), Asian-Pac-Islander(1)",11
+1173,11731,income,"<=50K(8), >50K(2)",10
+1173,11732,race,"White(8), Black(2)",10
+1174,11741,income,">50K(10), <=50K(7)",17
+1174,11742,race,White(17),17
+1175,11751,income,"<=50K(10), >50K(6)",16
+1175,11752,race,"White(14), Black(2)",16
+1176,11761,income,<=50K(14),14
+1176,11762,race,"White(11), Black(3)",14
+1177,11771,income,"<=50K(9), >50K(6)",15
+1177,11772,race,"White(13), Black(1), Amer-Indian-Eskimo(1)",15
+1178,11781,income,"<=50K(11), >50K(5)",16
+1178,11782,race,"White(15), Black(1)",16
+1179,11791,income,"<=50K(8), >50K(5)",13
+1179,11792,race,"White(11), Black(2)",13
+1180,11801,income,"<=50K(14), >50K(3)",17
+1180,11802,race,"White(13), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",17
+1181,11811,income,"<=50K(8), >50K(3)",11
+1181,11812,race,White(11),11
+1182,11821,income,"<=50K(11), >50K(6)",17
+1182,11822,race,"White(16), Black(1)",17
+1183,11831,income,"<=50K(14), >50K(2)",16
+1183,11832,race,"White(11), Black(5)",16
+1184,11841,income,"<=50K(14), >50K(5)",19
+1184,11842,race,"White(18), Black(1)",19
+1185,11851,income,<=50K(14),14
+1185,11852,race,"White(12), Asian-Pac-Islander(1), Black(1)",14
+1186,11861,income,<=50K(10),10
+1186,11862,race,"White(8), Black(2)",10
+1187,11871,income,"<=50K(6), >50K(4)",10
+1187,11872,race,"White(8), Black(2)",10
+1188,11881,income,"<=50K(11), >50K(5)",16
+1188,11882,race,"White(15), Black(1)",16
+1189,11891,income,"<=50K(10), >50K(3)",13
+1189,11892,race,"White(9), Black(2), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",13
+1190,11901,income,">50K(10), <=50K(4)",14
+1190,11902,race,White(14),14
+1191,11911,income,<=50K(16),16
+1191,11912,race,"White(11), Black(5)",16
+1192,11921,income,"<=50K(8), >50K(3)",11
+1192,11922,race,White(11),11
+1193,11931,income,"<=50K(9), >50K(6)",15
+1193,11932,race,"White(12), Amer-Indian-Eskimo(2), Black(1)",15
+1194,11941,income,">50K(8), <=50K(8)",16
+1194,11942,race,"White(14), Black(2)",16
+1195,11951,income,">50K(6), <=50K(5)",11
+1195,11952,race,White(11),11
+1196,11961,income,"<=50K(8), >50K(2)",10
+1196,11962,race,"White(9), Black(1)",10
+1197,11971,income,">50K(10), <=50K(9)",19
+1197,11972,race,White(19),19
+1198,11981,income,">50K(10), <=50K(5)",15
+1198,11982,race,White(15),15
+1199,11991,income,"<=50K(9), >50K(6)",15
+1199,11992,race,"White(11), Amer-Indian-Eskimo(2), Black(1), Other(1)",15
+1200,12001,income,<=50K(19),19
+1200,12002,race,"White(12), Black(5), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",19
+1201,12011,income,"<=50K(14), >50K(3)",17
+1201,12012,race,"White(14), Black(3)",17
+1202,12021,income,"<=50K(12), >50K(2)",14
+1202,12022,race,"White(12), Black(2)",14
+1203,12031,income,"<=50K(12), >50K(3)",15
+1203,12032,race,"White(12), Black(3)",15
+1204,12041,income,"<=50K(9), >50K(2)",11
+1204,12042,race,"White(10), Black(1)",11
+1205,12051,income,"<=50K(10), >50K(2)",12
+1205,12052,race,"White(8), Black(3), Amer-Indian-Eskimo(1)",12
+1206,12061,income,">50K(10), <=50K(9)",19
+1206,12062,race,"White(18), Black(1)",19
+1207,12071,income,">50K(8), <=50K(5)",13
+1207,12072,race,White(13),13
+1208,12081,income,"<=50K(7), >50K(3)",10
+1208,12082,race,"White(9), Black(1)",10
+1209,12091,income,">50K(7), <=50K(4)",11
+1209,12092,race,"White(9), Black(2)",11
+1210,12101,income,<=50K(12),12
+1210,12102,race,"White(9), Black(3)",12
+1211,12111,income,<=50K(10),10
+1211,12112,race,"White(6), Black(4)",10
+1212,12121,income,"<=50K(10), >50K(2)",12
+1212,12122,race,"White(8), Amer-Indian-Eskimo(2), Black(2)",12
+1213,12131,income,"<=50K(13), >50K(6)",19
+1213,12132,race,"White(16), Black(2), Amer-Indian-Eskimo(1)",19
+1214,12141,income,">50K(6), <=50K(6)",12
+1214,12142,race,"White(11), Amer-Indian-Eskimo(1)",12
+1215,12151,income,"<=50K(7), >50K(5)",12
+1215,12152,race,White(12),12
+1216,12161,income,"<=50K(20), >50K(2)",22
+1216,12162,race,"White(16), Black(6)",22
+1217,12171,income,"<=50K(14), >50K(2)",16
+1217,12172,race,"White(13), Black(3)",16
+1218,12181,income,"<=50K(11), >50K(5)",16
+1218,12182,race,White(16),16
+1219,12191,income,"<=50K(7), >50K(3)",10
+1219,12192,race,"White(7), Black(3)",10
+1220,12201,income,"<=50K(8), >50K(2)",10
+1220,12202,race,White(10),10
+1221,12211,income,"<=50K(7), >50K(3)",10
+1221,12212,race,"White(9), Black(1)",10
+1222,12221,income,"<=50K(9), >50K(1)",10
+1222,12222,race,White(10),10
+1223,12231,income,"<=50K(12), >50K(5)",17
+1223,12232,race,"White(14), Black(2), Asian-Pac-Islander(1)",17
+1224,12241,income,"<=50K(14), >50K(2)",16
+1224,12242,race,"White(15), Amer-Indian-Eskimo(1)",16
+1225,12251,income,"<=50K(7), >50K(7)",14
+1225,12252,race,"White(12), Black(1), Amer-Indian-Eskimo(1)",14
+1226,12261,income,"<=50K(12), >50K(3)",15
+1226,12262,race,"White(12), Black(3)",15
+1227,12271,income,">50K(9), <=50K(7)",16
+1227,12272,race,White(16),16
+1228,12281,income,<=50K(13),13
+1228,12282,race,"White(11), Black(2)",13
+1229,12291,income,"<=50K(12), >50K(3)",15
+1229,12292,race,"White(10), Asian-Pac-Islander(5)",15
+1230,12301,income,<=50K(15),15
+1230,12302,race,"White(13), Asian-Pac-Islander(2)",15
+1231,12311,income,"<=50K(13), >50K(3)",16
+1231,12312,race,"White(13), Asian-Pac-Islander(2), Black(1)",16
+1232,12321,income,"<=50K(9), >50K(6)",15
+1232,12322,race,"White(11), Asian-Pac-Islander(3), Black(1)",15
+1233,12331,income,"<=50K(12), >50K(2)",14
+1233,12332,race,"White(13), Amer-Indian-Eskimo(1)",14
+1234,12341,income,"<=50K(8), >50K(3)",11
+1234,12342,race,"White(9), Black(1), Amer-Indian-Eskimo(1)",11
+1235,12351,income,"<=50K(11), >50K(2)",13
+1235,12352,race,White(13),13
+1236,12361,income,"<=50K(25), >50K(1)",26
+1236,12362,race,"White(25), Amer-Indian-Eskimo(1)",26
+1237,12371,income,"<=50K(10), >50K(3)",13
+1237,12372,race,"White(12), Black(1)",13
+1238,12381,income,"<=50K(11), >50K(7)",18
+1238,12382,race,"White(17), Black(1)",18
+1239,12391,income,"<=50K(10), >50K(5)",15
+1239,12392,race,"White(14), Black(1)",15
+1240,12401,income,"<=50K(16), >50K(6)",22
+1240,12402,race,"White(19), Black(3)",22
+1241,12411,income,"<=50K(12), >50K(2)",14
+1241,12412,race,White(14),14
+1242,12421,income,"<=50K(12), >50K(3)",15
+1242,12422,race,White(15),15
+1243,12431,income,"<=50K(11), >50K(3)",14
+1243,12432,race,White(14),14
+1244,12441,income,"<=50K(11), >50K(3)",14
+1244,12442,race,White(14),14
+1245,12451,income,"<=50K(12), >50K(3)",15
+1245,12452,race,"White(12), Black(3)",15
+1246,12461,income,"<=50K(9), >50K(3)",12
+1246,12462,race,White(12),12
+1247,12471,income,"<=50K(15), >50K(2)",17
+1247,12472,race,"White(16), Asian-Pac-Islander(1)",17
+1248,12481,income,"<=50K(13), >50K(2)",15
+1248,12482,race,White(15),15
+1249,12491,income,">50K(7), <=50K(7)",14
+1249,12492,race,"White(13), Amer-Indian-Eskimo(1)",14
+1250,12501,income,"<=50K(14), >50K(1)",15
+1250,12502,race,White(15),15
+1251,12511,income,"<=50K(11), >50K(1)",12
+1251,12512,race,White(12),12
+1252,12521,income,"<=50K(11), >50K(2)",13
+1252,12522,race,White(13),13
+1253,12531,income,">50K(9), <=50K(9)",18
+1253,12532,race,"White(13), Black(3), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",18
+1254,12541,income,"<=50K(16), >50K(3)",19
+1254,12542,race,"White(13), Black(4), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1)",19
+1255,12551,income,"<=50K(15), >50K(4)",19
+1255,12552,race,White(19),19
+1256,12561,income,"<=50K(18), >50K(14)",32
+1256,12562,race,"White(31), Black(1)",32
+1257,12571,income,"<=50K(9), >50K(4)",13
+1257,12572,race,"White(12), Black(1)",13
+1258,12581,income,"<=50K(9), >50K(4)",13
+1258,12582,race,"White(12), Asian-Pac-Islander(1)",13
+1259,12591,income,"<=50K(16), >50K(2)",18
+1259,12592,race,"White(17), Asian-Pac-Islander(1)",18
+1260,12601,income,"<=50K(11), >50K(8)",19
+1260,12602,race,"White(18), Black(1)",19
+1261,12611,income,"<=50K(12), >50K(1)",13
+1261,12612,race,White(13),13
+1262,12621,income,"<=50K(12), >50K(1)",13
+1262,12622,race,White(13),13
+1263,12631,income,"<=50K(11), >50K(1)",12
+1263,12632,race,"White(11), Black(1)",12
+1264,12641,income,"<=50K(14), >50K(5)",19
+1264,12642,race,"White(16), Amer-Indian-Eskimo(2), Black(1)",19
+1265,12651,income,"<=50K(7), >50K(4)",11
+1265,12652,race,White(11),11
+1266,12661,income,"<=50K(14), >50K(2)",16
+1266,12662,race,"White(15), Amer-Indian-Eskimo(1)",16
+1267,12671,income,"<=50K(11), >50K(1)",12
+1267,12672,race,White(12),12
+1268,12681,income,"<=50K(10), >50K(1)",11
+1268,12682,race,"White(10), Black(1)",11
+1269,12691,income,"<=50K(8), >50K(3)",11
+1269,12692,race,White(11),11
+1270,12701,income,"<=50K(8), >50K(3)",11
+1270,12702,race,White(11),11
+1271,12711,income,">50K(6), <=50K(5)",11
+1271,12712,race,"White(10), Asian-Pac-Islander(1)",11
+1272,12721,income,"<=50K(9), >50K(2)",11
+1272,12722,race,"White(10), Black(1)",11
+1273,12731,income,"<=50K(8), >50K(3)",11
+1273,12732,race,"White(9), Black(2)",11
+1274,12741,income,"<=50K(16), >50K(3)",19
+1274,12742,race,White(19),19
+1275,12751,income,"<=50K(14), >50K(4)",18
+1275,12752,race,White(18),18
+1276,12761,income,">50K(9), <=50K(5)",14
+1276,12762,race,White(14),14
+1277,12771,income,"<=50K(9), >50K(3)",12
+1277,12772,race,"White(10), Amer-Indian-Eskimo(1), Black(1)",12
+1278,12781,income,"<=50K(7), >50K(4)",11
+1278,12782,race,"White(9), Black(2)",11
+1279,12791,income,"<=50K(6), >50K(4)",10
+1279,12792,race,"White(7), Amer-Indian-Eskimo(1), Asian-Pac-Islander(1), Black(1)",10
+1280,12801,income,"<=50K(9), >50K(1)",10
+1280,12802,race,White(10),10
+1281,12811,income,"<=50K(9), >50K(7)",16
+1281,12812,race,"White(15), Black(1)",16
+1282,12821,income,<=50K(13),13
+1282,12822,race,"White(12), Black(1)",13
+1283,12831,income,">50K(7), <=50K(3)",10
+1283,12832,race,"White(9), Black(1)",10
+1284,12841,income,"<=50K(9), >50K(7)",16
+1284,12842,race,"White(14), Black(1), Asian-Pac-Islander(1)",16
+1285,12851,income,">50K(11), <=50K(6)",17
+1285,12852,race,"White(15), Other(1), Black(1)",17
+1286,12861,income,">50K(9), <=50K(7)",16
+1286,12862,race,"White(14), Black(2)",16
+1287,12871,income,">50K(6), <=50K(4)",10
+1287,12872,race,"White(8), Black(1), Asian-Pac-Islander(1)",10
+1288,12881,income,">50K(8), <=50K(3)",11
+1288,12882,race,White(11),11
+1289,12891,income,"<=50K(9), >50K(2)",11
+1289,12892,race,White(11),11
+1290,12901,income,"<=50K(9), >50K(4)",13
+1290,12902,race,"White(11), Black(2)",13
+1291,12911,income,"<=50K(9), >50K(1)",10
+1291,12912,race,"White(9), Black(1)",10
+1292,12921,income,"<=50K(10), >50K(5)",15
+1292,12922,race,"White(13), Black(2)",15
+1293,12931,income,"<=50K(9), >50K(5)",14
+1293,12932,race,"White(13), Asian-Pac-Islander(1)",14
+1294,12941,income,<=50K(18),18
+1294,12942,race,"White(14), Black(4)",18
+1295,12951,income,"<=50K(6), >50K(6)",12
+1295,12952,race,White(12),12
+1296,12961,income,">50K(6), <=50K(6)",12
+1296,12962,race,White(12),12
+1297,12971,income,"<=50K(10), >50K(9)",19
+1297,12972,race,"White(18), Black(1)",19
+1298,12981,income,"<=50K(9), >50K(5)",14
+1298,12982,race,"White(12), Asian-Pac-Islander(2)",14
+1299,12991,income,"<=50K(12), >50K(3)",15
+1299,12992,race,"White(13), Asian-Pac-Islander(2)",15
+1300,13001,income,"<=50K(11), >50K(3)",14
+1300,13002,race,"White(9), Black(3), Asian-Pac-Islander(2)",14
+1301,13011,income,"<=50K(8), >50K(7)",15
+1301,13012,race,White(15),15
+1302,13021,income,"<=50K(12), >50K(1)",13
+1302,13022,race,"Black(7), White(5), Amer-Indian-Eskimo(1)",13
+1303,13031,income,<=50K(14),14
+1303,13032,race,"White(11), Black(2), Asian-Pac-Islander(1)",14
+1304,13041,income,"<=50K(9), >50K(1)",10
+1304,13042,race,White(10),10
+1305,13051,income,">50K(6), <=50K(4)",10
+1305,13052,race,"White(9), Black(1)",10
+1306,13061,income,"<=50K(8), >50K(7)",15
+1306,13062,race,"White(10), Black(2), Asian-Pac-Islander(2), Amer-Indian-Eskimo(1)",15
+1307,13071,income,">50K(13), <=50K(2)",15
+1307,13072,race,"White(14), Black(1)",15
+1308,13081,income,"<=50K(7), >50K(5)",12
+1308,13082,race,"White(11), Asian-Pac-Islander(1)",12
+1309,13091,income,"<=50K(7), >50K(4)",11
+1309,13092,race,"White(9), Black(2)",11
+1310,13101,income,"<=50K(7), >50K(3)",10
+1310,13102,race,"White(9), Amer-Indian-Eskimo(1)",10
+1311,13111,income,">50K(15), <=50K(5)",20
+1311,13112,race,"White(18), Asian-Pac-Islander(1), Black(1)",20
+1312,13121,income,"<=50K(8), >50K(4)",12
+1312,13122,race,"White(11), Other(1)",12
+1313,13131,income,">50K(7), <=50K(6)",13
+1313,13132,race,White(13),13
+1314,13141,income,">50K(11), <=50K(6)",17
+1314,13142,race,"White(15), Black(2)",17
+1315,13151,income,">50K(11), <=50K(6)",17
+1315,13152,race,"White(15), Black(2)",17
+1316,13161,income,">50K(13), <=50K(2)",15
+1316,13162,race,"White(14), Black(1)",15
+1317,13171,income,">50K(10), <=50K(1)",11
+1317,13172,race,White(11),11
+1318,13181,income,">50K(9), <=50K(2)",11
+1318,13182,race,"White(10), Black(1)",11
+1319,13191,income,"<=50K(10), >50K(5)",15
+1319,13192,race,"White(12), Asian-Pac-Islander(2), Black(1)",15
+1320,13201,income,"<=50K(9), >50K(6)",15
+1320,13202,race,White(15),15
+1321,13211,income,"<=50K(9), >50K(2)",11
+1321,13212,race,"White(10), Black(1)",11
+1322,13221,income,"<=50K(9), >50K(2)",11
+1322,13222,race,White(11),11
+1323,13231,income,"<=50K(10), >50K(3)",13
+1323,13232,race,"White(11), Black(1), Asian-Pac-Islander(1)",13
+1324,13241,income,">50K(9), <=50K(3)",12
+1324,13242,race,"White(11), Black(1)",12
+1325,13251,income,>50K(12),12
+1325,13252,race,"White(11), Amer-Indian-Eskimo(1)",12
+1326,13261,income,>50K(11),11
+1326,13262,race,White(11),11
+1327,13271,income,">50K(16), <=50K(1)",17
+1327,13272,race,White(17),17
+1328,13281,income,">50K(10), <=50K(2)",12
+1328,13282,race,White(12),12
+1329,13291,income,">50K(7), <=50K(3)",10
+1329,13292,race,"White(9), Black(1)",10
+1330,13301,income,">50K(17), <=50K(3)",20
+1330,13302,race,White(20),20
+1331,13311,income,"<=50K(6), >50K(5)",11
+1331,13312,race,White(11),11
+1332,13321,income,">50K(11), <=50K(1)",12
+1332,13322,race,"White(11), Asian-Pac-Islander(1)",12
+1333,13331,income,">50K(11), <=50K(1)",12
+1333,13332,race,"White(11), Black(1)",12
+1334,13341,income,">50K(21), <=50K(3)",24
+1334,13342,race,"White(23), Asian-Pac-Islander(1)",24
+1335,13351,income,">50K(6), <=50K(5)",11
+1335,13352,race,"White(10), Amer-Indian-Eskimo(1)",11
+1336,13361,income,"<=50K(7), >50K(3)",10
+1336,13362,race,"White(9), Asian-Pac-Islander(1)",10
+1337,13371,income,">50K(7), <=50K(5)",12
+1337,13372,race,"White(8), Black(3), Amer-Indian-Eskimo(1)",12
+1338,13381,income,">50K(7), <=50K(3)",10
+1338,13382,race,"White(9), Black(1)",10
+1339,13391,income,">50K(8), <=50K(5)",13
+1339,13392,race,"White(10), Black(2), Asian-Pac-Islander(1)",13
+1340,13401,income,>50K(10),10
+1340,13402,race,"White(9), Asian-Pac-Islander(1)",10
+1341,13411,income,">50K(15), <=50K(1)",16
+1341,13412,race,White(16),16
+1342,13421,income,"<=50K(7), >50K(5)",12
+1342,13422,race,White(12),12
+1343,13431,income,">50K(9), <=50K(4)",13
+1343,13432,race,White(13),13
+1344,13441,income,">50K(7), <=50K(5)",12
+1344,13442,race,White(12),12
+1345,13451,income,">50K(9), <=50K(2)",11
+1345,13452,race,White(11),11
+1346,13461,income,">50K(6), <=50K(4)",10
+1346,13462,race,White(10),10
+1347,13471,income,">50K(9), <=50K(6)",15
+1347,13472,race,White(15),15
+1348,13481,income,">50K(7), <=50K(3)",10
+1348,13482,race,"White(9), Black(1)",10
+1349,13491,income,">50K(19), <=50K(1)",20
+1349,13492,race,"White(18), Other(1), Black(1)",20
+1350,13501,income,"<=50K(12), >50K(8)",20
+1350,13502,race,"White(19), Black(1)",20
+1351,13511,income,">50K(9), <=50K(2)",11
+1351,13512,race,"White(8), Black(3)",11
+1352,13521,income,">50K(13), <=50K(2)",15
+1352,13522,race,White(15),15
+1353,13531,income,">50K(12), <=50K(7)",19
+1353,13532,race,White(19),19
+1354,13541,income,"<=50K(6), >50K(4)",10
+1354,13542,race,White(10),10
+1355,13551,income,">50K(11), <=50K(5)",16
+1355,13552,race,White(16),16
+1356,13561,income,">50K(8), <=50K(4)",12
+1356,13562,race,White(12),12
+1357,13571,income,"<=50K(7), >50K(6)",13
+1357,13572,race,White(13),13
+1358,13581,income,">50K(7), <=50K(4)",11
+1358,13582,race,"White(10), Black(1)",11
+1359,13591,income,">50K(10), <=50K(4)",14
+1359,13592,race,White(14),14
+1360,13601,income,">50K(13), <=50K(1)",14
+1360,13602,race,White(14),14
+1361,13611,income,">50K(9), <=50K(4)",13
+1361,13612,race,White(13),13
+1362,13621,income,">50K(10), <=50K(4)",14
+1362,13622,race,White(14),14
+1363,13631,income,"<=50K(11), >50K(10)",21
+1363,13632,race,"White(17), Black(4)",21
+1364,13641,income,">50K(7), <=50K(7)",14
+1364,13642,race,"White(13), Amer-Indian-Eskimo(1)",14
+1365,13651,income,"<=50K(9), >50K(4)",13
+1365,13652,race,"White(9), Black(3), Amer-Indian-Eskimo(1)",13
+1366,13661,income,"<=50K(6), >50K(6)",12
+1366,13662,race,"White(11), Black(1)",12
+1367,13671,income,"<=50K(15), >50K(8)",23
+1367,13672,race,"White(21), Black(2)",23
+1368,13681,income,">50K(13), <=50K(11)",24
+1368,13682,race,"White(21), Black(3)",24
+1369,13691,income,"<=50K(18), >50K(4)",22
+1369,13692,race,"White(19), Black(3)",22
+1370,13701,income,"<=50K(16), >50K(2)",18
+1370,13702,race,"White(16), Black(2)",18
+1371,13711,income,">50K(12), <=50K(1)",13
+1371,13712,race,"White(12), Amer-Indian-Eskimo(1)",13
+1372,13721,income,">50K(9), <=50K(6)",15
+1372,13722,race,White(15),15
+1373,13731,income,">50K(7), <=50K(5)",12
+1373,13732,race,"White(11), Black(1)",12
+1374,13741,income,">50K(14), <=50K(1)",15
+1374,13742,race,"White(12), Black(2), Amer-Indian-Eskimo(1)",15
+1375,13751,income,">50K(9), <=50K(2)",11
+1375,13752,race,White(11),11
+1376,13761,income,"<=50K(12), >50K(4)",16
+1376,13762,race,"White(12), Black(3), Amer-Indian-Eskimo(1)",16
+1377,13771,income,"<=50K(6), >50K(4)",10
+1377,13772,race,"White(8), Black(2)",10
+1378,13781,income,"<=50K(12), >50K(3)",15
+1378,13782,race,White(15),15
+1379,13791,income,"<=50K(9), >50K(3)",12
+1379,13792,race,"White(10), Black(2)",12
+1380,13801,income,">50K(14), <=50K(9)",23
+1380,13802,race,"White(21), Black(2)",23
+1381,13811,income,">50K(7), <=50K(3)",10
+1381,13812,race,"White(9), Black(1)",10
+1382,13821,income,"<=50K(6), >50K(4)",10
+1382,13822,race,"White(9), Black(1)",10
+1383,13831,income,">50K(13), <=50K(5)",18
+1383,13832,race,White(18),18
+1384,13841,income,">50K(8), <=50K(6)",14
+1384,13842,race,White(14),14
+1385,13851,income,">50K(10), <=50K(3)",13
+1385,13852,race,"White(10), Black(3)",13
+1386,13861,income,">50K(15), <=50K(7)",22
+1386,13862,race,"White(18), Black(3), Asian-Pac-Islander(1)",22
+1387,13871,income,>50K(10),10
+1387,13872,race,White(10),10
+1388,13881,income,"<=50K(6), >50K(4)",10
+1388,13882,race,White(10),10
+1389,13891,income,">50K(11), <=50K(2)",13
+1389,13892,race,"Asian-Pac-Islander(11), White(2)",13
+1390,13901,income,">50K(10), <=50K(4)",14
+1390,13902,race,"Asian-Pac-Islander(9), White(4), Other(1)",14
+1391,13911,income,">50K(13), <=50K(5)",18
+1391,13912,race,"Asian-Pac-Islander(11), White(7)",18
+1392,13921,income,">50K(8), <=50K(2)",10
+1392,13922,race,"White(9), Other(1)",10
+1393,13931,income,"<=50K(6), >50K(4)",10
+1393,13932,race,"White(6), Asian-Pac-Islander(4)",10
+1394,13941,income,">50K(9), <=50K(7)",16
+1394,13942,race,"White(10), Asian-Pac-Islander(3), Black(3)",16
+1395,13951,income,">50K(10), <=50K(10)",20
+1395,13952,race,"White(16), Black(4)",20
+1396,13961,income,"<=50K(14), >50K(6)",20
+1396,13962,race,"White(19), Black(1)",20
+1397,13971,income,"<=50K(12), >50K(6)",18
+1397,13972,race,White(18),18
+1398,13981,income,">50K(10), <=50K(6)",16
+1398,13982,race,White(16),16
+1399,13991,income,"<=50K(8), >50K(5)",13
+1399,13992,race,"White(10), Asian-Pac-Islander(1), Black(1), Amer-Indian-Eskimo(1)",13
+1400,14001,income,"<=50K(11), >50K(2)",13
+1400,14002,race,"White(12), Amer-Indian-Eskimo(1)",13
+1401,14011,income,"<=50K(10), >50K(8)",18
+1401,14012,race,"White(16), Black(2)",18
+1402,14021,income,"<=50K(13), >50K(4)",17
+1402,14022,race,"White(16), Black(1)",17
+1403,14031,income,">50K(8), <=50K(8)",16
+1403,14032,race,"White(14), Black(2)",16
+1404,14041,income,"<=50K(12), >50K(5)",17
+1404,14042,race,White(17),17
+1405,14051,income,">50K(6), <=50K(5)",11
+1405,14052,race,White(11),11
+1406,14061,income,"<=50K(16), >50K(1)",17
+1406,14062,race,"White(11), Black(5), Asian-Pac-Islander(1)",17
+1407,14071,income,">50K(12), <=50K(6)",18
+1407,14072,race,White(18),18
+1408,14081,income,">50K(10), <=50K(4)",14
+1408,14082,race,White(14),14
+1409,14091,income,"<=50K(6), >50K(4)",10
+1409,14092,race,"White(7), Black(3)",10
+1410,14101,income,">50K(6), <=50K(4)",10
+1410,14102,race,White(10),10
+1411,14111,income,"<=50K(7), >50K(3)",10
+1411,14112,race,"White(7), Black(2), Asian-Pac-Islander(1)",10
+1412,14121,income,"<=50K(8), >50K(4)",12
+1412,14122,race,White(12),12
+1413,14131,income,"<=50K(12), >50K(5)",17
+1413,14132,race,"White(16), Asian-Pac-Islander(1)",17
+1414,14141,income,">50K(9), <=50K(7)",16
+1414,14142,race,"White(13), Black(2), Amer-Indian-Eskimo(1)",16
+1415,14151,income,"<=50K(9), >50K(6)",15
+1415,14152,race,"White(13), Black(2)",15
+1416,14161,income,"<=50K(10), >50K(1)",11
+1416,14162,race,White(11),11
+1417,14171,income,">50K(9), <=50K(4)",13
+1417,14172,race,White(13),13
+1418,14181,income,">50K(9), <=50K(5)",14
+1418,14182,race,White(14),14
+1419,14191,income,"<=50K(13), >50K(6)",19
+1419,14192,race,"White(18), Black(1)",19
+1420,14201,income,"<=50K(11), >50K(9)",20
+1420,14202,race,"White(17), Black(3)",20
+1421,14211,income,">50K(10), <=50K(9)",19
+1421,14212,race,"White(15), Black(3), Asian-Pac-Islander(1)",19
+1422,14221,income,">50K(13), <=50K(3)",16
+1422,14222,race,"White(13), Black(2), Asian-Pac-Islander(1)",16
+1423,14231,income,">50K(9), <=50K(4)",13
+1423,14232,race,White(13),13
+1424,14241,income,">50K(8), <=50K(2)",10
+1424,14242,race,White(10),10
+1425,14251,income,"<=50K(10), >50K(3)",13
+1425,14252,race,"White(11), Black(2)",13
+1426,14261,income,"<=50K(10), >50K(6)",16
+1426,14262,race,"White(14), Black(2)",16
+1427,14271,income,">50K(8), <=50K(6)",14
+1427,14272,race,White(14),14
+1428,14281,income,">50K(9), <=50K(4)",13
+1428,14282,race,"White(12), Black(1)",13
+1429,14291,income,">50K(10), <=50K(1)",11
+1429,14292,race,"White(9), Black(2)",11
+1430,14301,income,"<=50K(6), >50K(4)",10
+1430,14302,race,"Asian-Pac-Islander(6), White(2), Other(1), Black(1)",10
+1431,14311,income,"<=50K(6), >50K(4)",10
+1431,14312,race,"Asian-Pac-Islander(8), White(2)",10
+1432,14321,income,"<=50K(7), >50K(3)",10
+1432,14322,race,"White(9), Asian-Pac-Islander(1)",10
+1433,14331,income,"<=50K(7), >50K(4)",11
+1433,14332,race,"White(8), Black(2), Asian-Pac-Islander(1)",11
+1434,14341,income,"<=50K(13), >50K(6)",19
+1434,14342,race,"White(15), Asian-Pac-Islander(3), Black(1)",19
