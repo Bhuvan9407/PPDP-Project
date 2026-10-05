@@ -1,0 +1,29 @@
+class_id,SID,SA,cell,cell_record_count
+1,00011,income,"<=50K(193), >50K(2)",195
+1,00012,race,"White(139), Black(32), Asian-Pac-Islander(12), Other(8), Amer-Indian-Eskimo(4)",195
+2,00021,income,"<=50K(582), >50K(41)",623
+2,00022,race,"White(549), Black(31), Other(22), Asian-Pac-Islander(15), Amer-Indian-Eskimo(6)",623
+3,00031,income,"<=50K(596), >50K(88)",684
+3,00032,race,"White(550), Black(100), Asian-Pac-Islander(17), Amer-Indian-Eskimo(12), Other(5)",684
+4,00041,income,"<=50K(806), >50K(388)",1194
+4,00042,race,"White(1076), Black(68), Asian-Pac-Islander(39), Other(6), Amer-Indian-Eskimo(5)",1194
+5,00051,income,"<=50K(1259), >50K(395)",1654
+5,00052,race,"White(1408), Black(140), Asian-Pac-Islander(90), Other(9), Amer-Indian-Eskimo(7)",1654
+6,00061,income,">50K(2030), <=50K(1680)",3710
+6,00062,race,"White(3348), Asian-Pac-Islander(179), Black(158), Other(13), Amer-Indian-Eskimo(12)",3710
+7,00071,income,">50K(75), <=50K(64)",139
+7,00072,race,"White(123), Black(9), Asian-Pac-Islander(4), Amer-Indian-Eskimo(3)",139
+8,00081,income,">50K(465), <=50K(119)",584
+8,00082,race,"White(529), Asian-Pac-Islander(44), Black(8), Other(2), Amer-Indian-Eskimo(1)",584
+9,00091,income,"<=50K(292), >50K(3)",295
+9,00092,race,"White(207), Black(69), Asian-Pac-Islander(8), Other(8), Amer-Indian-Eskimo(3)",295
+10,00101,income,"<=50K(655), >50K(62)",717
+10,00102,race,"White(610), Black(86), Amer-Indian-Eskimo(10), Asian-Pac-Islander(7), Other(4)",717
+11,00111,income,"<=50K(384), >50K(6)",390
+11,00112,race,"White(306), Black(70), Asian-Pac-Islander(7), Other(4), Amer-Indian-Eskimo(3)",390
+12,00121,income,"<=50K(675), >50K(57)",732
+12,00122,race,"White(627), Black(77), Amer-Indian-Eskimo(12), Asian-Pac-Islander(8), Other(8)",732
+13,00131,income,"<=50K(4166), >50K(315)",4481
+13,00132,race,"White(3605), Black(686), Asian-Pac-Islander(103), Amer-Indian-Eskimo(53), Other(34)",4481
+14,00141,income,"<=50K(6652), >50K(2079)",8731
+14,00142,race,"White(7679), Black(706), Asian-Pac-Islander(192), Amer-Indian-Eskimo(104), Other(50)",8731
