@@ -1,0 +1,51 @@
+{
+  "run_id": 13,
+  "dataset": "Adult",
+  "method": "ARX",
+  "seed": 1,
+  "k": 10,
+  "sa_count": 2,
+  "sensitive_attributes": [
+    "income",
+    "race"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "sex",
+    "native.country"
+  ],
+  "numeric_qids": [
+    "age",
+    "education.num"
+  ],
+  "categorical_qids": [
+    "workclass",
+    "marital.status",
+    "occupation",
+    "sex",
+    "native.country"
+  ],
+  "clean_rows": 30162,
+  "training_rows": 24129,
+  "test_rows": 6033,
+  "arx_version": "3.9.2",
+  "suppression_limit": 0.0,
+  "optimization": "global_optimum",
+  "hierarchy_dir": "/content/PPDP-Project/hierarchies/adult_arx_run0013",
+  "input_file": "/content/PPDP-Project/methods/arx/adult_arx_run0013_input.csv",
+  "output_file": "/content/PPDP-Project/methods/arx/adult_arx_run0013_output.csv",
+  "equivalence_classes": 32,
+  "minimum_class_size": 13,
+  "maximum_class_size": 5418,
+  "mean_class_size": 754.03125,
+  "discernibility_metric": 63012443,
+  "information_loss_metric": null,
+  "sensitive_attribute_handling": "income and race retained unchanged and evaluated over ARX QID classes.",
+  "source_row_handling": "_source_row retained as an insensitive audit attribute.",
+  "correlation_audit": "not_applicable",
+  "qid_permutation": "none"
+}

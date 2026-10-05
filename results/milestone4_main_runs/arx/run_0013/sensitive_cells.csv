@@ -1,0 +1,65 @@
+class_id,SID,SA,cell,cell_record_count
+1,00011,income,<=50K(13),13
+1,00012,race,"White(10), Asian-Pac-Islander(2), Black(1)",13
+2,00021,income,<=50K(26),26
+2,00022,race,"White(19), Black(3), Other(2), Asian-Pac-Islander(2)",26
+3,00031,income,<=50K(31),31
+3,00032,race,"White(22), Black(6), Other(2), Asian-Pac-Islander(1)",31
+4,00041,income,"<=50K(78), >50K(4)",82
+4,00042,race,"White(71), Other(5), Black(4), Asian-Pac-Islander(1), Amer-Indian-Eskimo(1)",82
+5,00051,income,"<=50K(53), >50K(2)",55
+5,00052,race,"White(42), Asian-Pac-Islander(6), Black(5), Other(2)",55
+6,00061,income,"<=50K(167), >50K(10)",177
+6,00062,race,"White(153), Black(9), Other(8), Asian-Pac-Islander(5), Amer-Indian-Eskimo(2)",177
+7,00071,income,<=50K(107),107
+7,00072,race,"White(76), Black(22), Other(5), Amer-Indian-Eskimo(3), Asian-Pac-Islander(1)",107
+8,00081,income,"<=50K(313), >50K(26)",339
+8,00082,race,"White(302), Black(18), Other(9), Asian-Pac-Islander(6), Amer-Indian-Eskimo(4)",339
+9,00091,income,"<=50K(91), >50K(4)",95
+9,00092,race,"White(66), Black(24), Asian-Pac-Islander(3), Other(2)",95
+10,00101,income,"<=50K(253), >50K(18)",271
+10,00102,race,"White(222), Black(40), Asian-Pac-Islander(4), Amer-Indian-Eskimo(3), Other(2)",271
+11,00111,income,"<=50K(182), >50K(2)",184
+11,00112,race,"White(133), Black(43), Amer-Indian-Eskimo(4), Other(2), Asian-Pac-Islander(2)",184
+12,00121,income,"<=50K(419), >50K(46)",465
+12,00122,race,"White(398), Black(50), Amer-Indian-Eskimo(9), Asian-Pac-Islander(5), Other(3)",465
+13,00131,income,"<=50K(278), >50K(6)",284
+13,00132,race,"White(224), Black(48), Asian-Pac-Islander(6), Other(3), Amer-Indian-Eskimo(3)",284
+14,00141,income,"<=50K(526), >50K(37)",563
+14,00142,race,"White(490), Black(52), Amer-Indian-Eskimo(9), Asian-Pac-Islander(8), Other(4)",563
+15,00151,income,"<=50K(95), >50K(2)",97
+15,00152,race,"White(79), Black(15), Other(2), Asian-Pac-Islander(1)",97
+16,00161,income,"<=50K(187), >50K(21)",208
+16,00162,race,"White(170), Black(26), Other(7), Amer-Indian-Eskimo(4), Asian-Pac-Islander(1)",208
+17,00171,income,"<=50K(2332), >50K(162)",2494
+17,00172,race,"White(2003), Black(392), Asian-Pac-Islander(55), Amer-Indian-Eskimo(26), Other(18)",2494
+18,00181,income,"<=50K(4295), >50K(1123)",5418
+18,00182,race,"White(4759), Black(454), Asian-Pac-Islander(103), Amer-Indian-Eskimo(66), Other(36)",5418
+19,00191,income,"<=50K(1856), >50K(142)",1998
+19,00192,race,"White(1610), Black(293), Asian-Pac-Islander(53), Amer-Indian-Eskimo(22), Other(20)",1998
+20,00201,income,"<=50K(2370), >50K(921)",3291
+20,00202,race,"White(2887), Black(268), Asian-Pac-Islander(86), Amer-Indian-Eskimo(31), Other(19)",3291
+21,00211,income,"<=50K(318), >50K(50)",368
+21,00212,race,"White(295), Black(53), Asian-Pac-Islander(10), Amer-Indian-Eskimo(7), Other(3)",368
+22,00221,income,"<=50K(459), >50K(217)",676
+22,00222,race,"White(610), Black(37), Asian-Pac-Islander(21), Amer-Indian-Eskimo(6), Other(2)",676
+23,00231,income,"<=50K(278), >50K(46)",324
+23,00232,race,"White(265), Black(43), Asian-Pac-Islander(9), Amer-Indian-Eskimo(5), Other(2)",324
+24,00241,income,"<=50K(329), >50K(164)",493
+24,00242,race,"White(436), Black(35), Asian-Pac-Islander(16), Other(4), Amer-Indian-Eskimo(2)",493
+25,00251,income,"<=50K(957), >50K(252)",1209
+25,00252,race,"White(998), Black(124), Asian-Pac-Islander(75), Other(6), Amer-Indian-Eskimo(6)",1209
+26,00261,income,">50K(1481), <=50K(1368)",2849
+26,00262,race,"White(2594), Asian-Pac-Islander(120), Black(114), Other(12), Amer-Indian-Eskimo(9)",2849
+27,00271,income,"<=50K(265), >50K(132)",397
+27,00272,race,"White(355), Black(26), Asian-Pac-Islander(12), Other(2), Amer-Indian-Eskimo(2)",397
+28,00281,income,">50K(599), <=50K(293)",892
+28,00282,race,"White(798), Asian-Pac-Islander(52), Black(38), Other(3), Amer-Indian-Eskimo(1)",892
+29,00291,income,"<=50K(34), >50K(31)",65
+29,00292,race,"White(57), Asian-Pac-Islander(4), Black(3), Amer-Indian-Eskimo(1)",65
+30,00301,income,">50K(278), <=50K(72)",350
+30,00302,race,"White(316), Asian-Pac-Islander(24), Black(7), Other(2), Amer-Indian-Eskimo(1)",350
+31,00311,income,">50K(39), <=50K(24)",63
+31,00312,race,"White(57), Black(4), Amer-Indian-Eskimo(2)",63
+32,00321,income,">50K(191), <=50K(54)",245
+32,00322,race,"White(218), Asian-Pac-Islander(23), Black(4)",245
