@@ -1,0 +1,28 @@
+{
+  "run_id": 51,
+  "dataset": "Diabetes",
+  "sa_count": 3,
+  "sensitive_attributes": [
+    "diag_1",
+    "diag_2",
+    "diag_3"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "method": "ARX",
+  "seed": 3,
+  "k": 10,
+  "clean_dataset": "/content/PPDP-Project/data/processed/diabetes_clean.csv",
+  "clean_rows": 98053,
+  "train_rows": 78442,
+  "test_rows": 19611,
+  "arx_version": "3.9.2",
+  "suppression_limit": 0.0,
+  "optimization": "global_optimum",
+  "hierarchy_dir": "/content/PPDP-Project/hierarchies/diabetes_arx_run51",
+  "input_file": "/content/PPDP-Project/methods/arx/diabetes_arx_run51_input.csv",
+  "output_file": "/content/PPDP-Project/methods/arx/diabetes_arx_run51_output.csv"
+}
