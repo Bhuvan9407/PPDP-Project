@@ -1,0 +1,42 @@
+{
+  "run_id": 6,
+  "dataset": "Adult",
+  "method": "ARX",
+  "seed": 3,
+  "project_k_reference": 10,
+  "sa_count": 1,
+  "sensitive_attributes": [
+    "income"
+  ],
+  "qid_columns": [
+    "age",
+    "workclass",
+    "education.num",
+    "marital.status",
+    "occupation",
+    "race",
+    "sex",
+    "native.country"
+  ],
+  "clean_rows": 30162,
+  "training_rows": 24129,
+  "test_rows": 6033,
+  "output_rows": 24129,
+  "equivalence_classes": 32,
+  "minimum_class_size": 11,
+  "maximum_class_size": 5340,
+  "mean_class_size": 754.03125,
+  "discernibility_metric": 62460631,
+  "information_loss_metric": null,
+  "arx_runtime_seconds": 5.996007847000328,
+  "privacy_checks": 32,
+  "sensitive_cells": 32,
+  "sid_links": 24129,
+  "correlation_records": 1,
+  "qid_grouping_records": 32,
+  "bqa_rows": 24129,
+  "permutation_records": 1,
+  "k_anonymity": "PASS",
+  "source_row_integrity": "PASS",
+  "sensitive_attribute_preservation": "PASS"
+}
