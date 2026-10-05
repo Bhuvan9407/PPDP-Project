@@ -1,0 +1,2 @@
+run_id,method,action,reason,records_affected
+30,Mondrian,none,Mondrian does not apply the KC-Slice QID permutation step.,0

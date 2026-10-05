@@ -1,0 +1,61 @@
+{
+  "run_id": 30,
+  "dataset": "Diabetes",
+  "method": "Mondrian",
+  "seed": 3,
+  "project_k_reference": 10,
+  "sa_count": 1,
+  "sensitive_attributes": [
+    "diag_1"
+  ],
+  "qid_columns": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "numeric_qids": [],
+  "categorical_qids": [
+    "race",
+    "gender",
+    "age"
+  ],
+  "training_rows": 78442,
+  "test_rows": 19611,
+  "equivalence_classes": 40,
+  "minimum_class_size": 11,
+  "maximum_class_size": 10571,
+  "mean_class_size": 1961.05,
+  "discernibility_metric": 508220280,
+  "ncp_percent": 5.970464613156028,
+  "mondrian_runtime_seconds": 0.30922436714172363,
+  "wall_runtime_seconds": 1.0818996500001958,
+  "mondrian_variant": "strict upstream qiyuangong/Mondrian",
+  "sensitive_attribute_handling": "Mondrian equivalence classes are generated from QIDs; diag_1 is retained and evaluated over those same classes.",
+  "category_orders": {
+    "race": [
+      "Caucasian",
+      "AfricanAmerican",
+      "Other",
+      "Asian",
+      "Hispanic"
+    ],
+    "gender": [
+      "Female",
+      "Male"
+    ],
+    "age": [
+      "[10-20)",
+      "[20-30)",
+      "[30-40)",
+      "[40-50)",
+      "[60-70)",
+      "[70-80)",
+      "[80-90)",
+      "[90-100)",
+      "[50-60)",
+      "[0-10)"
+    ]
+  },
+  "correlation_audit": "not_applicable",
+  "qid_permutation": "none"
+}
