@@ -1,0 +1,15 @@
+class_id,class_size,grouping_method,age,workclass,education.num,marital.status,occupation,sex
+1,195,ARX QID equivalence class,*,*,1-4,*,*,Female
+2,623,ARX QID equivalence class,*,*,1-4,*,*,Male
+3,684,ARX QID equivalence class,*,*,11-12,*,*,Female
+4,1194,ARX QID equivalence class,*,*,11-12,*,*,Male
+5,1654,ARX QID equivalence class,*,*,13-14,*,*,Female
+6,3710,ARX QID equivalence class,*,*,13-14,*,*,Male
+7,139,ARX QID equivalence class,*,*,15-16,*,*,Female
+8,584,ARX QID equivalence class,*,*,15-16,*,*,Male
+9,295,ARX QID equivalence class,*,*,5-6,*,*,Female
+10,717,ARX QID equivalence class,*,*,5-6,*,*,Male
+11,390,ARX QID equivalence class,*,*,7-8,*,*,Female
+12,732,ARX QID equivalence class,*,*,7-8,*,*,Male
+13,4481,ARX QID equivalence class,*,*,9-10,*,*,Female
+14,8731,ARX QID equivalence class,*,*,9-10,*,*,Male
