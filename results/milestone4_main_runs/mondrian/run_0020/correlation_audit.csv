@@ -1,0 +1,2 @@
+run_id,method,status,reason
+20,Mondrian,not_applicable,Mondrian partitioning does not use the KC-Slice QID correlation grouping step.
