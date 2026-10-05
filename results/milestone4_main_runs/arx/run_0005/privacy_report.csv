@@ -1,0 +1,11 @@
+class_id,attribute,class_size,distinct_values,modal_value,modal_count,modal_percent,k_reference,k_anonymity_pass
+1,income,85,2,<=50K,78,91.76470588235294,10,True
+2,income,150,2,<=50K,131,87.33333333333333,10,True
+3,income,241,2,<=50K,207,85.89211618257261,10,True
+4,income,484,2,<=50K,316,65.2892561983471,10,True
+5,income,1106,2,<=50K,1045,94.48462929475588,10,True
+6,income,1134,2,<=50K,902,79.54144620811287,10,True
+7,income,68,2,<=50K,64,94.11764705882354,10,True
+8,income,105,2,<=50K,95,90.47619047619048,10,True
+9,income,6338,2,<=50K,5560,87.72483433259703,10,True
+10,income,14418,2,<=50K,9725,67.45040921070884,10,True

@@ -1,0 +1,11 @@
+class_id,class_size,grouping_method,age,workclass,education.num,marital.status,occupation,race,sex,native.country
+1,85,ARX QID equivalence class,*,*,*,*,*,Amer-Indian-Eskimo,Female,*
+2,150,ARX QID equivalence class,*,*,*,*,*,Amer-Indian-Eskimo,Male,*
+3,241,ARX QID equivalence class,*,*,*,*,*,Asian-Pac-Islander,Female,*
+4,484,ARX QID equivalence class,*,*,*,*,*,Asian-Pac-Islander,Male,*
+5,1106,ARX QID equivalence class,*,*,*,*,*,Black,Female,*
+6,1134,ARX QID equivalence class,*,*,*,*,*,Black,Male,*
+7,68,ARX QID equivalence class,*,*,*,*,*,Other,Female,*
+8,105,ARX QID equivalence class,*,*,*,*,*,Other,Male,*
+9,6338,ARX QID equivalence class,*,*,*,*,*,White,Female,*
+10,14418,ARX QID equivalence class,*,*,*,*,*,White,Male,*
