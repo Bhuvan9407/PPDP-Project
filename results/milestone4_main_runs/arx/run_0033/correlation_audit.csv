@@ -1,0 +1,2 @@
+run_id,method,audit,status,reason
+33,ARX,not_applicable,PASS,ARX performs global anonymization; KC-Slice QID permutation audit is not applicable.

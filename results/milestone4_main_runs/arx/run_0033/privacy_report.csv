@@ -1,0 +1,11 @@
+sid,SA,k,class_size,k_anonymity_pass
+SID_00001,diag_1,10,53,True
+SID_00002,diag_1,10,365,True
+SID_00003,diag_1,10,1204,True
+SID_00004,diag_1,10,2825,True
+SID_00005,diag_1,10,7420,True
+SID_00006,diag_1,10,13356,True
+SID_00007,diag_1,10,17470,True
+SID_00008,diag_1,10,20187,True
+SID_00009,diag_1,10,13408,True
+SID_00010,diag_1,10,2154,True
